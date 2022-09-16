@@ -1,7 +1,6 @@
-# Illuminate
+# Ill MVP Project
 
-This project is the initial MVP version of the application Illuminate which is a revenue and opportunity
-dashboard that is the flagship application of the PolarisIO platform.
+This project is the initial MVP version of the application which is a revenue and opportunity dashboard
 
 
 ## Installation
