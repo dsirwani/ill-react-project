@@ -1,0 +1,10 @@
+{
+  "Select Template": {
+    "origin": [
+      [
+        "src/illuminate/containers/DashboardTemplates/preConfiguredTemplates.tsx",
+        41
+      ]
+    ]
+  }
+}

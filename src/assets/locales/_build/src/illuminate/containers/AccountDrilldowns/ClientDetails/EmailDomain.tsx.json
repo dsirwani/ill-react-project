@@ -1,0 +1,18 @@
+{
+  "Add email domain": {
+    "origin": [
+      [
+        "src/illuminate/containers/AccountDrilldowns/ClientDetails/EmailDomain.tsx",
+        10
+      ]
+    ]
+  },
+  "Allow customers with these email domains to subscribe to this account": {
+    "origin": [
+      [
+        "src/illuminate/containers/AccountDrilldowns/ClientDetails/EmailDomain.tsx",
+        14
+      ]
+    ]
+  }
+}

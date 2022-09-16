@@ -1,0 +1,66 @@
+{
+  "Balance Sheet": {
+    "origin": [
+      [
+        "src/illuminate/containers/AccountDrilldowns/G2KFinancials/index.tsx",
+        25
+      ]
+    ]
+  },
+  "Cash Flows": {
+    "origin": [
+      [
+        "src/illuminate/containers/AccountDrilldowns/G2KFinancials/index.tsx",
+        26
+      ]
+    ]
+  },
+  "Key Metrics": {
+    "origin": [
+      [
+        "src/illuminate/containers/AccountDrilldowns/G2KFinancials/index.tsx",
+        27
+      ]
+    ]
+  },
+  "Income Statements": {
+    "origin": [
+      [
+        "src/illuminate/containers/AccountDrilldowns/G2KFinancials/index.tsx",
+        28
+      ]
+    ]
+  },
+  "Annual": {
+    "origin": [
+      [
+        "src/illuminate/containers/AccountDrilldowns/G2KFinancials/index.tsx",
+        31
+      ]
+    ]
+  },
+  "Quarter": {
+    "origin": [
+      [
+        "src/illuminate/containers/AccountDrilldowns/G2KFinancials/index.tsx",
+        32
+      ]
+    ]
+  },
+  "Report type": {
+    "origin": [
+      [
+        "src/illuminate/containers/AccountDrilldowns/G2KFinancials/index.tsx",
+        38
+      ]
+    ]
+  },
+  "Reporting frequency": {
+    "origin": [
+      [
+        "src/illuminate/containers/AccountDrilldowns/G2KFinancials/index.tsx",
+        48
+      ]
+    ]
+  }
+}

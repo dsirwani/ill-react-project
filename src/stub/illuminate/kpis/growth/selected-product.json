@@ -1,0 +1,280 @@
+{
+	"data": {
+		"unit": null,
+		"summary": [],
+		"items": [
+			{
+				"product": "Petroleum and refining",
+				"product_id": 873045,
+				"sub_category": true,
+				"kpi": [
+					{
+						"fin_data_type": "growth",
+						"drop2": "mom",
+						"drop3": "current month",
+						"variable_type": "percentage",
+						"column": "Month",
+						"period_label": "Dec 2019/Dec 2020",
+						"value": "0.00%"
+					},
+					{
+						"fin_data_type": "growth",
+						"drop2": "qoq",
+						"drop3": "complete",
+						"drop4": "current full quarter",
+						"variable_type": "percentage",
+						"column": "Quarter",
+						"period_label": "Jul 2020 - Sep 2020/Oct 2020 - Dec 2020",
+						"value": "0.00%"
+					},
+					{
+						"fin_data_type": "growth",
+						"drop2": "yoy",
+						"drop3": "calendar",
+						"drop4": "previous year",
+						"variable_type": "percentage",
+						"column": "Calendar Year",
+						"period_label": "2018/2019",
+						"value": "0.00%"
+					},
+					{
+						"fin_data_type": "growth",
+						"drop2": "plan growth",
+						"drop3": "fiscal",
+						"variable_type": "percentage",
+						"column": "Plan",
+						"period_label": "2019/2020",
+						"value": "0.00%"
+					}
+				]
+			},
+			{
+				"product": "ERP for Small and Midsize Enterprise",
+				"product_id": 676441,
+				"sub_category": false,
+				"kpi": [
+					{
+						"fin_data_type": "growth",
+						"drop2": "mom",
+						"drop3": "current month",
+						"variable_type": "percentage",
+						"column": "Month",
+						"period_label": "Dec 2019/Dec 2020",
+						"value": "0.00%"
+					},
+					{
+						"fin_data_type": "growth",
+						"drop2": "qoq",
+						"drop3": "complete",
+						"drop4": "current full quarter",
+						"variable_type": "percentage",
+						"column": "Quarter",
+						"period_label": "Jul 2020 - Sep 2020/Oct 2020 - Dec 2020",
+						"value": "0.00%"
+					},
+					{
+						"fin_data_type": "growth",
+						"drop2": "yoy",
+						"drop3": "calendar",
+						"drop4": "previous year",
+						"variable_type": "percentage",
+						"column": "Calendar Year",
+						"period_label": "2018/2019",
+						"value": "0.00%"
+					},
+					{
+						"fin_data_type": "growth",
+						"drop2": "plan growth",
+						"drop3": "fiscal",
+						"variable_type": "percentage",
+						"column": "Plan",
+						"period_label": "2019/2020",
+						"value": "0.00%"
+					}
+				]
+			},
+			{
+				"product": "Accounting and Financial Close",
+				"product_id": 661562,
+				"sub_category": false,
+				"kpi": [
+					{
+						"fin_data_type": "growth",
+						"drop2": "mom",
+						"drop3": "current month",
+						"variable_type": "percentage",
+						"column": "Month",
+						"period_label": "Dec 2019/Dec 2020",
+						"value": "0.00%"
+					},
+					{
+						"fin_data_type": "growth",
+						"drop2": "qoq",
+						"drop3": "complete",
+						"drop4": "current full quarter",
+						"variable_type": "percentage",
+						"column": "Quarter",
+						"period_label": "Jul 2020 - Sep 2020/Oct 2020 - Dec 2020",
+						"value": "0.00%"
+					},
+					{
+						"fin_data_type": "growth",
+						"drop2": "yoy",
+						"drop3": "calendar",
+						"drop4": "previous year",
+						"variable_type": "percentage",
+						"column": "Calendar Year",
+						"period_label": "2018/2019",
+						"value": "0.00%"
+					},
+					{
+						"fin_data_type": "growth",
+						"drop2": "plan growth",
+						"drop3": "fiscal",
+						"variable_type": "percentage",
+						"column": "Plan",
+						"period_label": "2019/2020",
+						"value": "0.00%"
+					}
+				]
+			},
+			{
+				"product": "Accts Receivable, Billing and Revenue Mgmt",
+				"product_id": 363966,
+				"sub_category": false,
+				"kpi": [
+					{
+						"fin_data_type": "growth",
+						"drop2": "mom",
+						"drop3": "current month",
+						"variable_type": "percentage",
+						"column": "Month",
+						"period_label": "Dec 2019/Dec 2020",
+						"value": "0.00%"
+					},
+					{
+						"fin_data_type": "growth",
+						"drop2": "qoq",
+						"drop3": "complete",
+						"drop4": "current full quarter",
+						"variable_type": "percentage",
+						"column": "Quarter",
+						"period_label": "Jul 2020 - Sep 2020/Oct 2020 - Dec 2020",
+						"value": "0.00%"
+					},
+					{
+						"fin_data_type": "growth",
+						"drop2": "yoy",
+						"drop3": "calendar",
+						"drop4": "previous year",
+						"variable_type": "percentage",
+						"column": "Calendar Year",
+						"period_label": "2018/2019",
+						"value": "0.00%"
+					},
+					{
+						"fin_data_type": "growth",
+						"drop2": "plan growth",
+						"drop3": "fiscal",
+						"variable_type": "percentage",
+						"column": "Plan",
+						"period_label": "2019/2020",
+						"value": "0.00%"
+					}
+				]
+			},
+			{
+				"product": "SAP S/4HANA",
+				"product_id": 183322,
+				"sub_category": false,
+				"kpi": [
+					{
+						"fin_data_type": "growth",
+						"drop2": "mom",
+						"drop3": "current month",
+						"variable_type": "percentage",
+						"column": "Month",
+						"period_label": "Dec 2019/Dec 2020",
+						"value": "0.00%"
+					},
+					{
+						"fin_data_type": "growth",
+						"drop2": "qoq",
+						"drop3": "complete",
+						"drop4": "current full quarter",
+						"variable_type": "percentage",
+						"column": "Quarter",
+						"period_label": "Jul 2020 - Sep 2020/Oct 2020 - Dec 2020",
+						"value": "0.00%"
+					},
+					{
+						"fin_data_type": "growth",
+						"drop2": "yoy",
+						"drop3": "calendar",
+						"drop4": "previous year",
+						"variable_type": "percentage",
+						"column": "Calendar Year",
+						"period_label": "2018/2019",
+						"value": "0.00%"
+					},
+					{
+						"fin_data_type": "growth",
+						"drop2": "plan growth",
+						"drop3": "fiscal",
+						"variable_type": "percentage",
+						"column": "Plan",
+						"period_label": "2019/2020",
+						"value": "0.00%"
+					}
+				]
+			},
+			{
+				"product": "Treasury Management",
+				"product_id": 584732,
+				"sub_category": false,
+				"kpi": [
+					{
+						"fin_data_type": "growth",
+						"drop2": "mom",
+						"drop3": "current month",
+						"variable_type": "percentage",
+						"column": "Month",
+						"period_label": "Dec 2019/Dec 2020",
+						"value": "0.00%"
+					},
+					{
+						"fin_data_type": "growth",
+						"drop2": "qoq",
+						"drop3": "complete",
+						"drop4": "current full quarter",
+						"variable_type": "percentage",
+						"column": "Quarter",
+						"period_label": "Jul 2020 - Sep 2020/Oct 2020 - Dec 2020",
+						"value": "0.00%"
+					},
+					{
+						"fin_data_type": "growth",
+						"drop2": "yoy",
+						"drop3": "calendar",
+						"drop4": "previous year",
+						"variable_type": "percentage",
+						"column": "Calendar Year",
+						"period_label": "2018/2019",
+						"value": "0.00%"
+					},
+					{
+						"fin_data_type": "growth",
+						"drop2": "plan growth",
+						"drop3": "fiscal",
+						"variable_type": "percentage",
+						"column": "Plan",
+						"period_label": "2019/2020",
+						"value": "0.00%"
+					}
+				]
+			}
+		],
+		"product_id": 752912,
+		"next": null
+	}
+}

@@ -1,0 +1,74 @@
+{
+  "Company Name": {
+    "origin": [
+      [
+        "src/illuminate/containers/AccountDrilldowns/AccountDetails/TabsFolder/nameMatchingDialog.tsx",
+        108
+      ]
+    ]
+  },
+  "Method": {
+    "origin": [
+      [
+        "src/illuminate/containers/AccountDrilldowns/AccountDetails/TabsFolder/nameMatchingDialog.tsx",
+        109
+      ]
+    ]
+  },
+  "Confidence": {
+    "origin": [
+      [
+        "src/illuminate/containers/AccountDrilldowns/AccountDetails/TabsFolder/nameMatchingDialog.tsx",
+        110
+      ]
+    ]
+  },
+  "Match Selected": {
+    "origin": [
+      [
+        "src/illuminate/containers/AccountDrilldowns/AccountDetails/TabsFolder/nameMatchingDialog.tsx",
+        111
+      ]
+    ]
+  },
+  " Manual Matching": {
+    "origin": [
+      [
+        "src/illuminate/containers/AccountDrilldowns/AccountDetails/TabsFolder/nameMatchingDialog.tsx",
+        117
+      ]
+    ]
+  },
+  "Clear Match": {
+    "origin": [
+      [
+        "src/illuminate/containers/AccountDrilldowns/AccountDetails/TabsFolder/nameMatchingDialog.tsx",
+        146
+      ]
+    ]
+  },
+  "Search companies by name": {
+    "origin": [
+      [
+        "src/illuminate/containers/AccountDrilldowns/AccountDetails/TabsFolder/nameMatchingDialog.tsx",
+        151
+      ]
+    ]
+  },
+  "Cancel": {
+    "origin": [
+      [
+        "src/illuminate/containers/AccountDrilldowns/AccountDetails/TabsFolder/nameMatchingDialog.tsx",
+        165
+      ]
+    ]
+  },
+  "Submit": {
+    "origin": [
+      [
+        "src/illuminate/containers/AccountDrilldowns/AccountDetails/TabsFolder/nameMatchingDialog.tsx",
+        169
+      ]
+    ]
+  }
+}

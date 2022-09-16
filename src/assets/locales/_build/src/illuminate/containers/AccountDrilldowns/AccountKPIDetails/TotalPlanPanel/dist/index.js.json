@@ -1,0 +1,26 @@
+{
+  "PRODUCT CATEGORIES": {
+    "origin": [
+      [
+        "src/illuminate/containers/AccountDrilldowns/AccountKPIDetails/TotalPlanPanel/dist/index.js",
+        71
+      ]
+    ]
+  },
+  "BUYING CENTERS": {
+    "origin": [
+      [
+        "src/illuminate/containers/AccountDrilldowns/AccountKPIDetails/TotalPlanPanel/dist/index.js",
+        73
+      ]
+    ]
+  },
+  "Plan Totals": {
+    "origin": [
+      [
+        "src/illuminate/containers/AccountDrilldowns/AccountKPIDetails/TotalPlanPanel/dist/index.js",
+        87
+      ]
+    ]
+  }
+}

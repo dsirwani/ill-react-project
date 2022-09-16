@@ -1,0 +1,13 @@
+{
+  "AWS_COGNITO_CONFIG": {
+    "REGION": "us-east-1",
+    "USER_POOL": "us-east-1_A3oUnes46",
+    "USER_POOL_BASE_URI": "https://auth.pioxdev.com",
+    "CLIENT_ID": "5ebv2uhueqf5d2nis733ujo580",
+    "TOKEN_SCOPES": ["openid", "email", "profile"]
+  },
+  "AWS_API_GATEWAY_CONFIG": {
+    "API_URL": "api.pioxdev.com"
+  },
+  "VERSION": "0.0.1"
+}

@@ -1,0 +1,10 @@
+{
+  "Reporting period": {
+    "origin": [
+      [
+        "src/illuminate/containers/AccountDrilldowns/G2KFinancials/reportingPeriod.tsx",
+        31
+      ]
+    ]
+  }
+}

@@ -1,0 +1,1036 @@
+msgid ""
+msgstr ""
+"POT-Creation-Date: 2020-05-29 21:49+0530\n"
+"Mime-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: @lingui/cli\n"
+"Language: ar\n"
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Plural-Forms: \n"
+
+#: src/illuminate/containers/AccountDrilldowns/LegalEntities/index.tsx:150
+msgid "\tCompany Headquarters"
+msgstr ""
+
+#: src/illuminate/components/AccountFilterBar/index.tsx:104
+msgid "  ADD FILTER"
+msgstr ""
+
+#: src/illuminate/containers/AccountDrilldowns/AccountDetails/TabsFolder/nameMatchingDialog.tsx:117
+msgid " Manual Matching"
+msgstr "المطابقة اليدوية"
+
+#: src/illuminate/containers/AccountDrilldowns/UserManagement/index.tsx:237
+msgid "ADD"
+msgstr "أضف"
+
+#: src/common/containers/RefactoredDashboard/SideBar/Footer.tsx:14
+#: src/illuminate/components/Footer/index.tsx:28
+msgid "ALL RIGHTS RESERVED"
+msgstr "كل الحقوق محفوظة"
+
+#: src/illuminate/containers/DashboardFilters/filterCriteria.tsx:24
+msgid "AND"
+msgstr "أيضا"
+
+#: src/containers/Upload/index.tsx:107
+#~ msgid "API error"
+#~ msgstr "خطأ API"
+
+#: src/common/components/PrivacyPolicyModalUpdate/index.tsx:50
+msgid "Accept"
+msgstr "قبول"
+
+#: src/common/containers/Dashboard/index.tsx:165
+msgid "Account Management"
+msgstr "ادارة الحساب"
+
+#: src/illuminate/containers/AccountDrilldowns/UserManagement/index.tsx:100
+msgid "Account Manager"
+msgstr "إدارة حساب المستخدم"
+
+#: src/illuminate/containers/AccountDrilldowns/UserManagement/index.tsx:200
+msgid "Account Membership"
+msgstr "عضوية الحساب"
+
+#: src/illuminate/containers/AccountDrilldowns/AccountDetails/TabsFolder/ProfileComponent.tsx:55
+msgid "Account Name"
+msgstr "أسم الحساب"
+
+#: src/containers/Upload/index.tsx:75
+#~ msgid "Account Revenue"
+#~ msgstr "إيرادات الحساب"
+
+#: src/illuminate/containers/AccountDrilldowns/AccountDetails/TabsFolder/UsersTable.tsx:59
+msgid "Add People"
+msgstr "أضف أشخاصا"
+
+#: src/illuminate/containers/AccountDrilldowns/AccountDetails/TabsFolder/EmailDomain.tsx:35
+#: src/illuminate/containers/AccountDrilldowns/ClientDetails/EmailDomain.tsx:10
+msgid "Add email domain"
+msgstr "أضف مجال البريد الإلكتروني"
+
+#: src/illuminate/containers/DashboardFilters/index.tsx:168
+msgid "Add filter criteria"
+msgstr "أضف معايير التصفية"
+
+#: src/illuminate/containers/AccountDrilldowns/UserManagement/index.tsx:101
+msgid "Administrator"
+msgstr "مدير"
+
+#: src/illuminate/containers/AccountDrilldowns/LegalEntities/index.tsx:71
+msgid "Alias"
+msgstr "الاسم المستعار"
+
+#: src/illuminate/containers/AccountDrilldowns/UserManagement/index.tsx:218
+msgid "All Accounts"
+msgstr "حسابات"
+
+#: src/illuminate/containers/AccountDrilldowns/UserManagement/index.tsx:210
+msgid "All accounts"
+msgstr "حسابات"
+
+#: src/illuminate/containers/AccountDrilldowns/AccountDetails/TabsFolder/EmailDomain.tsx:16
+#: src/illuminate/containers/AccountDrilldowns/ClientDetails/EmailDomain.tsx:14
+msgid "Allow customers with these email domains to subscribe to this account"
+msgstr "السماح للعملاء الذين لديهم مجالات البريد الإلكتروني هذه بالاشتراك في هذا الحساب"
+
+#: src/illuminate/containers/AccountDrilldowns/G2KFinancials/index.tsx:31
+msgid "Annual"
+msgstr "سنوي"
+
+#: src/illuminate/components/AccountsView/AccountCard/index.tsx:62
+#: src/illuminate/components/AccountsView/ListView/AccountRowDetails/index.tsx:36
+msgid "Application Denied"
+msgstr "لقد تم رفض التطبيق"
+
+#: src/illuminate/components/AccountsView/AccountCard/index.tsx:54
+#: src/illuminate/components/AccountsView/ListView/AccountRowDetails/index.tsx:28
+msgid "Application Pending"
+msgstr "التطبيق قيد الانتظار"
+
+#: src/illuminate/containers/DashboardFilters/listFilters.tsx:99
+msgid "Apply Filter"
+msgstr "تطبيق عامل التصفية"
+
+#: src/illuminate/components/AccountsView/AccountCard/index.tsx:69
+#: src/illuminate/components/AccountsView/ListView/AccountRowDetails/index.tsx:44
+msgid "Apply for Membership"
+msgstr "تقدم بطلب العضوية"
+
+#: src/illuminate/containers/AccountDrilldowns/AccountTeam/index.tsx:30
+#: src/illuminate/containers/TeamAccessManagement/dist/index.js:29
+#: src/illuminate/containers/TeamAccessManagement/dist/index.js:30
+#: src/illuminate/containers/TeamAccessManagement/dist/index.js:33
+#: src/illuminate/containers/TeamAccessManagement/index.tsx:28
+#: src/illuminate/containers/TeamAccessManagement/index.tsx:29
+#: src/illuminate/containers/TeamAccessManagement/index.tsx:32
+msgid "Approve"
+msgstr "يوافق"
+
+#: src/illuminate/containers/AccountDrilldowns/AccountData/index.tsx:34
+msgid "April"
+msgstr "أبريل"
+
+#: src/illuminate/containers/AccountDrilldowns/AccountData/index.tsx:38
+msgid "August"
+msgstr "أغسطس"
+
+#: src/illuminate/containers/AccountDrilldowns/AccountKPIDetails/BuyCenterPanel/dist/index.js:73
+#: src/illuminate/containers/AccountDrilldowns/AccountKPIDetails/BuyCenterPanel/index.tsx:57
+#: src/illuminate/containers/AccountDrilldowns/AccountKPIDetails/GrowthPanel/dist/index.js:73
+#: src/illuminate/containers/AccountDrilldowns/AccountKPIDetails/GrowthPanel/index.tsx:57
+#: src/illuminate/containers/AccountDrilldowns/AccountKPIDetails/PGIPanel/dist/index.js:73
+#: src/illuminate/containers/AccountDrilldowns/AccountKPIDetails/PGIPanel/index.tsx:57
+#: src/illuminate/containers/AccountDrilldowns/AccountKPIDetails/RevenuePanel/dist/index.js:73
+#: src/illuminate/containers/AccountDrilldowns/AccountKPIDetails/RevenuePanel/index.tsx:57
+#: src/illuminate/containers/AccountDrilldowns/AccountKPIDetails/TotalPlanPanel/dist/index.js:73
+#: src/illuminate/containers/AccountDrilldowns/AccountKPIDetails/TotalPlanPanel/index.tsx:57
+msgid "BUYING CENTERS"
+msgstr "مراكز الشراء"
+
+#: src/illuminate/containers/AccountDrilldowns/G2KFinancials/index.tsx:25
+msgid "Balance Sheet"
+msgstr "ورقة التوازن"
+
+#: src/common/containers/Dashboard/dist/index.js:60
+#: src/common/containers/Dashboard/index.tsx:103
+msgid "Btn.Go"
+msgstr "اذهب"
+
+#: src/common/containers/Dashboard/dist/index.js:62
+#: src/common/containers/Dashboard/index.tsx:112
+#: src/illuminate/containers/AccountDrilldowns/UserManagement/uploadProfilePicture.tsx:63
+#: src/illuminate/containers/Upload/index.tsx:99
+msgid "Btn.Upload"
+msgstr "رفع"
+
+#: src/illuminate/containers/AccountDrilldowns/AccountKPIDetails/BuyCenterPanel/dist/index.js:83
+#: src/illuminate/containers/AccountDrilldowns/AccountKPIDetails/BuyCenterPanel/index.tsx:73
+msgid "Buy Center"
+msgstr "مركز الشراء"
+
+#: src/illuminate/containers/AccountDrilldowns/VisualizationPanel/BuyingCenterEstimates/index.tsx:30
+#: src/illuminate/containers/AccountDrilldowns/VisualizationPanel/BuyingCenterEstimates/index.tsx:38
+msgid "Buying Center Estimates"
+msgstr "تقديرات مركز الشراء"
+
+#: src/common/components/PrivacyPolicyModalUpdate/index.tsx:45
+msgid "By accepting these documents, you agree to these updates."
+msgstr "بقبول هذه المستندات ، فإنك توافق على هذه التحديثات."
+
+#: src/illuminate/components/Footer/index.tsx:15
+#~ msgid "COOKIE POLICY"
+#~ msgstr "سياسة ملفات الارتباط"
+
+#: src/illuminate/components/Footer/index.tsx:15
+msgid "COOKIE PREFERENCE"
+msgstr "تفضيلات ملفات تعريف الارتباط"
+
+#: src/illuminate/containers/AccountDrilldowns/AccountData/accountDataTable.tsx:43
+msgid "CSV Product Identifier"
+msgstr "معرّف منتج CSV"
+
+#: src/illuminate/containers/AccountDrilldowns/VisualizationPanel/ControlPanel/index.tsx:12
+msgid "Calendar"
+msgstr "التقويم"
+
+#: src/containers/AccountDrilldowns/VisualizationPanel/ControlPanel/index.tsx:22
+#~ msgid "Calendar Year"
+#~ msgstr "تقويم سنوي"
+
+#: src/illuminate/components/AccountFilterBar/SaveFilterDialog/index.tsx:57
+#: src/illuminate/containers/AccountDrilldowns/AccountDetails/TabsFolder/nameMatchingDialog.tsx:165
+#: src/illuminate/containers/AccountDrilldowns/UserManagement/uploadProfilePicture.tsx:66
+#: src/illuminate/containers/DashboardFilters/index.tsx:181
+#: src/illuminate/containers/DashboardFilters/listFilters.tsx:96
+#: src/illuminate/containers/DashboardTemplates/DuplicateTemplateModal/index.tsx:80
+#: src/illuminate/containers/DashboardTemplates/TemplateColumnsModal/index.tsx:129
+#: src/illuminate/containers/DashboardTemplates/templateManager.tsx:187
+#: src/illuminate/containers/DashboardTemplates/templateManager.tsx:207
+msgid "Cancel"
+msgstr "إلغاء"
+
+#: src/illuminate/containers/AccountDrilldowns/G2KFinancials/index.tsx:26
+msgid "Cash Flows"
+msgstr "تدفقات نقدية"
+
+#: src/illuminate/containers/AccountDrilldowns/ClientDetails/index.tsx:74
+msgid "Child of"
+msgstr "طفل"
+
+#: src/containers/Upload/index.tsx:87
+#~ msgid "Choose File"
+#~ msgstr "اختر ملف"
+
+#: src/illuminate/containers/AccountDrilldowns/AccountDetails/SourceRecords.tsx:53
+#~ msgid "Clear"
+#~ msgstr "واضح"
+
+#: src/illuminate/containers/AccountDrilldowns/AccountDetails/TabsFolder/nameMatchingDialog.tsx:146
+msgid "Clear Match"
+msgstr "تطابق واضح"
+
+#: src/illuminate/containers/AccountDrilldowns/ClientDetails/index.tsx:88
+msgid "Client Access"
+msgstr "وصول العميل"
+
+#: src/illuminate/containers/AccountDrilldowns/ClientDetails/index.tsx:71
+msgid "Client ID"
+msgstr "معرف العميل"
+
+#: src/common/containers/Dashboard/index.tsx:107
+msgid "Client Management"
+msgstr "إدارة العملاء"
+
+#: src/illuminate/containers/AccountDrilldowns/ClientDetails/index.tsx:61
+msgid "Client Name"
+msgstr "اسم العميل"
+
+#: src/illuminate/containers/Upload/index.tsx:74
+msgid "Client Workbook"
+msgstr "مصنف العميل"
+
+#: src/illuminate/containers/DashboardTemplates/TemplateColumnsModal/index.tsx:129
+msgid "Close"
+msgstr "قريب"
+
+#: src/illuminate/containers/AccountDrilldowns/AccountDetails/TabsFolder/SourceRecords.tsx:17
+#: src/illuminate/containers/AccountDrilldowns/AccountDetails/TabsFolder/nameMatchingDialog.tsx:108
+msgid "Company Name"
+msgstr "اسم الشركة"
+
+#: src/illuminate/containers/AccountDrilldowns/AccountDetails/TabsFolder/SourceRecords.tsx:19
+#: src/illuminate/containers/AccountDrilldowns/AccountDetails/TabsFolder/nameMatchingDialog.tsx:110
+msgid "Confidence"
+msgstr "الثقة"
+
+#: src/illuminate/containers/AccountDrilldowns/AccountData/accountDataTable.tsx:45
+msgid "Contained In"
+msgstr "مضمنة في"
+
+#: src/illuminate/containers/AccountDrilldowns/UserManagement/index.tsx:102
+msgid "Content Manager"
+msgstr "مدير محتوى"
+
+#: src/common/components/PrivacyPolicyModalSignUp/index.tsx:40
+msgid "Continue"
+msgstr "استمر"
+
+#: src/containers/AccountDrilldowns/VisualizationPanel/ControlPanel/index.tsx:19
+#~ msgid "Controls"
+#~ msgstr "ضوابط"
+
+#: src/illuminate/containers/DashboardTemplates/templateManager.tsx:194
+msgid "Create new template"
+msgstr "إنشاء نموذج جديد"
+
+#: src/illuminate/containers/DashboardTemplates/TemplateColumnsModal/KPIColumn/index.tsx:55
+msgid "Custom Header"
+msgstr "رأس مخصص"
+
+#: src/illuminate/containers/AccountDrilldowns/UserManagement/index.tsx:103
+msgid "Customer"
+msgstr "الزبون"
+
+#: src/illuminate/containers/AccountDrilldowns/AccountDetails/TabsFolder/EmailDomain.tsx:11
+msgid "Customer Access"
+msgstr "وصول العميل"
+
+#: src/illuminate/containers/AccountDrilldowns/AccountDetails/index.tsx:98
+#~ msgid "Customers can subscribe to this account"
+#~ msgstr "يمكن للعملاء الاشتراك في هذا الحساب"
+
+#: src/illuminate/containers/AccountDrilldowns/AccountDetails/TabsFolder/ProfileComponent.tsx:78
+msgid "Customers require approval from self-registration"
+msgstr "يحتاج العملاء إلى الموافقة من التسجيل الذاتي"
+
+#: src/illuminate/containers/AccountDrilldowns/AccountDetails/index.tsx:103
+#~ msgid "Customers subscribers need approval"
+#~ msgstr "يحتاج المشتركون العملاء إلى الموافقة"
+
+#: src/illuminate/containers/AccountDrilldowns/AccountData/index.tsx:48
+msgid "Data type"
+msgstr "نوع البيانات"
+
+#: src/illuminate/containers/AccountDrilldowns/AccountData/accountDataTable.tsx:41
+msgid "Date"
+msgstr "تاريخ"
+
+#: src/illuminate/containers/AccountDrilldowns/AccountData/index.tsx:42
+msgid "December"
+msgstr "ديسمبر"
+
+#: src/common/components/PrivacyPolicyModalSignUp/index.tsx:43
+#: src/common/components/PrivacyPolicyModalUpdate/index.tsx:53
+msgid "Decline"
+msgstr "انخفاض"
+
+#: src/illuminate/containers/DashboardTemplates/templateManager.tsx:91
+msgid "Default"
+msgstr "إفتراضي"
+
+#: src/illuminate/containers/DashboardTemplates/templateManager.tsx:91
+msgid "Delete"
+msgstr "حذف"
+
+#: src/illuminate/containers/AccountDrilldowns/AccountTeam/index.tsx:31
+#: src/illuminate/containers/TeamAccessManagement/dist/index.js:28
+#: src/illuminate/containers/TeamAccessManagement/dist/index.js:29
+#: src/illuminate/containers/TeamAccessManagement/dist/index.js:34
+#: src/illuminate/containers/TeamAccessManagement/index.tsx:27
+#: src/illuminate/containers/TeamAccessManagement/index.tsx:28
+#: src/illuminate/containers/TeamAccessManagement/index.tsx:33
+msgid "Deny"
+msgstr "أنكر"
+
+#: src/common/components/PrivacyPolicyModalUpdate/index.tsx:29
+msgid "Document"
+msgstr "وثيقة"
+
+#: src/illuminate/containers/DashboardTemplates/templateManager.tsx:91
+msgid "Duplicate"
+msgstr "مكرر"
+
+#: src/illuminate/containers/DashboardTemplates/DuplicateTemplateModal/index.tsx:64
+msgid "Duplicate Template"
+msgstr "نموذج مكرر"
+
+#: src/illuminate/containers/DashboardTemplates/templateManager.tsx:91
+msgid "Edit"
+msgstr "تعديل"
+
+#: src/common/components/PrivacyPolicyModalUpdate/index.tsx:30
+msgid "Effective as of"
+msgstr "اعتبارا من"
+
+#: src/illuminate/containers/AccountDrilldowns/AccountTeam/index.tsx:23
+#: src/illuminate/containers/TeamAccessManagement/dist/index.js:23
+#: src/illuminate/containers/TeamAccessManagement/index.tsx:22
+msgid "Email"
+msgstr "البريد الإلكتروني"
+
+#: src/illuminate/containers/AccountDrilldowns/UserManagement/index.tsx:63
+msgid "Email Address"
+msgstr "عنوان البريد الالكترونى"
+
+#: src/illuminate/containers/AccountDrilldowns/AccountDetails/nameMatchingDialog.tsx:148
+#~ msgid "Exit"
+#~ msgstr "خروج"
+
+#: src/illuminate/containers/AccountDrilldowns/AccountData/index.tsx:32
+msgid "February"
+msgstr "شهر فبراير"
+
+#: src/containers/Upload/index.tsx:91
+#~ msgid "File size should be more than 5KB"
+#~ msgstr "يجب أن يكون حجم الملف أكثر من 5 كيلو بايت"
+
+#: src/containers/Upload/index.tsx:104
+#~ msgid "File uploaded successfully."
+#~ msgstr "تم رفع الملف بنجاح"
+
+#: src/containers/Upload/index.tsx:91
+#~ msgid "Files of type xlsx and xls are allowed"
+#~ msgstr "يُسمح بملفات من النوع xlsx و xls"
+
+#: src/illuminate/components/AccountFilterBar/SaveFilterDialog/index.tsx:44
+msgid "Filter Name:"
+msgstr "اسم المرشح"
+
+#: src/illuminate/containers/Upload/index.tsx:75
+msgid "Financial"
+msgstr "الأمور المالية"
+
+#: src/illuminate/containers/AccountDrilldowns/G2KFinancials/financialDetails.tsx:33
+msgid "Financial Details"
+msgstr "التفاصيل المالية"
+
+#: src/illuminate/containers/AccountDrilldowns/UserManagement/index.tsx:229
+msgid "Find an account"
+msgstr "ابحث عن حساب"
+
+#: src/illuminate/containers/AccountDrilldowns/UserManagement/index.tsx:52
+msgid "First Name"
+msgstr "الاسم الاول"
+
+#: src/illuminate/containers/AccountDrilldowns/VisualizationPanel/ControlPanel/index.tsx:13
+msgid "Fiscal"
+msgstr "المالية"
+
+#: src/illuminate/components/AccountFilterBar/index.tsx:19
+#~ msgid "Get Filter"
+#~ msgstr "احصل على فلتر"
+
+#: src/illuminate/containers/Upload/index.tsx:76
+msgid "Global 2000"
+msgstr "عالمي 2000"
+
+#: src/illuminate/containers/AccountDrilldowns/VisualizationPanel/ControlPanel/index.tsx:36
+#~ msgid "Graph Control"
+#~ msgstr "التحكم في الرسم البياني"
+
+#: src/illuminate/containers/AccountDrilldowns/VisualizationPanel/ControlPanel/index.tsx:35
+msgid "Graph Controls"
+msgstr ""
+
+#: src/illuminate/containers/AccountDrilldowns/AccountKPIDetails/GrowthPanel/dist/index.js:83
+#: src/illuminate/containers/AccountDrilldowns/AccountKPIDetails/GrowthPanel/index.tsx:73
+msgid "Growth Totals"
+msgstr "إجماليات النمو"
+
+#: src/illuminate/containers/AccountDrilldowns/LegalEntities/index.tsx:40
+#~ msgid "Headquarters Address"
+#~ msgstr "عنوان المقر الرئيسي"
+
+#: src/common/components/MessageBar/dist/index.js:17
+#: src/common/components/MessageBar/index.tsx:15
+msgid "Hello"
+msgstr "مرحبا"
+
+#: src/common/components/PrivacyPolicyModalSignUp/index.tsx:29
+msgid "I will agree to the Polaris I/O"
+msgstr "سأوافق على Polaris I / O"
+
+#: src/common/components/MessageBar/dist/index.js:22
+#: src/common/components/MessageBar/index.tsx:19
+#: src/common/components/PrivacyPolicyModalUpdate/index.tsx:22
+msgid "Important Updates"
+msgstr "تحديثات مهمة"
+
+#: src/illuminate/containers/AccountDrilldowns/G2KFinancials/index.tsx:28
+msgid "Income Statements"
+msgstr "بيانات الدخل"
+
+#: src/illuminate/containers/AccountDrilldowns/AccountTeam/index.tsx:29
+#: src/illuminate/containers/TeamAccessManagement/dist/index.js:30
+#: src/illuminate/containers/TeamAccessManagement/dist/index.js:32
+#: src/illuminate/containers/TeamAccessManagement/index.tsx:29
+#: src/illuminate/containers/TeamAccessManagement/index.tsx:31
+msgid "Invite"
+msgstr "يدعو"
+
+#: src/illuminate/containers/AccountDrilldowns/AccountData/index.tsx:31
+msgid "January"
+msgstr "كانون الثاني"
+
+#: src/illuminate/containers/AccountDrilldowns/UserManagement/index.tsx:68
+msgid "Job Title"
+msgstr "عنوان وظيفي"
+
+#: src/common/containers/Dashboard/index.tsx:174
+msgid "Join an Account Team"
+msgstr "انضم إلى فريق الحساب"
+
+#: src/illuminate/containers/AccountDrilldowns/AccountData/index.tsx:37
+msgid "July"
+msgstr "يوليو"
+
+#: src/illuminate/containers/AccountDrilldowns/AccountData/index.tsx:36
+msgid "June"
+msgstr "يونيو"
+
+#: src/illuminate/containers/AccountDrilldowns/G2KFinancials/index.tsx:27
+msgid "Key Metrics"
+msgstr "مقاييس رئيسية"
+
+#: src/illuminate/components/Loader/dist/index.js:12
+#: src/illuminate/components/Loader/index.tsx:10
+msgid "LOADING..."
+msgstr "جار التحميل..."
+
+#: src/illuminate/containers/AccountDrilldowns/ClientDetails/index.tsx:70
+msgid "Landing URL"
+msgstr "عنوان URL للهبوط"
+
+#: src/illuminate/containers/AccountDrilldowns/UserManagement/index.tsx:58
+msgid "Last Name"
+msgstr "الكنية"
+
+#: src/illuminate/containers/AccountDrilldowns/AccountTeam/index.tsx:25
+#: src/illuminate/containers/TeamAccessManagement/dist/index.js:25
+#: src/illuminate/containers/TeamAccessManagement/index.tsx:24
+msgid "Last Platform Activity"
+msgstr "آخر نشاط للمنصة"
+
+#: src/illuminate/containers/AccountDrilldowns/LegalEntities/index.tsx:87
+msgid "Legal Address"
+msgstr "العنوان القانوني"
+
+#: src/illuminate/containers/AccountDrilldowns/LegalEntities/index.tsx:33
+msgid "Legal Entity Info"
+msgstr ""
+
+#: src/illuminate/containers/AccountDrilldowns/LegalEntities/index.tsx:26
+#~ msgid "Legal Name"
+#~ msgstr "الاسم القانوني"
+
+#: src/common/containers/Dashboard/dist/index.js:86
+#: src/common/containers/Dashboard/index.tsx:180
+msgid "Logout"
+msgstr "تسجيل خروج"
+
+#: src/illuminate/containers/AccountDrilldowns/UserManagement/index.tsx:245
+msgid "Management Permissions"
+msgstr "أذونات الإدارة"
+
+#: src/illuminate/containers/DashboardTemplates/templateManager.tsx:140
+msgid "Manager"
+msgstr ""
+
+#: src/illuminate/containers/AccountDrilldowns/UserManagement/index.tsx:73
+msgid "Manager-Email-Address"
+msgstr "مدير-عنوان البريد الإلكتروني"
+
+#: src/illuminate/containers/AccountDrilldowns/AccountDetails/SourceRecords.tsx:51
+#~ msgid "Manual"
+#~ msgstr "كتيب"
+
+#: src/illuminate/containers/AccountDrilldowns/AccountDetails/SourceRecords.tsx:50
+#~ msgid "Manual Match"
+#~ msgstr "المطابقة اليدوية"
+
+#: src/illuminate/containers/AccountDrilldowns/AccountDetails/TabsFolder/SourceRecords.tsx:54
+msgid "Manual Override"
+msgstr ""
+
+#: src/illuminate/containers/AccountDrilldowns/AccountData/index.tsx:33
+msgid "March"
+msgstr "مارس"
+
+#: src/illuminate/containers/AccountDrilldowns/AccountDetails/TabsFolder/nameMatchingDialog.tsx:111
+msgid "Match Selected"
+msgstr "تم تحديد المباراة"
+
+#: src/illuminate/containers/AccountDrilldowns/AccountDetails/nameMatchingDialog.tsx:139
+#~ msgid "Matches Found"
+#~ msgstr "تم العثور على التطابقات"
+
+#: src/illuminate/containers/AccountDrilldowns/AccountData/index.tsx:35
+msgid "May"
+msgstr "مايو"
+
+#: src/illuminate/containers/AccountDrilldowns/AccountDetails/TabsFolder/SourceRecords.tsx:18
+#: src/illuminate/containers/AccountDrilldowns/AccountDetails/TabsFolder/nameMatchingDialog.tsx:109
+msgid "Method"
+msgstr "طريقة"
+
+#: src/illuminate/containers/AccountDrilldowns/AccountData/index.tsx:69
+msgid "Month"
+msgstr "شهر"
+
+#: src/illuminate/containers/AccountDrilldowns/AccountTeam/index.tsx:22
+#: src/illuminate/containers/DashboardTemplates/templateManager.tsx:90
+#: src/illuminate/containers/TeamAccessManagement/dist/index.js:22
+#: src/illuminate/containers/TeamAccessManagement/index.tsx:21
+msgid "Name"
+msgstr "اسم"
+
+#: src/illuminate/components/AccountFilterBar/SaveFilterDialog/index.tsx:41
+msgid "Name Filter"
+msgstr "مرشح الاسم"
+
+#: src/illuminate/containers/DashboardFilters/listFilters.tsx:110
+msgid "No"
+msgstr "لا"
+
+#: src/illuminate/containers/AccountDrilldowns/UserManagement/index.tsx:223
+msgid "No Accounts available"
+msgstr "لا توجد حسابات متاحة"
+
+#: src/illuminate/containers/AccountDrilldowns/AccountDetails/EmailDomain.tsx:27
+#~ msgid "No Data Available"
+#~ msgstr "لا تتوافر بيانات"
+
+#: src/containers/Upload/index.tsx:91
+#~ msgid "No file selected"
+#~ msgstr "لم يتم اختيار اي ملف"
+
+#: src/illuminate/containers/AccountDrilldowns/AccountData/index.tsx:41
+msgid "November"
+msgstr "شهر نوفمبر"
+
+#: src/illuminate/containers/DashboardFilters/index.tsx:184
+#: src/illuminate/containers/DashboardTemplates/TemplateColumnsModal/index.tsx:132
+msgid "OK"
+msgstr "حسنا"
+
+#: src/illuminate/containers/DashboardFilters/filterCriteria.tsx:25
+msgid "OR"
+msgstr "أو"
+
+#: src/illuminate/containers/AccountDrilldowns/AccountData/index.tsx:40
+msgid "October"
+msgstr "اكتوبر"
+
+#: src/illuminate/containers/DashboardTemplates/TemplateColumnsModal/index.tsx:120
+msgid "Only Polaris IO can modify"
+msgstr "يمكن تعديل Polaris IO فقط"
+
+#: src/illuminate/containers/AccountDrilldowns/AccountDetails/SourceRecords.tsx:53
+#~ msgid "Override"
+#~ msgstr "تجاوز"
+
+#: src/illuminate/containers/AccountDrilldowns/LegalEntities/ownershipHierarchy.tsx:47
+msgid "Ownership Hierarchy"
+msgstr "التسلسل الهرمي للملكية"
+
+#: src/illuminate/containers/AccountDrilldowns/VisualizationPanel/BuyingCenterEstimates/index.tsx:18
+#~ msgid "PENETRATION"
+#~ msgstr "اختراق"
+
+#: src/illuminate/containers/AccountDrilldowns/VisualizationPanel/BuyingCenterEstimates/index.tsx:18
+#~ msgid "PENETRATION-ANALYSIS"
+#~ msgstr "تحليل الاختراق"
+
+#: src/illuminate/containers/AccountDrilldowns/VisualizationPanel/PGIGraph/index.tsx:44
+msgid "PGI"
+msgstr ""
+
+#: src/illuminate/containers/AccountDrilldowns/AccountKPIDetails/PGIPanel/dist/index.js:83
+#: src/illuminate/containers/AccountDrilldowns/AccountKPIDetails/PGIPanel/index.tsx:73
+msgid "PGI Totals"
+msgstr "إجماليات PGI"
+
+#: src/illuminate/containers/AccountDrilldowns/AccountDetails/TabsFolder/ProfileComponent.tsx:23
+msgid "PIO IDENTIFIER"
+msgstr "تحديد PIO"
+
+#: src/illuminate/components/Footer/index.tsx:11
+#~ msgid "PRIVACY POLICY"
+#~ msgstr "سياسة خاصة"
+
+#: src/illuminate/components/Footer/index.tsx:11
+msgid "PRIVACY STATEMENT"
+msgstr "بيان الخصوصية"
+
+#: src/illuminate/containers/AccountDrilldowns/AccountKPIDetails/BuyCenterPanel/dist/index.js:71
+#: src/illuminate/containers/AccountDrilldowns/AccountKPIDetails/BuyCenterPanel/index.tsx:57
+#: src/illuminate/containers/AccountDrilldowns/AccountKPIDetails/GrowthPanel/dist/index.js:71
+#: src/illuminate/containers/AccountDrilldowns/AccountKPIDetails/GrowthPanel/index.tsx:57
+#: src/illuminate/containers/AccountDrilldowns/AccountKPIDetails/PGIPanel/dist/index.js:71
+#: src/illuminate/containers/AccountDrilldowns/AccountKPIDetails/PGIPanel/index.tsx:57
+#: src/illuminate/containers/AccountDrilldowns/AccountKPIDetails/RevenuePanel/dist/index.js:71
+#: src/illuminate/containers/AccountDrilldowns/AccountKPIDetails/RevenuePanel/index.tsx:57
+#: src/illuminate/containers/AccountDrilldowns/AccountKPIDetails/TotalPlanPanel/dist/index.js:71
+#: src/illuminate/containers/AccountDrilldowns/AccountKPIDetails/TotalPlanPanel/index.tsx:57
+msgid "PRODUCT CATEGORIES"
+msgstr "فئات المنتجات"
+
+#: src/illuminate/containers/AccountDrilldowns/VisualizationPanel/BuyingCenterEstimates/index.tsx:18
+#~ msgid "PRODUCTS"
+#~ msgstr "منتجات"
+
+#: src/illuminate/components/NotFound/index.tsx:10
+msgid "Page Not Found"
+msgstr "الصفحة غير موجودة"
+
+#: src/illuminate/containers/AccountDrilldowns/VisualizationPanel/BuyingCenterEstimates/index.tsx:19
+msgid "Penetration"
+msgstr ""
+
+#: src/illuminate/containers/AccountDrilldowns/VisualizationPanel/BuyingCenterEstimates/index.tsx:19
+msgid "Penetration Analysis"
+msgstr ""
+
+#: src/common/containers/Dashboard/index.tsx:168
+msgid "People Management"
+msgstr "إدارة الناس"
+
+#: src/illuminate/containers/AccountDrilldowns/UserManagement/index.tsx:104
+msgid "People Manager"
+msgstr "مدير الناس"
+
+#: src/illuminate/containers/AccountDrilldowns/AccountData/index.tsx:23
+msgid "Plan"
+msgstr "خطة"
+
+#: src/illuminate/containers/AccountDrilldowns/AccountKPIDetails/TotalPlanPanel/dist/index.js:87
+#: src/illuminate/containers/AccountDrilldowns/AccountKPIDetails/TotalPlanPanel/index.tsx:75
+msgid "Plan Totals"
+msgstr "خطة المجاميع"
+
+#: src/common/components/PrivacyPolicyModalSignUp/index.tsx:26
+msgid "Polaris I/O User Agreement"
+msgstr "اتفاقية مستخدم Polaris I / O"
+
+#: src/common/components/PrivacyPolicyModalUpdate/index.tsx:24
+msgid "Polaris I/O has updated the following document(s). Please read these document(s) as the changes affect your legal rights."
+msgstr "قامت Polaris I / O بتحديث المستند (المستندات) التالية. يرجى قراءة هذه الوثيقة (الوثائق) حيث أن التغييرات تؤثر على حقوقك القانونية."
+
+#: src/illuminate/containers/AccountDrilldowns/AccountDetails/TabsFolder/UsersTable.tsx:18
+msgid "Primary"
+msgstr "ابتدائي"
+
+#: src/illuminate/containers/AccountDrilldowns/AccountData/accountDataTable.tsx:42
+msgid "Product Identifier"
+msgstr "معرف المنتج"
+
+#: src/illuminate/containers/AccountDrilldowns/AccountData/accountDataTable.tsx:44
+#: src/illuminate/containers/AccountDrilldowns/VisualizationPanel/BuyingCenterEstimates/index.tsx:19
+msgid "Products"
+msgstr "منتجات"
+
+#: src/containers/AccountDrilldowns/LegalEntities/index.tsx:32
+#~ msgid "Programmatic Match"
+#~ msgstr "مطابقة برمجية"
+
+#: src/illuminate/containers/AccountDrilldowns/G2KFinancials/index.tsx:32
+msgid "Quarter"
+msgstr "ربع"
+
+#: src/illuminate/components/Footer/index.tsx:19
+#~ msgid "REGIONAL POLICY"
+#~ msgstr "السياسة الإقليمية"
+
+#: src/illuminate/containers/AccountDrilldowns/UserManagement/index.tsx:234
+msgid "REMOVE"
+msgstr "إزالة"
+
+#: src/illuminate/containers/AccountDrilldowns/G2KFinancials/index.tsx:38
+msgid "Report type"
+msgstr "نوع التقرير"
+
+#: src/illuminate/containers/AccountDrilldowns/G2KFinancials/index.tsx:48
+msgid "Reporting frequency"
+msgstr "تكرار التقارير"
+
+#: src/illuminate/containers/AccountDrilldowns/G2KFinancials/reportingPeriod.tsx:31
+msgid "Reporting period"
+msgstr "فترة التقرير"
+
+#: src/containers/Upload/index.tsx:91
+#~ msgid "Required"
+#~ msgstr "مطلوب"
+
+#: src/illuminate/containers/AccountDrilldowns/AccountData/index.tsx:22
+msgid "Revenue"
+msgstr "إيرادات"
+
+#: src/illuminate/containers/AccountDrilldowns/AccountKPIDetails/RevenuePanel/index.tsx:72
+msgid "Revenue Totals"
+msgstr "أدوات الإيرادات"
+
+#: src/illuminate/containers/AccountDrilldowns/VisualizationPanel/RevenuePlanGraph/index.tsx:43
+msgid "Revenue vs Plan"
+msgstr "الإيرادات مقابل الخطة"
+
+#: src/illuminate/containers/AccountDrilldowns/VisualizationPanel/ControlPanel/index.tsx:14
+msgid "Rolling 12 months"
+msgstr "رولينج 12 شهر"
+
+#: src/illuminate/containers/AccountDrilldowns/VisualizationPanel/ControlPanel/index.tsx:15
+msgid "Rolling 24 months"
+msgstr "المتداول 24 شهرا"
+
+#: src/illuminate/containers/AccountDrilldowns/VisualizationPanel/ControlPanel/index.tsx:16
+msgid "Rolling 36 months"
+msgstr "المتداول 36 شهرا"
+
+#: src/illuminate/components/Footer/index.tsx:19
+msgid "SECURITY STATEMENT"
+msgstr "بيان الأمن"
+
+#: src/illuminate/components/AccountFilterBar/SaveFilterDialog/index.tsx:62
+#: src/illuminate/components/AccountFilterBar/index.tsx:123
+#: src/illuminate/containers/DashboardTemplates/DuplicateTemplateModal/index.tsx:85
+msgid "Save"
+msgstr "حفظ"
+
+#: src/illuminate/components/AccountFilterBar/index.tsx:120
+msgid "Save As..."
+msgstr "حفظ باسم ..."
+
+#: src/illuminate/components/AccountFilterBar/index.tsx:19
+#~ msgid "Save Filter"
+#~ msgstr "احفظ عامل التصفية"
+
+#: src/illuminate/containers/DashboardFilters/listFilters.tsx:68
+msgid "Saved Filters"
+msgstr "المرشحات المحفوظة"
+
+#: src/common/containers/Dashboard/dist/index.js:56
+#: src/common/containers/Dashboard/index.tsx:97
+msgid "Search"
+msgstr "بحث..."
+
+#: src/illuminate/containers/AccountDrilldowns/AccountDetails/nameMatchingDialog.tsx:116
+#~ msgid "Search Using"
+#~ msgstr "البحث باستخدام"
+
+#: src/illuminate/containers/AccountDrilldowns/AccountDetails/nameMatchingDialog.tsx:121
+#~ msgid "Search account"
+#~ msgstr "حساب البحث"
+
+#: src/illuminate/containers/AccountDrilldowns/AccountDetails/TabsFolder/nameMatchingDialog.tsx:151
+msgid "Search companies by name"
+msgstr ""
+
+#: src/illuminate/containers/DashboardFilters/filterAttributes.tsx:49
+msgid "Search field"
+msgstr "مجال البحث"
+
+#: src/illuminate/containers/AccountDrilldowns/AccountDetails/nameMatchingDialog.tsx:113
+#~ msgid "Search string"
+#~ msgstr "دالة البحث"
+
+#: src/illuminate/containers/AccountDrilldowns/AccountDetails/TabsFolder/UsersTable.tsx:18
+msgid "Secondary"
+msgstr "ثانوي"
+
+#: src/illuminate/containers/DashboardFilters/filterCriteria.tsx:29
+msgid "Select"
+msgstr "تحديد"
+
+#: src/illuminate/containers/Upload/index.tsx:71
+msgid "Select File"
+msgstr "حدد ملف"
+
+#: src/illuminate/components/AccountFilterBar/index.tsx:117
+msgid "Select Filter..."
+msgstr "حدد عامل تصفية ..."
+
+#: src/illuminate/containers/AccountDrilldowns/AccountDetails/searchList.tsx:29
+#~ msgid "Select Match"
+#~ msgstr "حدد تطابق"
+
+#: src/illuminate/containers/DashboardFilters/filterAttributes.tsx:55
+msgid "Select Operator"
+msgstr "حدد المشغل"
+
+#: src/common/containers/SiteSelection/index.tsx:50
+msgid "Select Site"
+msgstr "حدد الموقع"
+
+#: src/illuminate/containers/DashboardTemplates/preConfiguredTemplates.tsx:41
+msgid "Select Template"
+msgstr ""
+
+#: src/illuminate/containers/AccountDrilldowns/AccountData/index.tsx:39
+msgid "September"
+msgstr "سبتمبر"
+
+#: src/illuminate/containers/AccountDrilldowns/UserManagement/index.tsx:189
+msgid "Show Currency KPIs using MM"
+msgstr "ظهار مؤشرات الأداء الرئيسية للعملة باستخدام MM"
+
+#: src/common/containers/Dashboard/index.tsx:171
+msgid "Site Administration"
+msgstr "إدارة الموقع"
+
+#: src/illuminate/containers/AccountDrilldowns/AccountDetails/TabsFolder/SourceRecords.tsx:16
+msgid "Source"
+msgstr "مصدر"
+
+#: src/illuminate/containers/AccountDrilldowns/AccountDetails/TabsFolder/SourceRecords.tsx:33
+msgid "Source Records"
+msgstr "سجلات المصدر"
+
+#: src/illuminate/containers/AccountDrilldowns/AccountTeam/index.tsx:24
+#: src/illuminate/containers/DashboardTemplates/templateManager.tsx:90
+#: src/illuminate/containers/TeamAccessManagement/dist/index.js:24
+#: src/illuminate/containers/TeamAccessManagement/index.tsx:23
+msgid "Status"
+msgstr "الحالة"
+
+#: src/illuminate/containers/AccountDrilldowns/AccountDetails/TabsFolder/nameMatchingDialog.tsx:169
+#: src/illuminate/containers/AccountDrilldowns/UserManagement/index.tsx:193
+#: src/illuminate/containers/DashboardTemplates/templateManager.tsx:210
+msgid "Submit"
+msgstr "إرسال"
+
+#: src/illuminate/containers/AccountDrilldowns/UserManagement/index.tsx:105
+msgid "Survey Manager"
+msgstr "مدير المسح"
+
+#: src/illuminate/containers/AccountDrilldowns/AccountTeam/index.tsx:32
+#: src/illuminate/containers/TeamAccessManagement/dist/index.js:28
+#: src/illuminate/containers/TeamAccessManagement/dist/index.js:35
+#: src/illuminate/containers/TeamAccessManagement/index.tsx:27
+#: src/illuminate/containers/TeamAccessManagement/index.tsx:34
+msgid "Suspend"
+msgstr "تعليق"
+
+#: src/illuminate/components/Footer/index.tsx:23
+msgid "TERMS OF SERVICE"
+msgstr "شروط الخدمة"
+
+#: src/illuminate/containers/AccountDrilldowns/AccountKPIDetails/RevenuePanel/dist/index.js:82
+msgid "TOTALS"
+msgstr "المجموع"
+
+#: src/illuminate/containers/TeamAccessManagement/dist/index.js:106
+#: src/illuminate/containers/TeamAccessManagement/index.tsx:107
+msgid "Team Access Management"
+msgstr "إدارة وصول الفريق"
+
+#: src/common/containers/Dashboard/dist/index.js:84
+#: src/common/containers/Dashboard/index.tsx:177
+msgid "Team Management"
+msgstr "ادارة فريق"
+
+#: src/illuminate/containers/AccountDrilldowns/UserManagement/index.tsx:106
+msgid "Team Member"
+msgstr "أعضاء الفريق"
+
+#: src/illuminate/containers/AccountDrilldowns/AccountDetails/TabsFolder/ProfileComponent.tsx:66
+msgid "Team members can self-register"
+msgstr "يمكن لأعضاء الفريق التسجيل الذاتي"
+
+#: src/illuminate/containers/AccountDrilldowns/AccountDetails/TabsFolder/ProfileComponent.tsx:74
+msgid "Team members can self-register with valid customer domain"
+msgstr "يمكن لأعضاء الفريق التسجيل الذاتي مع مجال عميل صالح"
+
+#: src/illuminate/containers/AccountDrilldowns/AccountDetails/TabsFolder/ProfileComponent.tsx:70
+msgid "Team members require approval from self-registration"
+msgstr "يحتاج أعضاء الفريق إلى موافقة من التسجيل الذاتي"
+
+#: src/illuminate/containers/DashboardTemplates/templateManager.tsx:140
+msgid "Template"
+msgstr "قالب"
+
+#: src/illuminate/containers/DashboardTemplates/DuplicateTemplateModal/index.tsx:67
+msgid "Template Name:"
+msgstr "اسم القالب:"
+
+#: src/illuminate/containers/AccountDrilldowns/ClientDetails/index.tsx:100
+msgid "The clients team members are allowed to opt-in to anonymized surveys"
+msgstr "يُسمح لأعضاء فريق العملاء بالاشتراك في الاستطلاعات مجهولة المصدر"
+
+#: src/illuminate/containers/AccountDrilldowns/ClientDetails/index.tsx:92
+msgid "The clients team members can self-subscribe to the platform"
+msgstr "يمكن لأعضاء فريق العملاء الاشتراك الذاتي في المنصة"
+
+#: src/illuminate/containers/AccountDrilldowns/ClientDetails/index.tsx:96
+msgid "The clients team self-subscribers need approval from admin"
+msgstr "يحتاج المشتركون الذاتيون لفريق العملاء إلى موافقة من المسؤول"
+
+#: src/illuminate/containers/AccountDrilldowns/ClientDetails/index.tsx:81
+msgid "This client is a subsidiary of the parent, so KPIs must roll up"
+msgstr "هذا العميل هو شركة تابعة للوالد ، لذلك يجب أن تظهر مؤشرات الأداء الرئيسية"
+
+#: src/illuminate/containers/DashboardTemplates/TemplateColumnsModal/KPIColumn/index.tsx:77
+msgid "Top Line"
+msgstr "السطر العلوي"
+
+#: src/illuminate/containers/AccountDrilldowns/AccountData/accountDataTable.tsx:46
+#: src/illuminate/containers/DashboardFilters/filterAttributes.tsx:65
+msgid "Value"
+msgstr "القيمة"
+
+#: src/illuminate/containers/DashboardTemplates/templateManager.tsx:92
+msgid "View"
+msgstr "رأي"
+
+#: src/illuminate/containers/DashboardTemplates/templateManager.tsx:140
+msgid "Viewer"
+msgstr ""
+
+#: src/illuminate/components/AccountsView/AccountCard/index.tsx:55
+msgid "Waiting for Approval"
+msgstr "بانتظار الموافقة"
+
+#: src/illuminate/components/AccountsView/ListView/AccountRowDetails/index.tsx:30
+msgid "Waiting for approval"
+msgstr "بانتظار الموافقة"
+
+#: src/illuminate/containers/AccountDrilldowns/AccountData/index.tsx:59
+msgid "Year"
+msgstr "عام"
+
+#: src/illuminate/containers/DashboardFilters/listFilters.tsx:113
+msgid "Yes"
+msgstr "نعم"
+
+#: src/containers/AccountDrilldowns/AccountSummary/index.tsx:47
+#~ msgid "buy center"
+#~ msgstr "مركز شراء"
+
+#: src/illuminate/containers/AccountDrilldowns/AccountSummary/index.tsx:47
+#~ msgid "buying centers"
+#~ msgstr "مراكز الشراء"
+
+#: src/components/ContentWrapper/index.tsx:15
+#~ msgid "dashboard.Welcome"
+#~ msgstr "مرحبًا بك في لوحة التحكم"
+
+#: src/illuminate/containers/AccountDrilldowns/AccountSummary/index.tsx:45
+#~ msgid "growth"
+#~ msgstr "نمو"
+
+#: src/illuminate/containers/AccountDrilldowns/AccountSummary/index.tsx:46
+#~ msgid "plan"
+#~ msgstr "خطة"
+
+#: src/illuminate/containers/AccountDrilldowns/AccountSummary/index.tsx:44
+#~ msgid "revenue"
+#~ msgstr "إيرادات"
+
+#: src/containers/AccountDrilldowns/AccountSummary/index.tsx:53
+#~ msgid "total plan"
+#~ msgstr "الخطة الكلية"

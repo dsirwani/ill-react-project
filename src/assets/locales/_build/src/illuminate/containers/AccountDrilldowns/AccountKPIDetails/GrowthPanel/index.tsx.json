@@ -1,0 +1,26 @@
+{
+  "PRODUCT CATEGORIES": {
+    "origin": [
+      [
+        "src/illuminate/containers/AccountDrilldowns/AccountKPIDetails/GrowthPanel/index.tsx",
+        57
+      ]
+    ]
+  },
+  "BUYING CENTERS": {
+    "origin": [
+      [
+        "src/illuminate/containers/AccountDrilldowns/AccountKPIDetails/GrowthPanel/index.tsx",
+        57
+      ]
+    ]
+  },
+  "Growth Totals": {
+    "origin": [
+      [
+        "src/illuminate/containers/AccountDrilldowns/AccountKPIDetails/GrowthPanel/index.tsx",
+        73
+      ]
+    ]
+  }
+}

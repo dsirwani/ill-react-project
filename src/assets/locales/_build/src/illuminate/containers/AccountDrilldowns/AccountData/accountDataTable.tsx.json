@@ -1,0 +1,50 @@
+{
+  "Date": {
+    "origin": [
+      [
+        "src/illuminate/containers/AccountDrilldowns/AccountData/accountDataTable.tsx",
+        41
+      ]
+    ]
+  },
+  "Product Identifier": {
+    "origin": [
+      [
+        "src/illuminate/containers/AccountDrilldowns/AccountData/accountDataTable.tsx",
+        42
+      ]
+    ]
+  },
+  "CSV Product Identifier": {
+    "origin": [
+      [
+        "src/illuminate/containers/AccountDrilldowns/AccountData/accountDataTable.tsx",
+        43
+      ]
+    ]
+  },
+  "Products": {
+    "origin": [
+      [
+        "src/illuminate/containers/AccountDrilldowns/AccountData/accountDataTable.tsx",
+        44
+      ]
+    ]
+  },
+  "Contained In": {
+    "origin": [
+      [
+        "src/illuminate/containers/AccountDrilldowns/AccountData/accountDataTable.tsx",
+        45
+      ]
+    ]
+  },
+  "Value": {
+    "origin": [
+      [
+        "src/illuminate/containers/AccountDrilldowns/AccountData/accountDataTable.tsx",
+        46
+      ]
+    ]
+  }
+}

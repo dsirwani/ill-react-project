@@ -1,0 +1,10 @@
+{
+	"status": "success",
+	"data": {
+		"theme": "dark",
+		"display_language": "en",
+		"is_currency_pref_million": false,
+		"display_currency": "USD"
+	},
+	"message": "Request successful."
+}

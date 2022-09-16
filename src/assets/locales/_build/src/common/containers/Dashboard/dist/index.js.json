@@ -1,0 +1,42 @@
+{
+  "Search": {
+    "origin": [
+      [
+        "src/common/containers/Dashboard/dist/index.js",
+        56
+      ]
+    ]
+  },
+  "Btn.Go": {
+    "origin": [
+      [
+        "src/common/containers/Dashboard/dist/index.js",
+        60
+      ]
+    ]
+  },
+  "Btn.Upload": {
+    "origin": [
+      [
+        "src/common/containers/Dashboard/dist/index.js",
+        62
+      ]
+    ]
+  },
+  "Team Management": {
+    "origin": [
+      [
+        "src/common/containers/Dashboard/dist/index.js",
+        84
+      ]
+    ]
+  },
+  "Logout": {
+    "origin": [
+      [
+        "src/common/containers/Dashboard/dist/index.js",
+        86
+      ]
+    ]
+  }
+}

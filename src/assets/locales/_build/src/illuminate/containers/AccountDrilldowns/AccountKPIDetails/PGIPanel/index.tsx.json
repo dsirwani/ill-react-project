@@ -1,0 +1,26 @@
+{
+  "PRODUCT CATEGORIES": {
+    "origin": [
+      [
+        "src/illuminate/containers/AccountDrilldowns/AccountKPIDetails/PGIPanel/index.tsx",
+        57
+      ]
+    ]
+  },
+  "BUYING CENTERS": {
+    "origin": [
+      [
+        "src/illuminate/containers/AccountDrilldowns/AccountKPIDetails/PGIPanel/index.tsx",
+        57
+      ]
+    ]
+  },
+  "PGI Totals": {
+    "origin": [
+      [
+        "src/illuminate/containers/AccountDrilldowns/AccountKPIDetails/PGIPanel/index.tsx",
+        73
+      ]
+    ]
+  }
+}

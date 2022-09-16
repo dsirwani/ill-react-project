@@ -1,0 +1,164 @@
+{
+	"data": {
+		"unit": null,
+		"summary": [
+			{
+				"fin_data_type": "plan",
+				"drop2": "sum",
+				"drop3": "fiscal",
+				"variable_type": "financial value",
+				"column": "Total Plan",
+				"period_label": "2020",
+				"value": "$ 0"
+			}
+		],
+		"items": [
+			{
+				"product": "Magazine",
+				"product_id": 658424,
+				"sub_category": true,
+				"kpi": [
+					{
+						"fin_data_type": "plan",
+						"drop2": "sum",
+						"drop3": "fiscal",
+						"variable_type": "financial value",
+						"column": "Total Plan",
+						"period_label": "2020",
+						"value": "$ 0"
+					}
+				]
+			},
+			{
+				"product": "HR and People Engagement",
+				"product_id": 735597,
+				"sub_category": true,
+				"kpi": [
+					{
+						"fin_data_type": "plan",
+						"drop2": "sum",
+						"drop3": "fiscal",
+						"variable_type": "financial value",
+						"column": "Total Plan",
+						"period_label": "2020",
+						"value": "$ 0"
+					}
+				]
+			},
+			{
+				"product": "CRM and Customer Experience",
+				"product_id": 476863,
+				"sub_category": true,
+				"kpi": [
+					{
+						"fin_data_type": "plan",
+						"drop2": "sum",
+						"drop3": "fiscal",
+						"variable_type": "financial value",
+						"column": "Total Plan",
+						"period_label": "2020",
+						"value": "$ 0"
+					}
+				]
+			},
+			{
+				"product": "Business Technology Platform",
+				"product_id": 756298,
+				"sub_category": true,
+				"kpi": [
+					{
+						"fin_data_type": "plan",
+						"drop2": "sum",
+						"drop3": "fiscal",
+						"variable_type": "financial value",
+						"column": "Total Plan",
+						"period_label": "2020",
+						"value": "$ 0"
+					}
+				]
+			},
+			{
+				"product": "Digital",
+				"product_id": 293312,
+				"sub_category": true,
+				"kpi": [
+					{
+						"fin_data_type": "plan",
+						"drop2": "sum",
+						"drop3": "fiscal",
+						"variable_type": "financial value",
+						"column": "Total Plan",
+						"period_label": "2020",
+						"value": "$ 0"
+					}
+				]
+			},
+			{
+				"product": "Network and Spend Management",
+				"product_id": 476949,
+				"sub_category": true,
+				"kpi": [
+					{
+						"fin_data_type": "plan",
+						"drop2": "sum",
+						"drop3": "fiscal",
+						"variable_type": "financial value",
+						"column": "Total Plan",
+						"period_label": "2020",
+						"value": "$ 0"
+					}
+				]
+			},
+			{
+				"product": "Digital Supply Chain",
+				"product_id": 131798,
+				"sub_category": true,
+				"kpi": [
+					{
+						"fin_data_type": "plan",
+						"drop2": "sum",
+						"drop3": "fiscal",
+						"variable_type": "financial value",
+						"column": "Total Plan",
+						"period_label": "2020",
+						"value": "$ 0"
+					}
+				]
+			},
+			{
+				"product": "Television",
+				"product_id": 402509,
+				"sub_category": true,
+				"kpi": [
+					{
+						"fin_data_type": "plan",
+						"drop2": "sum",
+						"drop3": "fiscal",
+						"variable_type": "financial value",
+						"column": "Total Plan",
+						"period_label": "2020",
+						"value": "$ 0"
+					}
+				]
+			},
+			{
+				"product": "ERP and Finance",
+				"product_id": 752912,
+				"sub_category": true,
+				"kpi": [
+					{
+						"fin_data_type": "plan",
+						"drop2": "sum",
+						"drop3": "fiscal",
+						"variable_type": "financial value",
+						"column": "Total Plan",
+						"period_label": "2020",
+						"value": "$ 0"
+					}
+				]
+			}
+		],
+		"product_id": null,
+		"next": null
+	}
+}

@@ -1,0 +1,26 @@
+{
+  "PRODUCT CATEGORIES": {
+    "origin": [
+      [
+        "src/illuminate/containers/AccountDrilldowns/AccountKPIDetails/TotalPlanPanel/index.tsx",
+        57
+      ]
+    ]
+  },
+  "BUYING CENTERS": {
+    "origin": [
+      [
+        "src/illuminate/containers/AccountDrilldowns/AccountKPIDetails/TotalPlanPanel/index.tsx",
+        57
+      ]
+    ]
+  },
+  "Plan Totals": {
+    "origin": [
+      [
+        "src/illuminate/containers/AccountDrilldowns/AccountKPIDetails/TotalPlanPanel/index.tsx",
+        75
+      ]
+    ]
+  }
+}

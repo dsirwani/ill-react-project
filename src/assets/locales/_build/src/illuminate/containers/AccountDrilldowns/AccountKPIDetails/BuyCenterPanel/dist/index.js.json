@@ -1,0 +1,26 @@
+{
+  "PRODUCT CATEGORIES": {
+    "origin": [
+      [
+        "src/illuminate/containers/AccountDrilldowns/AccountKPIDetails/BuyCenterPanel/dist/index.js",
+        71
+      ]
+    ]
+  },
+  "BUYING CENTERS": {
+    "origin": [
+      [
+        "src/illuminate/containers/AccountDrilldowns/AccountKPIDetails/BuyCenterPanel/dist/index.js",
+        73
+      ]
+    ]
+  },
+  "Buy Center": {
+    "origin": [
+      [
+        "src/illuminate/containers/AccountDrilldowns/AccountKPIDetails/BuyCenterPanel/dist/index.js",
+        83
+      ]
+    ]
+  }
+}

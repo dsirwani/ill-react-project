@@ -1,0 +1,178 @@
+{
+	"status": "success",
+	"message": "Request successful.",
+	"data": {
+		"items": [
+			{
+				"template_id": 703784,
+				"modified_at": "2021-04-05 09:10:17",
+				"template_name": "ykrew",
+				"created_at": "2021-03-19 09:57:52",
+				"client_id": "GE0001",
+				"is_default": true,
+				"template_status": 0,
+				"source": "client",
+				"pio_modify": false,
+				"column_details": [
+					{
+						"column_number": 1,
+						"drop3": "Current Year",
+						"fin_data_type": "revenue",
+						"drop2": "Calendar",
+						"variable_type": "financial value"
+					},
+					{
+						"column_number": 2,
+						"drop3": "Fiscal",
+						"fin_data_type": "plan",
+						"drop2": "Sum",
+						"variable_type": "financial value"
+					}
+				]
+			},
+			{
+				"template_id": 296007,
+				"modified_at": "2021-04-05 09:10:17",
+				"template_name": "tt11",
+				"created_at": "2021-03-23 07:04:02",
+				"client_id": "GE0001",
+				"is_default": false,
+				"template_status": 0,
+				"source": "client",
+				"pio_modify": false,
+				"column_details": [
+					{
+						"column_number": 1,
+						"drop3": "Current Year",
+						"fin_data_type": "revenue",
+						"drop2": "Calendar",
+						"variable_type": "financial value"
+					}
+				]
+			},
+			{
+				"template_id": 619699,
+				"modified_at": "2021-03-25 06:43:23",
+				"template_name": "yk",
+				"created_at": "2021-03-09 10:28:10",
+				"client_id": "GE0001",
+				"is_default": false,
+				"template_status": 0,
+				"source": "client",
+				"pio_modify": false,
+				"column_details": [
+					{
+						"column_number": 1,
+						"drop3": "Current Year",
+						"fin_data_type": "revenue",
+						"drop2": "Calendar",
+						"variable_type": "financial value"
+					},
+					{
+						"column_number": 2,
+						"drop3": "Fiscal",
+						"fin_data_type": "plan",
+						"drop2": "Sum",
+						"variable_type": "financial value"
+					},
+					{
+						"column_number": 3,
+						"drop3": "Rolling",
+						"drop4": "Current Month",
+						"fin_data_type": "growth",
+						"drop2": "YoY",
+						"variable_type": "percentage"
+					},
+					{
+						"column_number": 4,
+						"drop3": "Current Month",
+						"fin_data_type": "buying_centers",
+						"drop2": "Fraction",
+						"variable_type": "percentage"
+					},
+					{
+						"column_number": 5,
+						"drop3": "Rolling 12 mo",
+						"drop4": "Current Month",
+						"fin_data_type": "pgi",
+						"drop2": "1 Month",
+						"variable_type": "percentage"
+					}
+				]
+			},
+			{
+				"template_id": 572554,
+				"modified_at": "2021-03-25 06:06:37",
+				"template_name": "KPI Dashboard Default",
+				"created_at": "2020-12-04 06:19:27",
+				"client_id": "GE0001",
+				"is_default": false,
+				"template_status": 0,
+				"source": "polarisio",
+				"pio_modify": true,
+				"column_details": [
+					{
+						"column_number": 1,
+						"drop3": "previous year",
+						"drop4": "",
+						"fin_data_type": "revenue",
+						"drop2": "fiscal",
+						"variable_type": "financial value"
+					},
+					{
+						"column_number": 2,
+						"drop3": "calendar",
+						"drop4": "previous year",
+						"fin_data_type": "growth",
+						"drop2": "yoy",
+						"variable_type": "percentage"
+					},
+					{
+						"column_number": 3,
+						"drop3": "fiscal",
+						"drop4": "",
+						"fin_data_type": "plan",
+						"drop2": "sum",
+						"variable_type": "financial value"
+					},
+					{
+						"column_number": 4,
+						"drop3": "current month",
+						"drop4": "",
+						"fin_data_type": "buying_centers",
+						"drop2": "fraction",
+						"variable_type": "integer"
+					},
+					{
+						"column_number": 5,
+						"drop3": "rolling 12 mo",
+						"drop4": "current month",
+						"fin_data_type": "pgi",
+						"drop2": "1 month",
+						"variable_type": "percentage"
+					}
+				]
+			},
+			{
+				"template_id": 597391,
+				"modified_at": "2021-02-18 10:11:53",
+				"template_name": "Revenue only",
+				"created_at": "2021-02-18 10:11:53",
+				"client_id": "GE0001",
+				"is_default": false,
+				"template_status": 0,
+				"source": "client",
+				"pio_modify": false,
+				"column_details": [
+					{
+						"column_number": 1,
+						"drop3": "Current Year",
+						"fin_data_type": "revenue",
+						"drop2": "Calendar",
+						"variable_type": "financial value"
+					}
+				]
+			}
+		]
+	}
+}

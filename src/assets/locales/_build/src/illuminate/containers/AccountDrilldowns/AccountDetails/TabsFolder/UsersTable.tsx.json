@@ -1,0 +1,26 @@
+{
+  "Primary": {
+    "origin": [
+      [
+        "src/illuminate/containers/AccountDrilldowns/AccountDetails/TabsFolder/UsersTable.tsx",
+        18
+      ]
+    ]
+  },
+  "Secondary": {
+    "origin": [
+      [
+        "src/illuminate/containers/AccountDrilldowns/AccountDetails/TabsFolder/UsersTable.tsx",
+        18
+      ]
+    ]
+  },
+  "Add People": {
+    "origin": [
+      [
+        "src/illuminate/containers/AccountDrilldowns/AccountDetails/TabsFolder/UsersTable.tsx",
+        59
+      ]
+    ]
+  }
+}

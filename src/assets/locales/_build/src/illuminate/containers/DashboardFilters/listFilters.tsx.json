@@ -1,0 +1,42 @@
+{
+  "Saved Filters": {
+    "origin": [
+      [
+        "src/illuminate/containers/DashboardFilters/listFilters.tsx",
+        68
+      ]
+    ]
+  },
+  "Cancel": {
+    "origin": [
+      [
+        "src/illuminate/containers/DashboardFilters/listFilters.tsx",
+        96
+      ]
+    ]
+  },
+  "Apply Filter": {
+    "origin": [
+      [
+        "src/illuminate/containers/DashboardFilters/listFilters.tsx",
+        99
+      ]
+    ]
+  },
+  "No": {
+    "origin": [
+      [
+        "src/illuminate/containers/DashboardFilters/listFilters.tsx",
+        110
+      ]
+    ]
+  },
+  "Yes": {
+    "origin": [
+      [
+        "src/illuminate/containers/DashboardFilters/listFilters.tsx",
+        113
+      ]
+    ]
+  }
+}

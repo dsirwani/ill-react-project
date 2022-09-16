@@ -1,0 +1,110 @@
+{
+  "Name": {
+    "origin": [
+      [
+        "src/illuminate/containers/DashboardTemplates/templateManager.tsx",
+        90
+      ]
+    ]
+  },
+  "Status": {
+    "origin": [
+      [
+        "src/illuminate/containers/DashboardTemplates/templateManager.tsx",
+        90
+      ]
+    ]
+  },
+  "Edit": {
+    "origin": [
+      [
+        "src/illuminate/containers/DashboardTemplates/templateManager.tsx",
+        91
+      ]
+    ]
+  },
+  "Duplicate": {
+    "origin": [
+      [
+        "src/illuminate/containers/DashboardTemplates/templateManager.tsx",
+        91
+      ]
+    ]
+  },
+  "Delete": {
+    "origin": [
+      [
+        "src/illuminate/containers/DashboardTemplates/templateManager.tsx",
+        91
+      ]
+    ]
+  },
+  "Default": {
+    "origin": [
+      [
+        "src/illuminate/containers/DashboardTemplates/templateManager.tsx",
+        91
+      ]
+    ]
+  },
+  "View": {
+    "origin": [
+      [
+        "src/illuminate/containers/DashboardTemplates/templateManager.tsx",
+        92
+      ]
+    ]
+  },
+  "Template": {
+    "origin": [
+      [
+        "src/illuminate/containers/DashboardTemplates/templateManager.tsx",
+        140
+      ]
+    ]
+  },
+  "Manager": {
+    "origin": [
+      [
+        "src/illuminate/containers/DashboardTemplates/templateManager.tsx",
+        140
+      ]
+    ]
+  },
+  "Viewer": {
+    "origin": [
+      [
+        "src/illuminate/containers/DashboardTemplates/templateManager.tsx",
+        140
+      ]
+    ]
+  },
+  "Cancel": {
+    "origin": [
+      [
+        "src/illuminate/containers/DashboardTemplates/templateManager.tsx",
+        187
+      ],
+      [
+        "src/illuminate/containers/DashboardTemplates/templateManager.tsx",
+        207
+      ]
+    ]
+  },
+  "Create new template": {
+    "origin": [
+      [
+        "src/illuminate/containers/DashboardTemplates/templateManager.tsx",
+        194
+      ]
+    ]
+  },
+  "Submit": {
+    "origin": [
+      [
+        "src/illuminate/containers/DashboardTemplates/templateManager.tsx",
+        210
+      ]
+    ]
+  }
+}

@@ -1,0 +1,26 @@
+{
+	"data": {
+		"unit": null,
+		"summary": [],
+		"items": [
+			{
+				"product": "Weekly Magazines",
+				"product_id": 528467,
+				"sub_category": false,
+				"kpi": [
+					{
+						"fin_data_type": "plan",
+						"drop2": "sum",
+						"drop3": "fiscal",
+						"variable_type": "financial value",
+						"column": "Total Plan",
+						"period_label": "2020",
+						"value": "$ 0"
+					}
+				]
+			}
+		],
+		"product_id": 435078,
+		"next": null
+	}
+}

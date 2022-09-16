@@ -1,0 +1,98 @@
+{
+  "Name": {
+    "origin": [
+      [
+        "src/illuminate/containers/TeamAccessManagement/index.tsx",
+        21
+      ]
+    ]
+  },
+  "Email": {
+    "origin": [
+      [
+        "src/illuminate/containers/TeamAccessManagement/index.tsx",
+        22
+      ]
+    ]
+  },
+  "Status": {
+    "origin": [
+      [
+        "src/illuminate/containers/TeamAccessManagement/index.tsx",
+        23
+      ]
+    ]
+  },
+  "Last Platform Activity": {
+    "origin": [
+      [
+        "src/illuminate/containers/TeamAccessManagement/index.tsx",
+        24
+      ]
+    ]
+  },
+  "Deny": {
+    "origin": [
+      [
+        "src/illuminate/containers/TeamAccessManagement/index.tsx",
+        27
+      ],
+      [
+        "src/illuminate/containers/TeamAccessManagement/index.tsx",
+        28
+      ],
+      [
+        "src/illuminate/containers/TeamAccessManagement/index.tsx",
+        33
+      ]
+    ]
+  },
+  "Suspend": {
+    "origin": [
+      [
+        "src/illuminate/containers/TeamAccessManagement/index.tsx",
+        27
+      ],
+      [
+        "src/illuminate/containers/TeamAccessManagement/index.tsx",
+        34
+      ]
+    ]
+  },
+  "Approve": {
+    "origin": [
+      [
+        "src/illuminate/containers/TeamAccessManagement/index.tsx",
+        28
+      ],
+      [
+        "src/illuminate/containers/TeamAccessManagement/index.tsx",
+        29
+      ],
+      [
+        "src/illuminate/containers/TeamAccessManagement/index.tsx",
+        32
+      ]
+    ]
+  },
+  "Invite": {
+    "origin": [
+      [
+        "src/illuminate/containers/TeamAccessManagement/index.tsx",
+        29
+      ],
+      [
+        "src/illuminate/containers/TeamAccessManagement/index.tsx",
+        31
+      ]
+    ]
+  },
+  "Team Access Management": {
+    "origin": [
+      [
+        "src/illuminate/containers/TeamAccessManagement/index.tsx",
+        107
+      ]
+    ]
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "Only Polaris IO can modify": {
+    "origin": [
+      [
+        "src/illuminate/containers/DashboardTemplates/TemplateColumnsModal/index.tsx",
+        120
+      ]
+    ]
+  },
+  "Close": {
+    "origin": [
+      [
+        "src/illuminate/containers/DashboardTemplates/TemplateColumnsModal/index.tsx",
+        129
+      ]
+    ]
+  },
+  "Cancel": {
+    "origin": [
+      [
+        "src/illuminate/containers/DashboardTemplates/TemplateColumnsModal/index.tsx",
+        129
+      ]
+    ]
+  },
+  "OK": {
+    "origin": [
+      [
+        "src/illuminate/containers/DashboardTemplates/TemplateColumnsModal/index.tsx",
+        132
+      ]
+    ]
+  }
+}

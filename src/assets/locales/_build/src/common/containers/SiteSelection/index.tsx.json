@@ -1,0 +1,10 @@
+{
+  "Select Site": {
+    "origin": [
+      [
+        "src/common/containers/SiteSelection/index.tsx",
+        50
+      ]
+    ]
+  }
+}

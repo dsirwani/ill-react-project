@@ -1,0 +1,26 @@
+{
+  "Customer Access": {
+    "origin": [
+      [
+        "src/illuminate/containers/AccountDrilldowns/AccountDetails/TabsFolder/EmailDomain.tsx",
+        11
+      ]
+    ]
+  },
+  "Allow customers with these email domains to subscribe to this account": {
+    "origin": [
+      [
+        "src/illuminate/containers/AccountDrilldowns/AccountDetails/TabsFolder/EmailDomain.tsx",
+        16
+      ]
+    ]
+  },
+  "Add email domain": {
+    "origin": [
+      [
+        "src/illuminate/containers/AccountDrilldowns/AccountDetails/TabsFolder/EmailDomain.tsx",
+        35
+      ]
+    ]
+  }
+}

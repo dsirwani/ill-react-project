@@ -1,0 +1,3 @@
+export enum DASHBOARD_ACTIONS {
+  SET_LOCALE = 'SET_LOCALE',
+}

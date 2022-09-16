@@ -1,0 +1,50 @@
+{
+  "Calendar": {
+    "origin": [
+      [
+        "src/illuminate/containers/AccountDrilldowns/VisualizationPanel/ControlPanel/index.tsx",
+        12
+      ]
+    ]
+  },
+  "Fiscal": {
+    "origin": [
+      [
+        "src/illuminate/containers/AccountDrilldowns/VisualizationPanel/ControlPanel/index.tsx",
+        13
+      ]
+    ]
+  },
+  "Rolling 12 months": {
+    "origin": [
+      [
+        "src/illuminate/containers/AccountDrilldowns/VisualizationPanel/ControlPanel/index.tsx",
+        14
+      ]
+    ]
+  },
+  "Rolling 24 months": {
+    "origin": [
+      [
+        "src/illuminate/containers/AccountDrilldowns/VisualizationPanel/ControlPanel/index.tsx",
+        15
+      ]
+    ]
+  },
+  "Rolling 36 months": {
+    "origin": [
+      [
+        "src/illuminate/containers/AccountDrilldowns/VisualizationPanel/ControlPanel/index.tsx",
+        16
+      ]
+    ]
+  },
+  "Graph Controls": {
+    "origin": [
+      [
+        "src/illuminate/containers/AccountDrilldowns/VisualizationPanel/ControlPanel/index.tsx",
+        35
+      ]
+    ]
+  }
+}

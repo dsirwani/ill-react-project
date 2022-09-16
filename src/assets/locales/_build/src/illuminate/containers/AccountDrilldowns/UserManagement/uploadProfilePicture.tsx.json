@@ -1,0 +1,18 @@
+{
+  "Btn.Upload": {
+    "origin": [
+      [
+        "src/illuminate/containers/AccountDrilldowns/UserManagement/uploadProfilePicture.tsx",
+        63
+      ]
+    ]
+  },
+  "Cancel": {
+    "origin": [
+      [
+        "src/illuminate/containers/AccountDrilldowns/UserManagement/uploadProfilePicture.tsx",
+        66
+      ]
+    ]
+  }
+}

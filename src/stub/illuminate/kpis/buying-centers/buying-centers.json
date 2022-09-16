@@ -1,0 +1,414 @@
+{
+	"data": {
+		"unit": null,
+		"summary": [
+			{
+				"fin_data_type": "buying_centers",
+				"drop2": "plan",
+				"drop3": "fiscal",
+				"variable_type": "financial value",
+				"column": "Plan",
+				"period_label": "2020",
+				"value": "$ 0"
+			},
+			{
+				"fin_data_type": "buying_centers",
+				"drop2": "plan growth",
+				"drop3": "fiscal",
+				"variable_type": "percentage",
+				"column": "Plan Growth",
+				"period_label": "2019/2020",
+				"value": "0.00"
+			},
+			{
+				"fin_data_type": "buying_centers",
+				"drop2": "account spend",
+				"drop3": "fiscal",
+				"variable_type": "financial value",
+				"column": "Account Spend",
+				"value": "$ 1,279,524,897"
+			},
+			{
+				"fin_data_type": "buying_centers",
+				"drop2": "account penetration",
+				"drop3": "fiscal",
+				"variable_type": "percentage",
+				"column": "Account Penetration",
+				"value": 0.0
+			}
+		],
+		"items": [
+			{
+				"product": "Magazine",
+				"product_id": 658424,
+				"sub_category": true,
+				"kpi": [
+					{
+						"fin_data_type": "buying_centers",
+						"drop2": "plan",
+						"drop3": "fiscal",
+						"variable_type": "financial value",
+						"column": "Plan",
+						"period_label": "2020",
+						"value": "$ 0"
+					},
+					{
+						"fin_data_type": "buying_centers",
+						"drop2": "plan growth",
+						"drop3": "fiscal",
+						"variable_type": "percentage",
+						"column": "Plan Growth",
+						"period_label": "2019/2020",
+						"value": "0.00"
+					},
+					{
+						"fin_data_type": "buying_centers",
+						"drop2": "account spend",
+						"drop3": "fiscal",
+						"variable_type": "financial value",
+						"column": "Account Spend",
+						"value": "$ 0"
+					},
+					{
+						"fin_data_type": "buying_centers",
+						"drop2": "account penetration",
+						"drop3": "fiscal",
+						"variable_type": "percentage",
+						"column": "Account Penetration",
+						"value": 0.0
+					}
+				]
+			},
+			{
+				"product": "HR and People Engagement",
+				"product_id": 735597,
+				"sub_category": true,
+				"kpi": [
+					{
+						"fin_data_type": "buying_centers",
+						"drop2": "plan",
+						"drop3": "fiscal",
+						"variable_type": "financial value",
+						"column": "Plan",
+						"period_label": "2020",
+						"value": "$ 0"
+					},
+					{
+						"fin_data_type": "buying_centers",
+						"drop2": "plan growth",
+						"drop3": "fiscal",
+						"variable_type": "percentage",
+						"column": "Plan Growth",
+						"period_label": "2019/2020",
+						"value": "0.00"
+					},
+					{
+						"fin_data_type": "buying_centers",
+						"drop2": "account spend",
+						"drop3": "fiscal",
+						"variable_type": "financial value",
+						"column": "Account Spend",
+						"value": "$ 0"
+					},
+					{
+						"fin_data_type": "buying_centers",
+						"drop2": "account penetration",
+						"drop3": "fiscal",
+						"variable_type": "percentage",
+						"column": "Account Penetration",
+						"value": 0.0
+					}
+				]
+			},
+			{
+				"product": "CRM and Customer Experience",
+				"product_id": 476863,
+				"sub_category": true,
+				"kpi": [
+					{
+						"fin_data_type": "buying_centers",
+						"drop2": "plan",
+						"drop3": "fiscal",
+						"variable_type": "financial value",
+						"column": "Plan",
+						"period_label": "2020",
+						"value": "$ 0"
+					},
+					{
+						"fin_data_type": "buying_centers",
+						"drop2": "plan growth",
+						"drop3": "fiscal",
+						"variable_type": "percentage",
+						"column": "Plan Growth",
+						"period_label": "2019/2020",
+						"value": "0.00"
+					},
+					{
+						"fin_data_type": "buying_centers",
+						"drop2": "account spend",
+						"drop3": "fiscal",
+						"variable_type": "financial value",
+						"column": "Account Spend",
+						"value": "$ 0"
+					},
+					{
+						"fin_data_type": "buying_centers",
+						"drop2": "account penetration",
+						"drop3": "fiscal",
+						"variable_type": "percentage",
+						"column": "Account Penetration",
+						"value": 0.0
+					}
+				]
+			},
+			{
+				"product": "Business Technology Platform",
+				"product_id": 756298,
+				"sub_category": true,
+				"kpi": [
+					{
+						"fin_data_type": "buying_centers",
+						"drop2": "plan",
+						"drop3": "fiscal",
+						"variable_type": "financial value",
+						"column": "Plan",
+						"period_label": "2020",
+						"value": "$ 0"
+					},
+					{
+						"fin_data_type": "buying_centers",
+						"drop2": "plan growth",
+						"drop3": "fiscal",
+						"variable_type": "percentage",
+						"column": "Plan Growth",
+						"period_label": "2019/2020",
+						"value": "0.00"
+					},
+					{
+						"fin_data_type": "buying_centers",
+						"drop2": "account spend",
+						"drop3": "fiscal",
+						"variable_type": "financial value",
+						"column": "Account Spend",
+						"value": "$ 0"
+					},
+					{
+						"fin_data_type": "buying_centers",
+						"drop2": "account penetration",
+						"drop3": "fiscal",
+						"variable_type": "percentage",
+						"column": "Account Penetration",
+						"value": 0.0
+					}
+				]
+			},
+			{
+				"product": "Digital",
+				"product_id": 293312,
+				"sub_category": true,
+				"kpi": [
+					{
+						"fin_data_type": "buying_centers",
+						"drop2": "plan",
+						"drop3": "fiscal",
+						"variable_type": "financial value",
+						"column": "Plan",
+						"period_label": "2020",
+						"value": "$ 0"
+					},
+					{
+						"fin_data_type": "buying_centers",
+						"drop2": "plan growth",
+						"drop3": "fiscal",
+						"variable_type": "percentage",
+						"column": "Plan Growth",
+						"period_label": "2019/2020",
+						"value": "0.00"
+					},
+					{
+						"fin_data_type": "buying_centers",
+						"drop2": "account spend",
+						"drop3": "fiscal",
+						"variable_type": "financial value",
+						"column": "Account Spend",
+						"value": "$ 863,229,505"
+					},
+					{
+						"fin_data_type": "buying_centers",
+						"drop2": "account penetration",
+						"drop3": "fiscal",
+						"variable_type": "percentage",
+						"column": "Account Penetration",
+						"value": 0.0
+					}
+				]
+			},
+			{
+				"product": "Network and Spend Management",
+				"product_id": 476949,
+				"sub_category": true,
+				"kpi": [
+					{
+						"fin_data_type": "buying_centers",
+						"drop2": "plan",
+						"drop3": "fiscal",
+						"variable_type": "financial value",
+						"column": "Plan",
+						"period_label": "2020",
+						"value": "$ 0"
+					},
+					{
+						"fin_data_type": "buying_centers",
+						"drop2": "plan growth",
+						"drop3": "fiscal",
+						"variable_type": "percentage",
+						"column": "Plan Growth",
+						"period_label": "2019/2020",
+						"value": "0.00"
+					},
+					{
+						"fin_data_type": "buying_centers",
+						"drop2": "account spend",
+						"drop3": "fiscal",
+						"variable_type": "financial value",
+						"column": "Account Spend",
+						"value": "$ 0"
+					},
+					{
+						"fin_data_type": "buying_centers",
+						"drop2": "account penetration",
+						"drop3": "fiscal",
+						"variable_type": "percentage",
+						"column": "Account Penetration",
+						"value": 0.0
+					}
+				]
+			},
+			{
+				"product": "Digital Supply Chain",
+				"product_id": 131798,
+				"sub_category": true,
+				"kpi": [
+					{
+						"fin_data_type": "buying_centers",
+						"drop2": "plan",
+						"drop3": "fiscal",
+						"variable_type": "financial value",
+						"column": "Plan",
+						"period_label": "2020",
+						"value": "$ 0"
+					},
+					{
+						"fin_data_type": "buying_centers",
+						"drop2": "plan growth",
+						"drop3": "fiscal",
+						"variable_type": "percentage",
+						"column": "Plan Growth",
+						"period_label": "2019/2020",
+						"value": "0.00"
+					},
+					{
+						"fin_data_type": "buying_centers",
+						"drop2": "account spend",
+						"drop3": "fiscal",
+						"variable_type": "financial value",
+						"column": "Account Spend",
+						"value": "$ 0"
+					},
+					{
+						"fin_data_type": "buying_centers",
+						"drop2": "account penetration",
+						"drop3": "fiscal",
+						"variable_type": "percentage",
+						"column": "Account Penetration",
+						"value": 0.0
+					}
+				]
+			},
+			{
+				"product": "Television",
+				"product_id": 402509,
+				"sub_category": true,
+				"kpi": [
+					{
+						"fin_data_type": "buying_centers",
+						"drop2": "plan",
+						"drop3": "fiscal",
+						"variable_type": "financial value",
+						"column": "Plan",
+						"period_label": "2020",
+						"value": "$ 0"
+					},
+					{
+						"fin_data_type": "buying_centers",
+						"drop2": "plan growth",
+						"drop3": "fiscal",
+						"variable_type": "percentage",
+						"column": "Plan Growth",
+						"period_label": "2019/2020",
+						"value": "0.00"
+					},
+					{
+						"fin_data_type": "buying_centers",
+						"drop2": "account spend",
+						"drop3": "fiscal",
+						"variable_type": "financial value",
+						"column": "Account Spend",
+						"value": "$ 416,295,392"
+					},
+					{
+						"fin_data_type": "buying_centers",
+						"drop2": "account penetration",
+						"drop3": "fiscal",
+						"variable_type": "percentage",
+						"column": "Account Penetration",
+						"value": 0.0
+					}
+				]
+			},
+			{
+				"product": "ERP and Finance",
+				"product_id": 752912,
+				"sub_category": true,
+				"kpi": [
+					{
+						"fin_data_type": "buying_centers",
+						"drop2": "plan",
+						"drop3": "fiscal",
+						"variable_type": "financial value",
+						"column": "Plan",
+						"period_label": "2020",
+						"value": "$ 0"
+					},
+					{
+						"fin_data_type": "buying_centers",
+						"drop2": "plan growth",
+						"drop3": "fiscal",
+						"variable_type": "percentage",
+						"column": "Plan Growth",
+						"period_label": "2019/2020",
+						"value": "0.00"
+					},
+					{
+						"fin_data_type": "buying_centers",
+						"drop2": "account spend",
+						"drop3": "fiscal",
+						"variable_type": "financial value",
+						"column": "Account Spend",
+						"value": "$ 0"
+					},
+					{
+						"fin_data_type": "buying_centers",
+						"drop2": "account penetration",
+						"drop3": "fiscal",
+						"variable_type": "percentage",
+						"column": "Account Penetration",
+						"value": 0.0
+					}
+				]
+			}
+		],
+		"product_id": null,
+		"next": null
+	}
+}

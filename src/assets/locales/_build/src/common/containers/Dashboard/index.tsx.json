@@ -1,0 +1,82 @@
+{
+  "Search": {
+    "origin": [
+      [
+        "src/common/containers/Dashboard/index.tsx",
+        97
+      ]
+    ]
+  },
+  "Btn.Go": {
+    "origin": [
+      [
+        "src/common/containers/Dashboard/index.tsx",
+        103
+      ]
+    ]
+  },
+  "Client Management": {
+    "origin": [
+      [
+        "src/common/containers/Dashboard/index.tsx",
+        107
+      ]
+    ]
+  },
+  "Btn.Upload": {
+    "origin": [
+      [
+        "src/common/containers/Dashboard/index.tsx",
+        112
+      ]
+    ]
+  },
+  "Account Management": {
+    "origin": [
+      [
+        "src/common/containers/Dashboard/index.tsx",
+        165
+      ]
+    ]
+  },
+  "People Management": {
+    "origin": [
+      [
+        "src/common/containers/Dashboard/index.tsx",
+        168
+      ]
+    ]
+  },
+  "Site Administration": {
+    "origin": [
+      [
+        "src/common/containers/Dashboard/index.tsx",
+        171
+      ]
+    ]
+  },
+  "Join an Account Team": {
+    "origin": [
+      [
+        "src/common/containers/Dashboard/index.tsx",
+        174
+      ]
+    ]
+  },
+  "Team Management": {
+    "origin": [
+      [
+        "src/common/containers/Dashboard/index.tsx",
+        177
+      ]
+    ]
+  },
+  "Logout": {
+    "origin": [
+      [
+        "src/common/containers/Dashboard/index.tsx",
+        180
+      ]
+    ]
+  }
+}

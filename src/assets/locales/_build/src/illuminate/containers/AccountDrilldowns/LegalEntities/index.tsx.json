@@ -1,0 +1,34 @@
+{
+  "Legal Entity Info": {
+    "origin": [
+      [
+        "src/illuminate/containers/AccountDrilldowns/LegalEntities/index.tsx",
+        33
+      ]
+    ]
+  },
+  "Alias": {
+    "origin": [
+      [
+        "src/illuminate/containers/AccountDrilldowns/LegalEntities/index.tsx",
+        71
+      ]
+    ]
+  },
+  "Legal Address": {
+    "origin": [
+      [
+        "src/illuminate/containers/AccountDrilldowns/LegalEntities/index.tsx",
+        87
+      ]
+    ]
+  },
+  "\tCompany Headquarters": {
+    "origin": [
+      [
+        "src/illuminate/containers/AccountDrilldowns/LegalEntities/index.tsx",
+        150
+      ]
+    ]
+  }
+}

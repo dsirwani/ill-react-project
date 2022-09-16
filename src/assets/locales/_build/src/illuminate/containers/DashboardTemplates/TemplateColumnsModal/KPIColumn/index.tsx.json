@@ -1,0 +1,18 @@
+{
+  "Custom Header": {
+    "origin": [
+      [
+        "src/illuminate/containers/DashboardTemplates/TemplateColumnsModal/KPIColumn/index.tsx",
+        55
+      ]
+    ]
+  },
+  "Top Line": {
+    "origin": [
+      [
+        "src/illuminate/containers/DashboardTemplates/TemplateColumnsModal/KPIColumn/index.tsx",
+        77
+      ]
+    ]
+  }
+}

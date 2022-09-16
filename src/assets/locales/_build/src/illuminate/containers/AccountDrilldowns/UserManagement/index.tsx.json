@@ -1,0 +1,178 @@
+{
+  "First Name": {
+    "origin": [
+      [
+        "src/illuminate/containers/AccountDrilldowns/UserManagement/index.tsx",
+        52
+      ]
+    ]
+  },
+  "Last Name": {
+    "origin": [
+      [
+        "src/illuminate/containers/AccountDrilldowns/UserManagement/index.tsx",
+        58
+      ]
+    ]
+  },
+  "Email Address": {
+    "origin": [
+      [
+        "src/illuminate/containers/AccountDrilldowns/UserManagement/index.tsx",
+        63
+      ]
+    ]
+  },
+  "Job Title": {
+    "origin": [
+      [
+        "src/illuminate/containers/AccountDrilldowns/UserManagement/index.tsx",
+        68
+      ]
+    ]
+  },
+  "Manager-Email-Address": {
+    "origin": [
+      [
+        "src/illuminate/containers/AccountDrilldowns/UserManagement/index.tsx",
+        73
+      ]
+    ]
+  },
+  "Account Manager": {
+    "origin": [
+      [
+        "src/illuminate/containers/AccountDrilldowns/UserManagement/index.tsx",
+        100
+      ]
+    ]
+  },
+  "Administrator": {
+    "origin": [
+      [
+        "src/illuminate/containers/AccountDrilldowns/UserManagement/index.tsx",
+        101
+      ]
+    ]
+  },
+  "Content Manager": {
+    "origin": [
+      [
+        "src/illuminate/containers/AccountDrilldowns/UserManagement/index.tsx",
+        102
+      ]
+    ]
+  },
+  "Customer": {
+    "origin": [
+      [
+        "src/illuminate/containers/AccountDrilldowns/UserManagement/index.tsx",
+        103
+      ]
+    ]
+  },
+  "People Manager": {
+    "origin": [
+      [
+        "src/illuminate/containers/AccountDrilldowns/UserManagement/index.tsx",
+        104
+      ]
+    ]
+  },
+  "Survey Manager": {
+    "origin": [
+      [
+        "src/illuminate/containers/AccountDrilldowns/UserManagement/index.tsx",
+        105
+      ]
+    ]
+  },
+  "Team Member": {
+    "origin": [
+      [
+        "src/illuminate/containers/AccountDrilldowns/UserManagement/index.tsx",
+        106
+      ]
+    ]
+  },
+  "Show Currency KPIs using MM": {
+    "origin": [
+      [
+        "src/illuminate/containers/AccountDrilldowns/UserManagement/index.tsx",
+        189
+      ]
+    ]
+  },
+  "Submit": {
+    "origin": [
+      [
+        "src/illuminate/containers/AccountDrilldowns/UserManagement/index.tsx",
+        193
+      ]
+    ]
+  },
+  "Account Membership": {
+    "origin": [
+      [
+        "src/illuminate/containers/AccountDrilldowns/UserManagement/index.tsx",
+        200
+      ]
+    ]
+  },
+  "All accounts": {
+    "origin": [
+      [
+        "src/illuminate/containers/AccountDrilldowns/UserManagement/index.tsx",
+        210
+      ]
+    ]
+  },
+  "All Accounts": {
+    "origin": [
+      [
+        "src/illuminate/containers/AccountDrilldowns/UserManagement/index.tsx",
+        218
+      ]
+    ]
+  },
+  "No Accounts available": {
+    "origin": [
+      [
+        "src/illuminate/containers/AccountDrilldowns/UserManagement/index.tsx",
+        223
+      ]
+    ]
+  },
+  "Find an account": {
+    "origin": [
+      [
+        "src/illuminate/containers/AccountDrilldowns/UserManagement/index.tsx",
+        229
+      ]
+    ]
+  },
+  "REMOVE": {
+    "origin": [
+      [
+        "src/illuminate/containers/AccountDrilldowns/UserManagement/index.tsx",
+        234
+      ]
+    ]
+  },
+  "ADD": {
+    "origin": [
+      [
+        "src/illuminate/containers/AccountDrilldowns/UserManagement/index.tsx",
+        237
+      ]
+    ]
+  },
+  "Management Permissions": {
+    "origin": [
+      [
+        "src/illuminate/containers/AccountDrilldowns/UserManagement/index.tsx",
+        245
+      ]
+    ]
+  }
+}

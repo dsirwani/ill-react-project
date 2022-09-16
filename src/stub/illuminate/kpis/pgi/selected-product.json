@@ -1,0 +1,292 @@
+{
+	"data": {
+		"unit": null,
+		"summary": [],
+		"items": [
+			{
+				"product": "Petroleum and refining",
+				"product_id": 873045,
+				"sub_category": true,
+				"kpi": [
+					{
+						"fin_data_type": "pgi",
+						"drop2": "1 month",
+						"drop3": "rolling 12 mo",
+						"drop4": "current month",
+						"variable_type": "percentage",
+						"column": "Dec",
+						"period_label": "Dec 2020",
+						"value": "0.0000"
+					},
+					{
+						"fin_data_type": "pgi",
+						"drop2": "1 month",
+						"drop3": "rolling 12 mo",
+						"drop4": "previous month",
+						"variable_type": "percentage",
+						"column": "Nov",
+						"period_label": "Nov 2020",
+						"value": "0.0000"
+					},
+					{
+						"fin_data_type": "pgi",
+						"drop2": "1 month",
+						"drop3": "rolling 12 mo",
+						"drop4": "current month -2",
+						"variable_type": "percentage",
+						"column": "Oct",
+						"period_label": "Oct 2020",
+						"value": "0.0000"
+					},
+					{
+						"fin_data_type": "pgi",
+						"drop2": "1 month",
+						"drop3": "rolling 12 mo",
+						"drop4": "current month -3",
+						"variable_type": "percentage",
+						"column": "Sep",
+						"period_label": "Sep 2020",
+						"value": "0.0000"
+					}
+				]
+			},
+			{
+				"product": "ERP for Small and Midsize Enterprise",
+				"product_id": 676441,
+				"sub_category": false,
+				"kpi": [
+					{
+						"fin_data_type": "pgi",
+						"drop2": "1 month",
+						"drop3": "rolling 12 mo",
+						"drop4": "current month",
+						"variable_type": "percentage",
+						"column": "Dec",
+						"period_label": "Dec 2020",
+						"value": "0.0000"
+					},
+					{
+						"fin_data_type": "pgi",
+						"drop2": "1 month",
+						"drop3": "rolling 12 mo",
+						"drop4": "previous month",
+						"variable_type": "percentage",
+						"column": "Nov",
+						"period_label": "Nov 2020",
+						"value": "0.0000"
+					},
+					{
+						"fin_data_type": "pgi",
+						"drop2": "1 month",
+						"drop3": "rolling 12 mo",
+						"drop4": "current month -2",
+						"variable_type": "percentage",
+						"column": "Oct",
+						"period_label": "Oct 2020",
+						"value": "0.0000"
+					},
+					{
+						"fin_data_type": "pgi",
+						"drop2": "1 month",
+						"drop3": "rolling 12 mo",
+						"drop4": "current month -3",
+						"variable_type": "percentage",
+						"column": "Sep",
+						"period_label": "Sep 2020",
+						"value": "0.0000"
+					}
+				]
+			},
+			{
+				"product": "Accounting and Financial Close",
+				"product_id": 661562,
+				"sub_category": false,
+				"kpi": [
+					{
+						"fin_data_type": "pgi",
+						"drop2": "1 month",
+						"drop3": "rolling 12 mo",
+						"drop4": "current month",
+						"variable_type": "percentage",
+						"column": "Dec",
+						"period_label": "Dec 2020",
+						"value": "0.0000"
+					},
+					{
+						"fin_data_type": "pgi",
+						"drop2": "1 month",
+						"drop3": "rolling 12 mo",
+						"drop4": "previous month",
+						"variable_type": "percentage",
+						"column": "Nov",
+						"period_label": "Nov 2020",
+						"value": "0.0000"
+					},
+					{
+						"fin_data_type": "pgi",
+						"drop2": "1 month",
+						"drop3": "rolling 12 mo",
+						"drop4": "current month -2",
+						"variable_type": "percentage",
+						"column": "Oct",
+						"period_label": "Oct 2020",
+						"value": "0.0000"
+					},
+					{
+						"fin_data_type": "pgi",
+						"drop2": "1 month",
+						"drop3": "rolling 12 mo",
+						"drop4": "current month -3",
+						"variable_type": "percentage",
+						"column": "Sep",
+						"period_label": "Sep 2020",
+						"value": "0.0000"
+					}
+				]
+			},
+			{
+				"product": "Accts Receivable, Billing and Revenue Mgmt",
+				"product_id": 363966,
+				"sub_category": false,
+				"kpi": [
+					{
+						"fin_data_type": "pgi",
+						"drop2": "1 month",
+						"drop3": "rolling 12 mo",
+						"drop4": "current month",
+						"variable_type": "percentage",
+						"column": "Dec",
+						"period_label": "Dec 2020",
+						"value": "0.0000"
+					},
+					{
+						"fin_data_type": "pgi",
+						"drop2": "1 month",
+						"drop3": "rolling 12 mo",
+						"drop4": "previous month",
+						"variable_type": "percentage",
+						"column": "Nov",
+						"period_label": "Nov 2020",
+						"value": "0.0000"
+					},
+					{
+						"fin_data_type": "pgi",
+						"drop2": "1 month",
+						"drop3": "rolling 12 mo",
+						"drop4": "current month -2",
+						"variable_type": "percentage",
+						"column": "Oct",
+						"period_label": "Oct 2020",
+						"value": "0.0000"
+					},
+					{
+						"fin_data_type": "pgi",
+						"drop2": "1 month",
+						"drop3": "rolling 12 mo",
+						"drop4": "current month -3",
+						"variable_type": "percentage",
+						"column": "Sep",
+						"period_label": "Sep 2020",
+						"value": "0.0000"
+					}
+				]
+			},
+			{
+				"product": "SAP S/4HANA",
+				"product_id": 183322,
+				"sub_category": false,
+				"kpi": [
+					{
+						"fin_data_type": "pgi",
+						"drop2": "1 month",
+						"drop3": "rolling 12 mo",
+						"drop4": "current month",
+						"variable_type": "percentage",
+						"column": "Dec",
+						"period_label": "Dec 2020",
+						"value": "0.0000"
+					},
+					{
+						"fin_data_type": "pgi",
+						"drop2": "1 month",
+						"drop3": "rolling 12 mo",
+						"drop4": "previous month",
+						"variable_type": "percentage",
+						"column": "Nov",
+						"period_label": "Nov 2020",
+						"value": "0.0000"
+					},
+					{
+						"fin_data_type": "pgi",
+						"drop2": "1 month",
+						"drop3": "rolling 12 mo",
+						"drop4": "current month -2",
+						"variable_type": "percentage",
+						"column": "Oct",
+						"period_label": "Oct 2020",
+						"value": "0.0000"
+					},
+					{
+						"fin_data_type": "pgi",
+						"drop2": "1 month",
+						"drop3": "rolling 12 mo",
+						"drop4": "current month -3",
+						"variable_type": "percentage",
+						"column": "Sep",
+						"period_label": "Sep 2020",
+						"value": "0.0000"
+					}
+				]
+			},
+			{
+				"product": "Treasury Management",
+				"product_id": 584732,
+				"sub_category": false,
+				"kpi": [
+					{
+						"fin_data_type": "pgi",
+						"drop2": "1 month",
+						"drop3": "rolling 12 mo",
+						"drop4": "current month",
+						"variable_type": "percentage",
+						"column": "Dec",
+						"period_label": "Dec 2020",
+						"value": "0.0000"
+					},
+					{
+						"fin_data_type": "pgi",
+						"drop2": "1 month",
+						"drop3": "rolling 12 mo",
+						"drop4": "previous month",
+						"variable_type": "percentage",
+						"column": "Nov",
+						"period_label": "Nov 2020",
+						"value": "0.0000"
+					},
+					{
+						"fin_data_type": "pgi",
+						"drop2": "1 month",
+						"drop3": "rolling 12 mo",
+						"drop4": "current month -2",
+						"variable_type": "percentage",
+						"column": "Oct",
+						"period_label": "Oct 2020",
+						"value": "0.0000"
+					},
+					{
+						"fin_data_type": "pgi",
+						"drop2": "1 month",
+						"drop3": "rolling 12 mo",
+						"drop4": "current month -3",
+						"variable_type": "percentage",
+						"column": "Sep",
+						"period_label": "Sep 2020",
+						"value": "0.0000"
+					}
+				]
+			}
+		],
+		"product_id": 752912,
+		"next": null
+	}
+}

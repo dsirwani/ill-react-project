@@ -1,0 +1,34 @@
+{
+  "Duplicate Template": {
+    "origin": [
+      [
+        "src/illuminate/containers/DashboardTemplates/DuplicateTemplateModal/index.tsx",
+        64
+      ]
+    ]
+  },
+  "Template Name:": {
+    "origin": [
+      [
+        "src/illuminate/containers/DashboardTemplates/DuplicateTemplateModal/index.tsx",
+        67
+      ]
+    ]
+  },
+  "Cancel": {
+    "origin": [
+      [
+        "src/illuminate/containers/DashboardTemplates/DuplicateTemplateModal/index.tsx",
+        80
+      ]
+    ]
+  },
+  "Save": {
+    "origin": [
+      [
+        "src/illuminate/containers/DashboardTemplates/DuplicateTemplateModal/index.tsx",
+        85
+      ]
+    ]
+  }
+}

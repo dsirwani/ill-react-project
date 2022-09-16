@@ -1,0 +1,98 @@
+{
+  "items": [
+    {
+      "account_name": "Banca MPS",
+      "account_id": 131838,
+      "logo_link": "https://ilmvp-public-resources.s3.amazonaws.com/genericPublisherLogo.png",
+      "application_status": "D"
+    },
+    {
+      "account_name": "Nedbank",
+      "account_id": 139547,
+      "logo_link": "https://ilmvp-public-resources.s3.amazonaws.com/genericPublisherLogo.png",
+      "application_status": "D"
+    },
+    {
+      "account_name": "West Japan Railway",
+      "account_id": 139633,
+      "logo_link": "https://ilmvp-public-resources.s3.amazonaws.com/genericPublisherLogo.png",
+      "application_status": "D"
+    },
+    {
+      "account_name": "Lear",
+      "account_id": 140655,
+      "logo_link": "https://ilmvp-public-resources.s3.amazonaws.com/genericPublisherLogo.png",
+      "application_status": "P"
+    },
+    {
+      "account_name": "Société Générale",
+      "account_id": 141582,
+      "logo_link": "https://ilmvp-public-resources.s3.amazonaws.com/genericPublisherLogo.png",
+      "application_status": "A",
+      "revenue": {
+        "value": 596.6,
+        "unit": "MM"
+      },
+      "growth": {
+        "value": 6,
+        "duration": "YOY"
+      },
+      "plan": {
+        "value": 389,
+        "change_pct": 92
+      },
+      "buying_centers": {
+        "value": "2/9",
+        "change_pct": 18
+      }
+    },
+    {
+      "account_name": "Greenland Holdings Group",
+      "account_id": 147594,
+      "logo_link": "https://ilmvp-public-resources.s3.amazonaws.com/genericPublisherLogo.png",
+      "application_status": "P"
+    },
+    {
+      "account_name": "Electric Power Development",
+      "account_id": 148379,
+      "logo_link": "https://ilmvp-public-resources.s3.amazonaws.com/genericPublisherLogo.png",
+      "application_status": "A",
+      "revenue": {
+        "value": 643.8,
+        "unit": "MM"
+      },
+      "growth": {
+        "value": 13,
+        "duration": "YOY"
+      },
+      "plan": {
+        "value": 314,
+        "change_pct": 7
+      },
+      "buying_centers": {
+        "value": "1/9",
+        "change_pct": 45
+      }
+    },
+    {
+      "account_name": "BayWa",
+      "account_id": 148598,
+      "logo_link": "https://ilmvp-public-resources.s3.amazonaws.com/genericPublisherLogo.png",
+      "application_status": "D"
+    },
+    {
+      "account_name": "Jyske Bank",
+      "account_id": 149329,
+      "logo_link": "https://ilmvp-public-resources.s3.amazonaws.com/genericPublisherLogo.png",
+      "application_status": "D"
+    },
+    {
+      "account_name": "Fannie Mae",
+      "account_id": 149657,
+      "logo_link": "https://ilmvp-public-resources.s3.amazonaws.com/genericPublisherLogo.png",
+      "application_status": "D"
+    }
+  ],
+  "next": "/accountsList3.json",
+  "per_page": 10
+}

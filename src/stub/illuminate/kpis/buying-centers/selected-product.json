@@ -1,0 +1,256 @@
+{
+	"data": {
+		"unit": null,
+		"summary": [],
+		"items": [
+			{
+				"product": "Native Advertising",
+				"product_id": 937384,
+				"sub_category": false,
+				"kpi": [
+					{
+						"fin_data_type": "buying_centers",
+						"drop2": "plan",
+						"drop3": "fiscal",
+						"variable_type": "financial value",
+						"column": "Plan",
+						"period_label": "2020",
+						"value": "$ 0"
+					},
+					{
+						"fin_data_type": "buying_centers",
+						"drop2": "plan growth",
+						"drop3": "fiscal",
+						"variable_type": "percentage",
+						"column": "Plan Growth",
+						"period_label": "2019/2020",
+						"value": "0.00"
+					},
+					{
+						"fin_data_type": "buying_centers",
+						"drop2": "account spend",
+						"drop3": "fiscal",
+						"variable_type": "financial value",
+						"column": "Account Spend",
+						"value": "$ 0"
+					},
+					{
+						"fin_data_type": "buying_centers",
+						"drop2": "account penetration",
+						"drop3": "fiscal",
+						"variable_type": "percentage",
+						"column": "Account Penetration",
+						"value": 0.0
+					}
+				]
+			},
+			{
+				"product": "Display Advertising",
+				"product_id": 973392,
+				"sub_category": false,
+				"kpi": [
+					{
+						"fin_data_type": "buying_centers",
+						"drop2": "plan",
+						"drop3": "fiscal",
+						"variable_type": "financial value",
+						"column": "Plan",
+						"period_label": "2020",
+						"value": "$ 0"
+					},
+					{
+						"fin_data_type": "buying_centers",
+						"drop2": "plan growth",
+						"drop3": "fiscal",
+						"variable_type": "percentage",
+						"column": "Plan Growth",
+						"period_label": "2019/2020",
+						"value": "0.00"
+					},
+					{
+						"fin_data_type": "buying_centers",
+						"drop2": "account spend",
+						"drop3": "fiscal",
+						"variable_type": "financial value",
+						"column": "Account Spend",
+						"value": "$ 0"
+					},
+					{
+						"fin_data_type": "buying_centers",
+						"drop2": "account penetration",
+						"drop3": "fiscal",
+						"variable_type": "percentage",
+						"column": "Account Penetration",
+						"value": 0.0
+					}
+				]
+			},
+			{
+				"product": "CTV / OTT (Streaming)",
+				"product_id": 304359,
+				"sub_category": false,
+				"kpi": [
+					{
+						"fin_data_type": "buying_centers",
+						"drop2": "plan",
+						"drop3": "fiscal",
+						"variable_type": "financial value",
+						"column": "Plan",
+						"period_label": "2020",
+						"value": "$ 0"
+					},
+					{
+						"fin_data_type": "buying_centers",
+						"drop2": "plan growth",
+						"drop3": "fiscal",
+						"variable_type": "percentage",
+						"column": "Plan Growth",
+						"period_label": "2019/2020",
+						"value": "0.00"
+					},
+					{
+						"fin_data_type": "buying_centers",
+						"drop2": "account spend",
+						"drop3": "fiscal",
+						"variable_type": "financial value",
+						"column": "Account Spend",
+						"value": "$ 0"
+					},
+					{
+						"fin_data_type": "buying_centers",
+						"drop2": "account penetration",
+						"drop3": "fiscal",
+						"variable_type": "percentage",
+						"column": "Account Penetration",
+						"value": 0.0
+					}
+				]
+			},
+			{
+				"product": "Paid Social",
+				"product_id": 192848,
+				"sub_category": false,
+				"kpi": [
+					{
+						"fin_data_type": "buying_centers",
+						"drop2": "plan",
+						"drop3": "fiscal",
+						"variable_type": "financial value",
+						"column": "Plan",
+						"period_label": "2020",
+						"value": "$ 0"
+					},
+					{
+						"fin_data_type": "buying_centers",
+						"drop2": "plan growth",
+						"drop3": "fiscal",
+						"variable_type": "percentage",
+						"column": "Plan Growth",
+						"period_label": "2019/2020",
+						"value": "0.00"
+					},
+					{
+						"fin_data_type": "buying_centers",
+						"drop2": "account spend",
+						"drop3": "fiscal",
+						"variable_type": "financial value",
+						"column": "Account Spend",
+						"value": "$ 0"
+					},
+					{
+						"fin_data_type": "buying_centers",
+						"drop2": "account penetration",
+						"drop3": "fiscal",
+						"variable_type": "percentage",
+						"column": "Account Penetration",
+						"value": 0.0
+					}
+				]
+			},
+			{
+				"product": "Paid Search",
+				"product_id": 141255,
+				"sub_category": false,
+				"kpi": [
+					{
+						"fin_data_type": "buying_centers",
+						"drop2": "plan",
+						"drop3": "fiscal",
+						"variable_type": "financial value",
+						"column": "Plan",
+						"period_label": "2020",
+						"value": "$ 0"
+					},
+					{
+						"fin_data_type": "buying_centers",
+						"drop2": "plan growth",
+						"drop3": "fiscal",
+						"variable_type": "percentage",
+						"column": "Plan Growth",
+						"period_label": "2019/2020",
+						"value": "0.00"
+					},
+					{
+						"fin_data_type": "buying_centers",
+						"drop2": "account spend",
+						"drop3": "fiscal",
+						"variable_type": "financial value",
+						"column": "Account Spend",
+						"value": "$ 0"
+					},
+					{
+						"fin_data_type": "buying_centers",
+						"drop2": "account penetration",
+						"drop3": "fiscal",
+						"variable_type": "percentage",
+						"column": "Account Penetration",
+						"value": 0.0
+					}
+				]
+			},
+			{
+				"product": "Mobile",
+				"product_id": 155588,
+				"sub_category": false,
+				"kpi": [
+					{
+						"fin_data_type": "buying_centers",
+						"drop2": "plan",
+						"drop3": "fiscal",
+						"variable_type": "financial value",
+						"column": "Plan",
+						"period_label": "2020",
+						"value": "$ 0"
+					},
+					{
+						"fin_data_type": "buying_centers",
+						"drop2": "plan growth",
+						"drop3": "fiscal",
+						"variable_type": "percentage",
+						"column": "Plan Growth",
+						"period_label": "2019/2020",
+						"value": "0.00"
+					},
+					{
+						"fin_data_type": "buying_centers",
+						"drop2": "account spend",
+						"drop3": "fiscal",
+						"variable_type": "financial value",
+						"column": "Account Spend",
+						"value": "$ 0"
+					},
+					{
+						"fin_data_type": "buying_centers",
+						"drop2": "account penetration",
+						"drop3": "fiscal",
+						"variable_type": "percentage",
+						"column": "Account Penetration",
+						"value": 0.0
+					}
+				]
+			}
+		],
+		"product_id": 293312,
+		"next": null
+	}
+}

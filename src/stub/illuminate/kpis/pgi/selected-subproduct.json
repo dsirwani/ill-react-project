@@ -1,0 +1,104 @@
+{
+	"data": {
+		"unit": null,
+		"summary": [],
+		"items": [
+			{
+				"product": "Pharmaceuticals",
+				"product_id": 598450,
+				"sub_category": true,
+				"kpi": [
+					{
+						"fin_data_type": "pgi",
+						"drop2": "1 month",
+						"drop3": "rolling 12 mo",
+						"drop4": "current month",
+						"variable_type": "percentage",
+						"column": "Dec",
+						"period_label": "Dec 2020",
+						"value": "0.0000"
+					},
+					{
+						"fin_data_type": "pgi",
+						"drop2": "1 month",
+						"drop3": "rolling 12 mo",
+						"drop4": "previous month",
+						"variable_type": "percentage",
+						"column": "Nov",
+						"period_label": "Nov 2020",
+						"value": "0.0000"
+					},
+					{
+						"fin_data_type": "pgi",
+						"drop2": "1 month",
+						"drop3": "rolling 12 mo",
+						"drop4": "current month -2",
+						"variable_type": "percentage",
+						"column": "Oct",
+						"period_label": "Oct 2020",
+						"value": "0.0000"
+					},
+					{
+						"fin_data_type": "pgi",
+						"drop2": "1 month",
+						"drop3": "rolling 12 mo",
+						"drop4": "current month -3",
+						"variable_type": "percentage",
+						"column": "Sep",
+						"period_label": "Sep 2020",
+						"value": "0.0000"
+					}
+				]
+			},
+			{
+				"product": "Fuel oil",
+				"product_id": 435039,
+				"sub_category": false,
+				"kpi": [
+					{
+						"fin_data_type": "pgi",
+						"drop2": "1 month",
+						"drop3": "rolling 12 mo",
+						"drop4": "current month",
+						"variable_type": "percentage",
+						"column": "Dec",
+						"period_label": "Dec 2020",
+						"value": "0.0000"
+					},
+					{
+						"fin_data_type": "pgi",
+						"drop2": "1 month",
+						"drop3": "rolling 12 mo",
+						"drop4": "previous month",
+						"variable_type": "percentage",
+						"column": "Nov",
+						"period_label": "Nov 2020",
+						"value": "0.0000"
+					},
+					{
+						"fin_data_type": "pgi",
+						"drop2": "1 month",
+						"drop3": "rolling 12 mo",
+						"drop4": "current month -2",
+						"variable_type": "percentage",
+						"column": "Oct",
+						"period_label": "Oct 2020",
+						"value": "0.0000"
+					},
+					{
+						"fin_data_type": "pgi",
+						"drop2": "1 month",
+						"drop3": "rolling 12 mo",
+						"drop4": "current month -3",
+						"variable_type": "percentage",
+						"column": "Sep",
+						"period_label": "Sep 2020",
+						"value": "0.0000"
+					}
+				]
+			}
+		],
+		"product_id": 873045,
+		"next": null
+	}
+}

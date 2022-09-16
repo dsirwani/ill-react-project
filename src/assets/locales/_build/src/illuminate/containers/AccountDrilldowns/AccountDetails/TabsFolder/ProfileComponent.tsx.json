@@ -1,0 +1,50 @@
+{
+  "PIO IDENTIFIER": {
+    "origin": [
+      [
+        "src/illuminate/containers/AccountDrilldowns/AccountDetails/TabsFolder/ProfileComponent.tsx",
+        23
+      ]
+    ]
+  },
+  "Account Name": {
+    "origin": [
+      [
+        "src/illuminate/containers/AccountDrilldowns/AccountDetails/TabsFolder/ProfileComponent.tsx",
+        55
+      ]
+    ]
+  },
+  "Team members can self-register": {
+    "origin": [
+      [
+        "src/illuminate/containers/AccountDrilldowns/AccountDetails/TabsFolder/ProfileComponent.tsx",
+        66
+      ]
+    ]
+  },
+  "Team members require approval from self-registration": {
+    "origin": [
+      [
+        "src/illuminate/containers/AccountDrilldowns/AccountDetails/TabsFolder/ProfileComponent.tsx",
+        70
+      ]
+    ]
+  },
+  "Team members can self-register with valid customer domain": {
+    "origin": [
+      [
+        "src/illuminate/containers/AccountDrilldowns/AccountDetails/TabsFolder/ProfileComponent.tsx",
+        74
+      ]
+    ]
+  },
+  "Customers require approval from self-registration": {
+    "origin": [
+      [
+        "src/illuminate/containers/AccountDrilldowns/AccountDetails/TabsFolder/ProfileComponent.tsx",
+        78
+      ]
+    ]
+  }
+}

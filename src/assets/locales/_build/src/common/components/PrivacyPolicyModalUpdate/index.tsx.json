@@ -1,0 +1,58 @@
+{
+  "Important Updates": {
+    "origin": [
+      [
+        "src/common/components/PrivacyPolicyModalUpdate/index.tsx",
+        22
+      ]
+    ]
+  },
+  "Polaris I/O has updated the following document(s). Please read these document(s) as the changes affect your legal rights.": {
+    "origin": [
+      [
+        "src/common/components/PrivacyPolicyModalUpdate/index.tsx",
+        24
+      ]
+    ]
+  },
+  "Document": {
+    "origin": [
+      [
+        "src/common/components/PrivacyPolicyModalUpdate/index.tsx",
+        29
+      ]
+    ]
+  },
+  "Effective as of": {
+    "origin": [
+      [
+        "src/common/components/PrivacyPolicyModalUpdate/index.tsx",
+        30
+      ]
+    ]
+  },
+  "By accepting these documents, you agree to these updates.": {
+    "origin": [
+      [
+        "src/common/components/PrivacyPolicyModalUpdate/index.tsx",
+        45
+      ]
+    ]
+  },
+  "Accept": {
+    "origin": [
+      [
+        "src/common/components/PrivacyPolicyModalUpdate/index.tsx",
+        50
+      ]
+    ]
+  },
+  "Decline": {
+    "origin": [
+      [
+        "src/common/components/PrivacyPolicyModalUpdate/index.tsx",
+        53
+      ]
+    ]
+  }
+}

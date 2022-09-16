@@ -1,0 +1,34 @@
+{
+  "Polaris I/O User Agreement": {
+    "origin": [
+      [
+        "src/common/components/PrivacyPolicyModalSignUp/index.tsx",
+        26
+      ]
+    ]
+  },
+  "I will agree to the Polaris I/O": {
+    "origin": [
+      [
+        "src/common/components/PrivacyPolicyModalSignUp/index.tsx",
+        29
+      ]
+    ]
+  },
+  "Continue": {
+    "origin": [
+      [
+        "src/common/components/PrivacyPolicyModalSignUp/index.tsx",
+        40
+      ]
+    ]
+  },
+  "Decline": {
+    "origin": [
+      [
+        "src/common/components/PrivacyPolicyModalSignUp/index.tsx",
+        43
+      ]
+    ]
+  }
+}

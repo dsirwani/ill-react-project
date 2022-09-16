@@ -1,0 +1,66 @@
+{
+  "Name": {
+    "origin": [
+      [
+        "src/illuminate/containers/AccountDrilldowns/AccountTeam/index.tsx",
+        22
+      ]
+    ]
+  },
+  "Email": {
+    "origin": [
+      [
+        "src/illuminate/containers/AccountDrilldowns/AccountTeam/index.tsx",
+        23
+      ]
+    ]
+  },
+  "Status": {
+    "origin": [
+      [
+        "src/illuminate/containers/AccountDrilldowns/AccountTeam/index.tsx",
+        24
+      ]
+    ]
+  },
+  "Last Platform Activity": {
+    "origin": [
+      [
+        "src/illuminate/containers/AccountDrilldowns/AccountTeam/index.tsx",
+        25
+      ]
+    ]
+  },
+  "Invite": {
+    "origin": [
+      [
+        "src/illuminate/containers/AccountDrilldowns/AccountTeam/index.tsx",
+        29
+      ]
+    ]
+  },
+  "Approve": {
+    "origin": [
+      [
+        "src/illuminate/containers/AccountDrilldowns/AccountTeam/index.tsx",
+        30
+      ]
+    ]
+  },
+  "Deny": {
+    "origin": [
+      [
+        "src/illuminate/containers/AccountDrilldowns/AccountTeam/index.tsx",
+        31
+      ]
+    ]
+  },
+  "Suspend": {
+    "origin": [
+      [
+        "src/illuminate/containers/AccountDrilldowns/AccountTeam/index.tsx",
+        32
+      ]
+    ]
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "Select File": {
+    "origin": [
+      [
+        "src/illuminate/containers/Upload/index.tsx",
+        71
+      ]
+    ]
+  },
+  "Client Workbook": {
+    "origin": [
+      [
+        "src/illuminate/containers/Upload/index.tsx",
+        74
+      ]
+    ]
+  },
+  "Financial": {
+    "origin": [
+      [
+        "src/illuminate/containers/Upload/index.tsx",
+        75
+      ]
+    ]
+  },
+  "Global 2000": {
+    "origin": [
+      [
+        "src/illuminate/containers/Upload/index.tsx",
+        76
+      ]
+    ]
+  },
+  "Btn.Upload": {
+    "origin": [
+      [
+        "src/illuminate/containers/Upload/index.tsx",
+        99
+      ]
+    ]
+  }
+}

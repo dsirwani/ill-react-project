@@ -1,0 +1,114 @@
+{
+  "items": [
+    {
+      "account_name": "FedEx",
+      "account_id": 101507,
+      "logo_link": "https://financialmodelingprep.com/images-New-jpg/FDX.jpg",
+      "application_status": "A",
+      "revenue": {
+        "value": 657.7,
+        "unit": "MM"
+      },
+      "growth": {
+        "value": 12,
+        "duration": "YOY"
+      },
+      "plan": {
+        "value": 217,
+        "change_pct": 56
+      },
+      "buying_centers": {
+        "value": "2/8",
+        "change_pct": 31
+      }
+    },
+    {
+      "account_name": "Grupo Carso",
+      "account_id": 104428,
+      "logo_link": "https://ilmvp-public-resources.s3.amazonaws.com/genericPublisherLogo.png",
+      "application_status": "P"
+    },
+    {
+      "account_name": "Fastighets Balder",
+      "account_id": 106513,
+      "logo_link": "https://ilmvp-public-resources.s3.amazonaws.com/genericPublisherLogo.png",
+      "application_status": "D"
+    },
+    {
+      "account_name": "Banque Centrale Populaire",
+      "account_id": 107527,
+      "logo_link": "https://ilmvp-public-resources.s3.amazonaws.com/genericPublisherLogo.png",
+      "application_status": "P"
+    },
+    {
+      "account_name": "Absa Group",
+      "account_id": 108153,
+      "logo_link": "https://ilmvp-public-resources.s3.amazonaws.com/genericPublisherLogo.png",
+      "application_status": "P"
+    },
+    {
+      "account_name": "Micro Focus International",
+      "account_id": 108564,
+      "logo_link": "https://ilmvp-public-resources.s3.amazonaws.com/genericPublisherLogo.png",
+      "application_status": "A",
+      "revenue": {
+        "value": 984.0,
+        "unit": "MM"
+      },
+      "growth": {
+        "value": 17,
+        "duration": "YOY"
+      },
+      "plan": {
+        "value": 645,
+        "change_pct": 17
+      },
+      "buying_centers": {
+        "value": "4/7",
+        "change_pct": 21
+      }
+    },
+    {
+      "account_name": "Adecco",
+      "account_id": 109183,
+      "logo_link": "https://ilmvp-public-resources.s3.amazonaws.com/genericPublisherLogo.png",
+      "application_status": "P"
+    },
+    {
+      "account_name": "Lotte Chemical",
+      "account_id": 110498,
+      "logo_link": "https://ilmvp-public-resources.s3.amazonaws.com/genericPublisherLogo.png",
+      "application_status": "P"
+    },
+    {
+      "account_name": "Shoprite Holdings",
+      "account_id": 115379,
+      "logo_link": "https://ilmvp-public-resources.s3.amazonaws.com/genericPublisherLogo.png",
+      "application_status": "A",
+      "revenue": {
+        "value": 524.3,
+        "unit": "MM"
+      },
+      "growth": {
+        "value": 8,
+        "duration": "YOY"
+      },
+      "plan": {
+        "value": 896,
+        "change_pct": 33
+      },
+      "buying_centers": {
+        "value": "5/10",
+        "change_pct": 50
+      }
+    },
+    {
+      "account_name": "Wolters Kluwer",
+      "account_id": 116250,
+      "logo_link": "https://financialmodelingprep.com/images-New-jpg/WKL.AS.jpg",
+      "application_status": "P"
+    }
+  ],
+  "next": "/accountsList1.json",
+  "per_page": 10
+}

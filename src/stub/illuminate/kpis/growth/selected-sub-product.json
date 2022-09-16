@@ -1,0 +1,100 @@
+{
+	"data": {
+		"unit": null,
+		"summary": [],
+		"items": [
+			{
+				"product": "Pharmaceuticals",
+				"product_id": 598450,
+				"sub_category": true,
+				"kpi": [
+					{
+						"fin_data_type": "growth",
+						"drop2": "mom",
+						"drop3": "current month",
+						"variable_type": "percentage",
+						"column": "Month",
+						"period_label": "Dec 2019/Dec 2020",
+						"value": "0.00%"
+					},
+					{
+						"fin_data_type": "growth",
+						"drop2": "qoq",
+						"drop3": "complete",
+						"drop4": "current full quarter",
+						"variable_type": "percentage",
+						"column": "Quarter",
+						"period_label": "Jul 2020 - Sep 2020/Oct 2020 - Dec 2020",
+						"value": "0.00%"
+					},
+					{
+						"fin_data_type": "growth",
+						"drop2": "yoy",
+						"drop3": "calendar",
+						"drop4": "previous year",
+						"variable_type": "percentage",
+						"column": "Calendar Year",
+						"period_label": "2018/2019",
+						"value": "0.00%"
+					},
+					{
+						"fin_data_type": "growth",
+						"drop2": "plan growth",
+						"drop3": "fiscal",
+						"variable_type": "percentage",
+						"column": "Plan",
+						"period_label": "2019/2020",
+						"value": "0.00%"
+					}
+				]
+			},
+			{
+				"product": "Fuel oil",
+				"product_id": 435039,
+				"sub_category": false,
+				"kpi": [
+					{
+						"fin_data_type": "growth",
+						"drop2": "mom",
+						"drop3": "current month",
+						"variable_type": "percentage",
+						"column": "Month",
+						"period_label": "Dec 2019/Dec 2020",
+						"value": "0.00%"
+					},
+					{
+						"fin_data_type": "growth",
+						"drop2": "qoq",
+						"drop3": "complete",
+						"drop4": "current full quarter",
+						"variable_type": "percentage",
+						"column": "Quarter",
+						"period_label": "Jul 2020 - Sep 2020/Oct 2020 - Dec 2020",
+						"value": "0.00%"
+					},
+					{
+						"fin_data_type": "growth",
+						"drop2": "yoy",
+						"drop3": "calendar",
+						"drop4": "previous year",
+						"variable_type": "percentage",
+						"column": "Calendar Year",
+						"period_label": "2018/2019",
+						"value": "0.00%"
+					},
+					{
+						"fin_data_type": "growth",
+						"drop2": "plan growth",
+						"drop3": "fiscal",
+						"variable_type": "percentage",
+						"column": "Plan",
+						"period_label": "2019/2020",
+						"value": "0.00%"
+					}
+				]
+			}
+		],
+		"product_id": 873045,
+		"next": null
+	}
+}

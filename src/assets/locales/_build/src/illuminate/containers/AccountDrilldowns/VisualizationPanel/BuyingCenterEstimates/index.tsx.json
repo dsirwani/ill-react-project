@@ -1,0 +1,38 @@
+{
+  "Products": {
+    "origin": [
+      [
+        "src/illuminate/containers/AccountDrilldowns/VisualizationPanel/BuyingCenterEstimates/index.tsx",
+        19
+      ]
+    ]
+  },
+  "Penetration": {
+    "origin": [
+      [
+        "src/illuminate/containers/AccountDrilldowns/VisualizationPanel/BuyingCenterEstimates/index.tsx",
+        19
+      ]
+    ]
+  },
+  "Penetration Analysis": {
+    "origin": [
+      [
+        "src/illuminate/containers/AccountDrilldowns/VisualizationPanel/BuyingCenterEstimates/index.tsx",
+        19
+      ]
+    ]
+  },
+  "Buying Center Estimates": {
+    "origin": [
+      [
+        "src/illuminate/containers/AccountDrilldowns/VisualizationPanel/BuyingCenterEstimates/index.tsx",
+        30
+      ],
+      [
+        "src/illuminate/containers/AccountDrilldowns/VisualizationPanel/BuyingCenterEstimates/index.tsx",
+        38
+      ]
+    ]
+  }
+}

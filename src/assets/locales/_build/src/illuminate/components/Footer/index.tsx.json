@@ -1,0 +1,42 @@
+{
+  "PRIVACY STATEMENT": {
+    "origin": [
+      [
+        "src/illuminate/components/Footer/index.tsx",
+        11
+      ]
+    ]
+  },
+  "COOKIE PREFERENCE": {
+    "origin": [
+      [
+        "src/illuminate/components/Footer/index.tsx",
+        15
+      ]
+    ]
+  },
+  "SECURITY STATEMENT": {
+    "origin": [
+      [
+        "src/illuminate/components/Footer/index.tsx",
+        19
+      ]
+    ]
+  },
+  "TERMS OF SERVICE": {
+    "origin": [
+      [
+        "src/illuminate/components/Footer/index.tsx",
+        23
+      ]
+    ]
+  },
+  "ALL RIGHTS RESERVED": {
+    "origin": [
+      [
+        "src/illuminate/components/Footer/index.tsx",
+        28
+      ]
+    ]
+  }
+}

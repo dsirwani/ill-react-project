@@ -1,0 +1,50 @@
+{
+  "Source": {
+    "origin": [
+      [
+        "src/illuminate/containers/AccountDrilldowns/AccountDetails/TabsFolder/SourceRecords.tsx",
+        16
+      ]
+    ]
+  },
+  "Company Name": {
+    "origin": [
+      [
+        "src/illuminate/containers/AccountDrilldowns/AccountDetails/TabsFolder/SourceRecords.tsx",
+        17
+      ]
+    ]
+  },
+  "Method": {
+    "origin": [
+      [
+        "src/illuminate/containers/AccountDrilldowns/AccountDetails/TabsFolder/SourceRecords.tsx",
+        18
+      ]
+    ]
+  },
+  "Confidence": {
+    "origin": [
+      [
+        "src/illuminate/containers/AccountDrilldowns/AccountDetails/TabsFolder/SourceRecords.tsx",
+        19
+      ]
+    ]
+  },
+  "Source Records": {
+    "origin": [
+      [
+        "src/illuminate/containers/AccountDrilldowns/AccountDetails/TabsFolder/SourceRecords.tsx",
+        33
+      ]
+    ]
+  },
+  "Manual Override": {
+    "origin": [
+      [
+        "src/illuminate/containers/AccountDrilldowns/AccountDetails/TabsFolder/SourceRecords.tsx",
+        54
+      ]
+    ]
+  }
+}

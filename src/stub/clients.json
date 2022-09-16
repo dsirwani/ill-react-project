@@ -1,0 +1,31 @@
+{
+	"status": "success",
+	"data": {
+		"items": [
+			{
+				"client_id": "GE0001",
+				"client_name": "General Electric Company",
+				"s3_logo_link": "https://ilmvp-public-resources.s3.amazonaws.com/genericPublisherLogo.png",
+				"landing_page_url": "ge.pioxdev.com",
+				"preferred_app": "illuminate",
+				"enabled_apps": [
+					"pulse",
+					"illuminate"
+				]
+			},
+			{
+				"client_id": "PIO0001",
+				"client_name": "PIO Inst",
+				"s3_logo_link": "https://ilmvp-public-resources.s3.amazonaws.com/genericPublisherLogo.png",
+				"landing_page_url": "polarisio.pioxdev.com",
+				"preferred_app": "illuminate",
+				"enabled_apps": [
+					"illuminate"
+				]
+			}
+		],
+		"next": null,
+		"per_page": 2
+	},
+	"message": "Request successful."
+}

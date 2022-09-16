@@ -1,0 +1,74 @@
+{
+  "Client Name": {
+    "origin": [
+      [
+        "src/illuminate/containers/AccountDrilldowns/ClientDetails/index.tsx",
+        61
+      ]
+    ]
+  },
+  "Landing URL": {
+    "origin": [
+      [
+        "src/illuminate/containers/AccountDrilldowns/ClientDetails/index.tsx",
+        70
+      ]
+    ]
+  },
+  "Client ID": {
+    "origin": [
+      [
+        "src/illuminate/containers/AccountDrilldowns/ClientDetails/index.tsx",
+        71
+      ]
+    ]
+  },
+  "Child of": {
+    "origin": [
+      [
+        "src/illuminate/containers/AccountDrilldowns/ClientDetails/index.tsx",
+        74
+      ]
+    ]
+  },
+  "This client is a subsidiary of the parent, so KPIs must roll up": {
+    "origin": [
+      [
+        "src/illuminate/containers/AccountDrilldowns/ClientDetails/index.tsx",
+        81
+      ]
+    ]
+  },
+  "Client Access": {
+    "origin": [
+      [
+        "src/illuminate/containers/AccountDrilldowns/ClientDetails/index.tsx",
+        88
+      ]
+    ]
+  },
+  "The clients team members can self-subscribe to the platform": {
+    "origin": [
+      [
+        "src/illuminate/containers/AccountDrilldowns/ClientDetails/index.tsx",
+        92
+      ]
+    ]
+  },
+  "The clients team self-subscribers need approval from admin": {
+    "origin": [
+      [
+        "src/illuminate/containers/AccountDrilldowns/ClientDetails/index.tsx",
+        96
+      ]
+    ]
+  },
+  "The clients team members are allowed to opt-in to anonymized surveys": {
+    "origin": [
+      [
+        "src/illuminate/containers/AccountDrilldowns/ClientDetails/index.tsx",
+        100
+      ]
+    ]
+  }
+}

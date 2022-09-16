@@ -1,0 +1,1 @@
+"use strict";Object.defineProperty(exports,"__esModule",{value:!0}),exports.useStyles=void 0;var _styles=require("@material-ui/core/styles"),drawerWidth=80,useStyles=(0,_styles.makeStyles)(function(e){return{messageBar:{width:"100%",position:"relative"},expandIcon:{color:"#0096dc"},greetContent:{fontSize:26,fontWeight:300}}});exports.useStyles=useStyles;

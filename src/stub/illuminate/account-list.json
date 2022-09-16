@@ -1,0 +1,229 @@
+{
+	"items": [
+		{
+			"type": "account",
+			"data": {
+				"account_name": "3M Company",
+				"account_id": 262808,
+				"logo_link": "https://financialmodelingprep.com/images-New-jpg/AMD.jpg",
+				"columns": [
+					{
+						"column": "num_1",
+						"value": "$ 0",
+						"type": "Revenue"
+					},
+					{
+						"column": "num_2",
+						"value": "$ 0",
+						"type": "Plan"
+					}
+				],
+				"application_status": "A"
+			}
+		},
+		{
+			"type": "account",
+			"data": {
+				"account_name": "77 Bank",
+				"account_id": 924752,
+				"logo_link": "https://financialmodelingprep.com/images-New-jpg/AMD.jpg",
+				"columns": [
+					{
+						"column": "num_1",
+						"value": "$ 0",
+						"type": "Revenue"
+					},
+					{
+						"column": "num_2",
+						"value": "$ 0",
+						"type": "Plan"
+					}
+				],
+				"application_status": "A"
+			}
+		},
+		{
+			"type": "account",
+			"data": {
+				"account_name": "AAC Technologies Holdings",
+				"account_id": 649070,
+				"logo_link": "https://ilmvp-public-resources.s3.amazonaws.com/genericPublisherLogo.png",
+				"columns": [
+					{
+						"column": "num_1",
+						"value": "$ 0",
+						"type": "Revenue"
+					},
+					{
+						"column": "num_2",
+						"value": "$ 0",
+						"type": "Plan"
+					}
+				],
+				"application_status": "A"
+			}
+		},
+		{
+			"type": "account",
+			"data": {
+				"account_name": "Absa Group",
+				"account_id": 486064,
+				"logo_link": "https://ilmvp-public-resources.s3.amazonaws.com/genericPublisherLogo.png",
+				"columns": [
+					{
+						"column": "num_1",
+						"value": "$ 0",
+						"type": "Revenue"
+					},
+					{
+						"column": "num_2",
+						"value": "$ 0",
+						"type": "Plan"
+					}
+				],
+				"application_status": "A"
+			}
+		},
+		{
+			"type": "account",
+			"data": {
+				"account_name": "Adani Ports & Special Economic Zone",
+				"account_id": 899342,
+				"logo_link": "https://ilmvp-public-resources.s3.amazonaws.com/genericPublisherLogo.png",
+				"columns": [
+					{
+						"column": "num_1",
+						"value": "$ 0",
+						"type": "Revenue"
+					},
+					{
+						"column": "num_2",
+						"value": "$ 0",
+						"type": "Plan"
+					}
+				],
+				"application_status": "A"
+			}
+		},
+		{
+			"type": "account",
+			"data": {
+				"account_name": "Adecco",
+				"account_id": 738945,
+				"logo_link": "https://ilmvp-public-resources.s3.amazonaws.com/genericPublisherLogo.png",
+				"columns": [
+					{
+						"column": "num_1",
+						"value": "$ 0",
+						"type": "Revenue"
+					},
+					{
+						"column": "num_2",
+						"value": "$ 0",
+						"type": "Plan"
+					}
+				],
+				"application_status": "A"
+			}
+		},
+		{
+			"type": "account",
+			"data": {
+				"account_name": "Adidas",
+				"account_id": 827661,
+				"logo_link": "https://ilmvp-public-resources.s3.amazonaws.com/genericPublisherLogo.png",
+				"columns": [
+					{
+						"column": "num_1",
+						"value": "$ 0",
+						"type": "Revenue"
+					},
+					{
+						"column": "num_2",
+						"value": "$ 0",
+						"type": "Plan"
+					}
+				],
+				"application_status": "A"
+			}
+		},
+		{
+			"type": "account",
+			"data": {
+				"account_name": "Adient plc",
+				"account_id": 298517,
+				"logo_link": "https://ilmvp-public-resources.s3.amazonaws.com/genericPublisherLogo.png",
+				"columns": [
+					{
+						"column": "num_1",
+						"value": "$ 0",
+						"type": "Revenue"
+					},
+					{
+						"column": "num_2",
+						"value": "$ 0",
+						"type": "Plan"
+					}
+				],
+				"application_status": "A"
+			}
+		},
+		{
+			"type": "account",
+			"data": {
+				"account_name": "Advanced Info Service",
+				"account_id": 662928,
+				"logo_link": "https://ilmvp-public-resources.s3.amazonaws.com/genericPublisherLogo.png",
+				"columns": [
+					{
+						"column": "num_1",
+						"value": "$ 6,419",
+						"type": "Revenue"
+					},
+					{
+						"column": "num_2",
+						"value": "$ 20,100",
+						"type": "Plan"
+					}
+				],
+				"application_status": "A"
+			}
+		},
+		{
+			"type": "account",
+			"data": {
+				"account_name": "Advanced Micro Devices",
+				"account_id": 678475,
+				"logo_link": "https://financialmodelingprep.com/images-New-jpg/AMD.jpg",
+				"columns": [
+					{
+						"column": "num_1",
+						"value": "$ 0",
+						"type": "Revenue"
+					},
+					{
+						"column": "num_2",
+						"value": "$ 0",
+						"type": "Plan"
+					}
+				],
+				"application_status": "A"
+			}
+		}
+	],
+	"next": "/account-list/?client_id=GE0001&after_account_id=678475&template_id=703784&sort_by=account_name&order_by=asc&sort_value=advanced_micro_devices&per_page=10",
+	"per_page": 10,
+	"header": [
+		{
+			"column": "num_1",
+			"period_label": "2020",
+			"type": "Revenue"
+		},
+		{
+			"column": "num_2",
+			"period_label": "2020",
+			"type": "Plan"
+		}
+	],
+	"message": "Request Successful."
+}

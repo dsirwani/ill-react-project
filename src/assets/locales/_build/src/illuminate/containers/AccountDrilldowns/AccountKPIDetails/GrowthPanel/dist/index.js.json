@@ -1,0 +1,26 @@
+{
+  "PRODUCT CATEGORIES": {
+    "origin": [
+      [
+        "src/illuminate/containers/AccountDrilldowns/AccountKPIDetails/GrowthPanel/dist/index.js",
+        71
+      ]
+    ]
+  },
+  "BUYING CENTERS": {
+    "origin": [
+      [
+        "src/illuminate/containers/AccountDrilldowns/AccountKPIDetails/GrowthPanel/dist/index.js",
+        73
+      ]
+    ]
+  },
+  "Growth Totals": {
+    "origin": [
+      [
+        "src/illuminate/containers/AccountDrilldowns/AccountKPIDetails/GrowthPanel/dist/index.js",
+        83
+      ]
+    ]
+  }
+}

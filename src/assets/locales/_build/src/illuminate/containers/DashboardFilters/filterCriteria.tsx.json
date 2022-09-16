@@ -1,0 +1,26 @@
+{
+  "AND": {
+    "origin": [
+      [
+        "src/illuminate/containers/DashboardFilters/filterCriteria.tsx",
+        24
+      ]
+    ]
+  },
+  "OR": {
+    "origin": [
+      [
+        "src/illuminate/containers/DashboardFilters/filterCriteria.tsx",
+        25
+      ]
+    ]
+  },
+  "Select": {
+    "origin": [
+      [
+        "src/illuminate/containers/DashboardFilters/filterCriteria.tsx",
+        29
+      ]
+    ]
+  }
+}

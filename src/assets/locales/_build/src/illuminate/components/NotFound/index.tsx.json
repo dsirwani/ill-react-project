@@ -1,0 +1,10 @@
+{
+  "Page Not Found": {
+    "origin": [
+      [
+        "src/illuminate/components/NotFound/index.tsx",
+        10
+      ]
+    ]
+  }
+}

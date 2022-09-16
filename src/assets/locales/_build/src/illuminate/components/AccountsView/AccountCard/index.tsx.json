@@ -1,0 +1,34 @@
+{
+  "Application Pending": {
+    "origin": [
+      [
+        "src/illuminate/components/AccountsView/AccountCard/index.tsx",
+        54
+      ]
+    ]
+  },
+  "Waiting for Approval": {
+    "origin": [
+      [
+        "src/illuminate/components/AccountsView/AccountCard/index.tsx",
+        55
+      ]
+    ]
+  },
+  "Application Denied": {
+    "origin": [
+      [
+        "src/illuminate/components/AccountsView/AccountCard/index.tsx",
+        62
+      ]
+    ]
+  },
+  "Apply for Membership": {
+    "origin": [
+      [
+        "src/illuminate/components/AccountsView/AccountCard/index.tsx",
+        69
+      ]
+    ]
+  }
+}

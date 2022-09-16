@@ -1,0 +1,26 @@
+{
+  "Search field": {
+    "origin": [
+      [
+        "src/illuminate/containers/DashboardFilters/filterAttributes.tsx",
+        49
+      ]
+    ]
+  },
+  "Select Operator": {
+    "origin": [
+      [
+        "src/illuminate/containers/DashboardFilters/filterAttributes.tsx",
+        55
+      ]
+    ]
+  },
+  "Value": {
+    "origin": [
+      [
+        "src/illuminate/containers/DashboardFilters/filterAttributes.tsx",
+        65
+      ]
+    ]
+  }
+}

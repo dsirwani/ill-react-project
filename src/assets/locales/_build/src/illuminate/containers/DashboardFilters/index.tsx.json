@@ -1,0 +1,26 @@
+{
+  "Add filter criteria": {
+    "origin": [
+      [
+        "src/illuminate/containers/DashboardFilters/index.tsx",
+        168
+      ]
+    ]
+  },
+  "Cancel": {
+    "origin": [
+      [
+        "src/illuminate/containers/DashboardFilters/index.tsx",
+        181
+      ]
+    ]
+  },
+  "OK": {
+    "origin": [
+      [
+        "src/illuminate/containers/DashboardFilters/index.tsx",
+        184
+      ]
+    ]
+  }
+}

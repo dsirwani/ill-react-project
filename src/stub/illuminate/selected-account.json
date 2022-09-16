@@ -1,0 +1,21 @@
+{
+	"data": {
+		"account_name": "3M Company",
+		"account_id": 262808,
+		"plan": {
+			"value": "$ 0"
+		},
+		"revenue": {
+			"value": "$ 0"
+		},
+		"growth": {
+			"value": "0.00"
+		},
+		"buying_centers": {
+			"value": "0/9"
+		},
+		"pgi": {
+			"value": "0.0000"
+		}
+	}
+}

@@ -1,0 +1,1060 @@
+msgid ""
+msgstr ""
+"POT-Creation-Date: 2020-05-29 12:20+0530\n"
+"Mime-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: @lingui/cli\n"
+"Language: en\n"
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Plural-Forms: \n"
+
+#: src/containers/AccountDrilldowns/VisualizationPanel/ControlPanel/index.tsx:11
+#~ msgid "2018"
+#~ msgstr "2018"
+
+#: src/containers/AccountDrilldowns/VisualizationPanel/ControlPanel/index.tsx:11
+#~ msgid "2019"
+#~ msgstr "2019"
+
+#: src/containers/AccountDrilldowns/VisualizationPanel/ControlPanel/index.tsx:11
+#~ msgid "2020"
+#~ msgstr "2020"
+
+#: src/illuminate/containers/AccountDrilldowns/LegalEntities/index.tsx:150
+msgid "\tCompany Headquarters"
+msgstr "\tCompany Headquarters"
+
+#: src/illuminate/components/AccountFilterBar/index.tsx:104
+msgid "  ADD FILTER"
+msgstr "  ADD FILTER"
+
+#: src/illuminate/containers/AccountDrilldowns/AccountDetails/TabsFolder/nameMatchingDialog.tsx:117
+msgid " Manual Matching"
+msgstr " Manual Matching"
+
+#: src/illuminate/containers/AccountDrilldowns/UserManagement/index.tsx:237
+msgid "ADD"
+msgstr "ADD"
+
+#: src/common/containers/RefactoredDashboard/SideBar/Footer.tsx:14
+#: src/illuminate/components/Footer/index.tsx:28
+msgid "ALL RIGHTS RESERVED"
+msgstr "ALL RIGHTS RESERVED"
+
+#: src/illuminate/containers/DashboardFilters/filterCriteria.tsx:24
+msgid "AND"
+msgstr "AND"
+
+#: src/containers/Upload/index.tsx:107
+#~ msgid "API error"
+#~ msgstr "API error"
+
+#: src/common/components/PrivacyPolicyModalUpdate/index.tsx:50
+msgid "Accept"
+msgstr "Accept"
+
+#: src/common/containers/Dashboard/index.tsx:165
+msgid "Account Management"
+msgstr "Account Management"
+
+#: src/illuminate/containers/AccountDrilldowns/UserManagement/index.tsx:100
+msgid "Account Manager"
+msgstr "Account Manager"
+
+#: src/illuminate/containers/AccountDrilldowns/UserManagement/index.tsx:200
+msgid "Account Membership"
+msgstr "Account Membership"
+
+#: src/illuminate/containers/AccountDrilldowns/AccountDetails/TabsFolder/ProfileComponent.tsx:55
+msgid "Account Name"
+msgstr "Account Name"
+
+#: src/containers/Upload/index.tsx:75
+#~ msgid "Account Revenue"
+#~ msgstr "Account Revenue"
+
+#: src/illuminate/containers/AccountDrilldowns/AccountDetails/TabsFolder/UsersTable.tsx:59
+msgid "Add People"
+msgstr "Add People"
+
+#: src/illuminate/containers/AccountDrilldowns/AccountDetails/TabsFolder/EmailDomain.tsx:35
+#: src/illuminate/containers/AccountDrilldowns/ClientDetails/EmailDomain.tsx:10
+msgid "Add email domain"
+msgstr "Add email domain"
+
+#: src/illuminate/containers/DashboardFilters/index.tsx:168
+msgid "Add filter criteria"
+msgstr "Add filter criteria"
+
+#: src/illuminate/containers/AccountDrilldowns/UserManagement/index.tsx:101
+msgid "Administrator"
+msgstr "Administrator"
+
+#: src/illuminate/containers/AccountDrilldowns/LegalEntities/index.tsx:71
+msgid "Alias"
+msgstr "Alias"
+
+#: src/illuminate/containers/AccountDrilldowns/UserManagement/index.tsx:218
+msgid "All Accounts"
+msgstr "All Accounts"
+
+#: src/illuminate/containers/AccountDrilldowns/UserManagement/index.tsx:210
+msgid "All accounts"
+msgstr "All accounts"
+
+#: src/illuminate/containers/AccountDrilldowns/AccountDetails/TabsFolder/EmailDomain.tsx:16
+#: src/illuminate/containers/AccountDrilldowns/ClientDetails/EmailDomain.tsx:14
+msgid "Allow customers with these email domains to subscribe to this account"
+msgstr "Allow customers with these email domains to subscribe to this account"
+
+#: src/illuminate/containers/AccountDrilldowns/G2KFinancials/index.tsx:31
+msgid "Annual"
+msgstr "Annual"
+
+#: src/illuminate/components/AccountsView/AccountCard/index.tsx:62
+#: src/illuminate/components/AccountsView/ListView/AccountRowDetails/index.tsx:36
+msgid "Application Denied"
+msgstr "Application Denied"
+
+#: src/illuminate/components/AccountsView/AccountCard/index.tsx:54
+#: src/illuminate/components/AccountsView/ListView/AccountRowDetails/index.tsx:28
+msgid "Application Pending"
+msgstr "Application Pending"
+
+#: src/illuminate/containers/DashboardFilters/listFilters.tsx:99
+msgid "Apply Filter"
+msgstr "Apply Filter"
+
+#: src/illuminate/components/AccountsView/AccountCard/index.tsx:69
+#: src/illuminate/components/AccountsView/ListView/AccountRowDetails/index.tsx:44
+msgid "Apply for Membership"
+msgstr "Apply for Membership"
+
+#: src/illuminate/containers/AccountDrilldowns/AccountTeam/index.tsx:30
+#: src/illuminate/containers/TeamAccessManagement/dist/index.js:29
+#: src/illuminate/containers/TeamAccessManagement/dist/index.js:30
+#: src/illuminate/containers/TeamAccessManagement/dist/index.js:33
+#: src/illuminate/containers/TeamAccessManagement/index.tsx:28
+#: src/illuminate/containers/TeamAccessManagement/index.tsx:29
+#: src/illuminate/containers/TeamAccessManagement/index.tsx:32
+msgid "Approve"
+msgstr "Approve"
+
+#: src/illuminate/containers/AccountDrilldowns/AccountData/index.tsx:34
+msgid "April"
+msgstr "April"
+
+#: src/illuminate/containers/AccountDrilldowns/AccountData/index.tsx:38
+msgid "August"
+msgstr "August"
+
+#: src/illuminate/containers/AccountDrilldowns/AccountKPIDetails/BuyCenterPanel/dist/index.js:73
+#: src/illuminate/containers/AccountDrilldowns/AccountKPIDetails/BuyCenterPanel/index.tsx:57
+#: src/illuminate/containers/AccountDrilldowns/AccountKPIDetails/GrowthPanel/dist/index.js:73
+#: src/illuminate/containers/AccountDrilldowns/AccountKPIDetails/GrowthPanel/index.tsx:57
+#: src/illuminate/containers/AccountDrilldowns/AccountKPIDetails/PGIPanel/dist/index.js:73
+#: src/illuminate/containers/AccountDrilldowns/AccountKPIDetails/PGIPanel/index.tsx:57
+#: src/illuminate/containers/AccountDrilldowns/AccountKPIDetails/RevenuePanel/dist/index.js:73
+#: src/illuminate/containers/AccountDrilldowns/AccountKPIDetails/RevenuePanel/index.tsx:57
+#: src/illuminate/containers/AccountDrilldowns/AccountKPIDetails/TotalPlanPanel/dist/index.js:73
+#: src/illuminate/containers/AccountDrilldowns/AccountKPIDetails/TotalPlanPanel/index.tsx:57
+msgid "BUYING CENTERS"
+msgstr "BUYING CENTERS"
+
+#: src/illuminate/containers/AccountDrilldowns/G2KFinancials/index.tsx:25
+msgid "Balance Sheet"
+msgstr "Balance Sheet"
+
+#: src/common/containers/Dashboard/dist/index.js:60
+#: src/common/containers/Dashboard/index.tsx:103
+msgid "Btn.Go"
+msgstr "Go"
+
+#: src/common/containers/Dashboard/dist/index.js:62
+#: src/common/containers/Dashboard/index.tsx:112
+#: src/illuminate/containers/AccountDrilldowns/UserManagement/uploadProfilePicture.tsx:63
+#: src/illuminate/containers/Upload/index.tsx:99
+msgid "Btn.Upload"
+msgstr "Upload"
+
+#: src/illuminate/containers/AccountDrilldowns/AccountKPIDetails/BuyCenterPanel/dist/index.js:83
+#: src/illuminate/containers/AccountDrilldowns/AccountKPIDetails/BuyCenterPanel/index.tsx:73
+msgid "Buy Center"
+msgstr "Buy Center"
+
+#: src/illuminate/containers/AccountDrilldowns/VisualizationPanel/BuyingCenterEstimates/index.tsx:30
+#: src/illuminate/containers/AccountDrilldowns/VisualizationPanel/BuyingCenterEstimates/index.tsx:38
+msgid "Buying Center Estimates"
+msgstr "Buying Center Estimates"
+
+#: src/common/components/PrivacyPolicyModalUpdate/index.tsx:45
+msgid "By accepting these documents, you agree to these updates."
+msgstr "By accepting these documents, you agree to these updates."
+
+#: src/illuminate/components/Footer/index.tsx:15
+#~ msgid "COOKIE POLICY"
+#~ msgstr "COOKIE POLICY"
+
+#: src/illuminate/components/Footer/index.tsx:15
+msgid "COOKIE PREFERENCE"
+msgstr "COOKIE PREFERENCE"
+
+#: src/illuminate/containers/AccountDrilldowns/AccountData/accountDataTable.tsx:43
+msgid "CSV Product Identifier"
+msgstr "CSV Product Identifier"
+
+#: src/illuminate/containers/AccountDrilldowns/VisualizationPanel/ControlPanel/index.tsx:12
+msgid "Calendar"
+msgstr "Calendar"
+
+#: src/containers/AccountDrilldowns/VisualizationPanel/ControlPanel/index.tsx:22
+#~ msgid "Calendar Year"
+#~ msgstr "Calendar Year"
+
+#: src/illuminate/components/AccountFilterBar/SaveFilterDialog/index.tsx:57
+#: src/illuminate/containers/AccountDrilldowns/AccountDetails/TabsFolder/nameMatchingDialog.tsx:165
+#: src/illuminate/containers/AccountDrilldowns/UserManagement/uploadProfilePicture.tsx:66
+#: src/illuminate/containers/DashboardFilters/index.tsx:181
+#: src/illuminate/containers/DashboardFilters/listFilters.tsx:96
+#: src/illuminate/containers/DashboardTemplates/DuplicateTemplateModal/index.tsx:80
+#: src/illuminate/containers/DashboardTemplates/TemplateColumnsModal/index.tsx:129
+#: src/illuminate/containers/DashboardTemplates/templateManager.tsx:187
+#: src/illuminate/containers/DashboardTemplates/templateManager.tsx:207
+msgid "Cancel"
+msgstr "Cancel"
+
+#: src/illuminate/containers/AccountDrilldowns/G2KFinancials/index.tsx:26
+msgid "Cash Flows"
+msgstr "Cash Flows"
+
+#: src/illuminate/containers/AccountDrilldowns/ClientDetails/index.tsx:74
+msgid "Child of"
+msgstr "Child of"
+
+#: src/containers/Upload/index.tsx:87
+#~ msgid "Choose File"
+#~ msgstr "Choose File"
+
+#: src/illuminate/containers/AccountDrilldowns/AccountDetails/SourceRecords.tsx:53
+#~ msgid "Clear"
+#~ msgstr "Clear"
+
+#: src/illuminate/containers/AccountDrilldowns/AccountDetails/TabsFolder/nameMatchingDialog.tsx:146
+msgid "Clear Match"
+msgstr "Clear Match"
+
+#: src/illuminate/containers/AccountDrilldowns/ClientDetails/index.tsx:88
+msgid "Client Access"
+msgstr "Client Access"
+
+#: src/illuminate/containers/AccountDrilldowns/ClientDetails/index.tsx:71
+msgid "Client ID"
+msgstr "Client ID"
+
+#: src/common/containers/Dashboard/index.tsx:107
+msgid "Client Management"
+msgstr "Client Management"
+
+#: src/illuminate/containers/AccountDrilldowns/ClientDetails/index.tsx:61
+msgid "Client Name"
+msgstr "Client Name"
+
+#: src/illuminate/containers/Upload/index.tsx:74
+msgid "Client Workbook"
+msgstr "Client Workbook"
+
+#: src/illuminate/containers/DashboardTemplates/TemplateColumnsModal/index.tsx:129
+msgid "Close"
+msgstr "Close"
+
+#: src/illuminate/containers/AccountDrilldowns/AccountDetails/TabsFolder/SourceRecords.tsx:17
+#: src/illuminate/containers/AccountDrilldowns/AccountDetails/TabsFolder/nameMatchingDialog.tsx:108
+msgid "Company Name"
+msgstr "Company Name"
+
+#: src/illuminate/containers/AccountDrilldowns/AccountDetails/TabsFolder/SourceRecords.tsx:19
+#: src/illuminate/containers/AccountDrilldowns/AccountDetails/TabsFolder/nameMatchingDialog.tsx:110
+msgid "Confidence"
+msgstr "Confidence"
+
+#: src/illuminate/containers/AccountDrilldowns/AccountData/accountDataTable.tsx:45
+msgid "Contained In"
+msgstr "Contained In"
+
+#: src/illuminate/containers/AccountDrilldowns/UserManagement/index.tsx:102
+msgid "Content Manager"
+msgstr "Content Manager"
+
+#: src/common/components/PrivacyPolicyModalSignUp/index.tsx:40
+msgid "Continue"
+msgstr "Continue"
+
+#: src/containers/AccountDrilldowns/VisualizationPanel/ControlPanel/index.tsx:19
+#~ msgid "Controls"
+#~ msgstr "Controls"
+
+#: src/illuminate/containers/DashboardTemplates/templateManager.tsx:194
+msgid "Create new template"
+msgstr "Create new template"
+
+#: src/illuminate/containers/DashboardTemplates/TemplateColumnsModal/KPIColumn/index.tsx:55
+msgid "Custom Header"
+msgstr "Custom Header"
+
+#: src/illuminate/containers/AccountDrilldowns/UserManagement/index.tsx:103
+msgid "Customer"
+msgstr "Customer"
+
+#: src/illuminate/containers/AccountDrilldowns/AccountDetails/TabsFolder/EmailDomain.tsx:11
+msgid "Customer Access"
+msgstr "Customer Access"
+
+#: src/illuminate/containers/AccountDrilldowns/AccountDetails/index.tsx:98
+#~ msgid "Customers can subscribe to this account"
+#~ msgstr "Customers can subscribe to this account"
+
+#: src/illuminate/containers/AccountDrilldowns/AccountDetails/TabsFolder/ProfileComponent.tsx:78
+msgid "Customers require approval from self-registration"
+msgstr "Customers require approval from self-registration"
+
+#: src/illuminate/containers/AccountDrilldowns/AccountDetails/index.tsx:103
+#~ msgid "Customers subscribers need approval"
+#~ msgstr "Customers subscribers need approval"
+
+#: src/illuminate/containers/AccountDrilldowns/AccountData/index.tsx:48
+msgid "Data type"
+msgstr "Data type"
+
+#: src/illuminate/containers/AccountDrilldowns/AccountData/accountDataTable.tsx:41
+msgid "Date"
+msgstr "Date"
+
+#: src/illuminate/containers/AccountDrilldowns/AccountData/index.tsx:42
+msgid "December"
+msgstr "December"
+
+#: src/common/components/PrivacyPolicyModalSignUp/index.tsx:43
+#: src/common/components/PrivacyPolicyModalUpdate/index.tsx:53
+msgid "Decline"
+msgstr "Decline"
+
+#: src/illuminate/containers/DashboardTemplates/templateManager.tsx:91
+msgid "Default"
+msgstr "Default"
+
+#: src/illuminate/containers/DashboardTemplates/templateManager.tsx:91
+msgid "Delete"
+msgstr "Delete"
+
+#: src/illuminate/containers/AccountDrilldowns/AccountTeam/index.tsx:31
+#: src/illuminate/containers/TeamAccessManagement/dist/index.js:28
+#: src/illuminate/containers/TeamAccessManagement/dist/index.js:29
+#: src/illuminate/containers/TeamAccessManagement/dist/index.js:34
+#: src/illuminate/containers/TeamAccessManagement/index.tsx:27
+#: src/illuminate/containers/TeamAccessManagement/index.tsx:28
+#: src/illuminate/containers/TeamAccessManagement/index.tsx:33
+msgid "Deny"
+msgstr "Deny"
+
+#: src/common/components/PrivacyPolicyModalUpdate/index.tsx:29
+msgid "Document"
+msgstr "Document"
+
+#: src/illuminate/containers/DashboardTemplates/templateManager.tsx:91
+msgid "Duplicate"
+msgstr "Duplicate"
+
+#: src/illuminate/containers/DashboardTemplates/DuplicateTemplateModal/index.tsx:64
+msgid "Duplicate Template"
+msgstr "Duplicate Template"
+
+#: src/illuminate/containers/DashboardTemplates/templateManager.tsx:91
+msgid "Edit"
+msgstr "Edit"
+
+#: src/common/components/PrivacyPolicyModalUpdate/index.tsx:30
+msgid "Effective as of"
+msgstr "Effective as of"
+
+#: src/illuminate/containers/AccountDrilldowns/AccountTeam/index.tsx:23
+#: src/illuminate/containers/TeamAccessManagement/dist/index.js:23
+#: src/illuminate/containers/TeamAccessManagement/index.tsx:22
+msgid "Email"
+msgstr "Email"
+
+#: src/illuminate/containers/AccountDrilldowns/UserManagement/index.tsx:63
+msgid "Email Address"
+msgstr "Email Address"
+
+#: src/illuminate/containers/AccountDrilldowns/AccountDetails/nameMatchingDialog.tsx:148
+#~ msgid "Exit"
+#~ msgstr "Exit"
+
+#: src/illuminate/containers/AccountDrilldowns/AccountData/index.tsx:32
+msgid "February"
+msgstr "February"
+
+#: src/containers/Upload/index.tsx:91
+#~ msgid "File size should be more than 5KB"
+#~ msgstr "File size should be more than 5KB"
+
+#: src/containers/Upload/index.tsx:104
+#~ msgid "File uploaded successfully."
+#~ msgstr "File uploaded successfully"
+
+#: src/containers/Upload/index.tsx:91
+#~ msgid "Files of type xlsx and xls are allowed"
+#~ msgstr "Files of type xlsx and xls are allowed"
+
+#: src/illuminate/components/AccountFilterBar/SaveFilterDialog/index.tsx:44
+msgid "Filter Name:"
+msgstr "Filter Name:"
+
+#: src/illuminate/containers/Upload/index.tsx:75
+msgid "Financial"
+msgstr "Financial"
+
+#: src/illuminate/containers/AccountDrilldowns/G2KFinancials/financialDetails.tsx:33
+msgid "Financial Details"
+msgstr "Financial Details"
+
+#: src/illuminate/containers/AccountDrilldowns/UserManagement/index.tsx:229
+msgid "Find an account"
+msgstr "Find an account"
+
+#: src/illuminate/containers/AccountDrilldowns/UserManagement/index.tsx:52
+msgid "First Name"
+msgstr "First Name"
+
+#: src/illuminate/containers/AccountDrilldowns/VisualizationPanel/ControlPanel/index.tsx:13
+msgid "Fiscal"
+msgstr "Fiscal"
+
+#: src/illuminate/components/AccountFilterBar/index.tsx:19
+#~ msgid "Get Filter"
+#~ msgstr "Get Filter"
+
+#: src/illuminate/containers/Upload/index.tsx:76
+msgid "Global 2000"
+msgstr "Global 2000"
+
+#: src/illuminate/containers/AccountDrilldowns/VisualizationPanel/ControlPanel/index.tsx:36
+#~ msgid "Graph Control"
+#~ msgstr "Graph Control"
+
+#: src/illuminate/containers/AccountDrilldowns/VisualizationPanel/ControlPanel/index.tsx:35
+msgid "Graph Controls"
+msgstr "Graph Controls"
+
+#: src/illuminate/containers/AccountDrilldowns/AccountKPIDetails/GrowthPanel/dist/index.js:83
+#: src/illuminate/containers/AccountDrilldowns/AccountKPIDetails/GrowthPanel/index.tsx:73
+msgid "Growth Totals"
+msgstr "Growth Totals"
+
+#: src/illuminate/containers/AccountDrilldowns/LegalEntities/index.tsx:40
+#~ msgid "Headquarters Address"
+#~ msgstr "Headquarters Address"
+
+#: src/common/components/MessageBar/dist/index.js:17
+#: src/common/components/MessageBar/index.tsx:15
+msgid "Hello"
+msgstr "Hello"
+
+#: src/common/components/PrivacyPolicyModalSignUp/index.tsx:29
+msgid "I will agree to the Polaris I/O"
+msgstr "I will agree to the Polaris I/O"
+
+#: src/containers/AccountDrilldowns/AccountDetails/index.tsx:35
+#~ msgid "IDENTIFIER"
+#~ msgstr "IDENTIFIER"
+
+#: src/common/components/MessageBar/dist/index.js:22
+#: src/common/components/MessageBar/index.tsx:19
+#: src/common/components/PrivacyPolicyModalUpdate/index.tsx:22
+msgid "Important Updates"
+msgstr "Important Updates"
+
+#: src/illuminate/containers/AccountDrilldowns/G2KFinancials/index.tsx:28
+msgid "Income Statements"
+msgstr "Income Statements"
+
+#: src/illuminate/containers/AccountDrilldowns/AccountTeam/index.tsx:29
+#: src/illuminate/containers/TeamAccessManagement/dist/index.js:30
+#: src/illuminate/containers/TeamAccessManagement/dist/index.js:32
+#: src/illuminate/containers/TeamAccessManagement/index.tsx:29
+#: src/illuminate/containers/TeamAccessManagement/index.tsx:31
+msgid "Invite"
+msgstr "Invite"
+
+#: src/illuminate/containers/AccountDrilldowns/AccountData/index.tsx:31
+msgid "January"
+msgstr "January"
+
+#: src/illuminate/containers/AccountDrilldowns/UserManagement/index.tsx:68
+msgid "Job Title"
+msgstr "Job Title"
+
+#: src/common/containers/Dashboard/index.tsx:174
+msgid "Join an Account Team"
+msgstr "Join an Account Team"
+
+#: src/illuminate/containers/AccountDrilldowns/AccountData/index.tsx:37
+msgid "July"
+msgstr "July"
+
+#: src/illuminate/containers/AccountDrilldowns/AccountData/index.tsx:36
+msgid "June"
+msgstr "June"
+
+#: src/illuminate/containers/AccountDrilldowns/G2KFinancials/index.tsx:27
+msgid "Key Metrics"
+msgstr "Key Metrics"
+
+#: src/illuminate/components/Loader/dist/index.js:12
+#: src/illuminate/components/Loader/index.tsx:10
+msgid "LOADING..."
+msgstr "LOADING..."
+
+#: src/illuminate/containers/AccountDrilldowns/ClientDetails/index.tsx:70
+msgid "Landing URL"
+msgstr "Landing URL"
+
+#: src/illuminate/containers/AccountDrilldowns/UserManagement/index.tsx:58
+msgid "Last Name"
+msgstr "Last Name"
+
+#: src/illuminate/containers/AccountDrilldowns/AccountTeam/index.tsx:25
+#: src/illuminate/containers/TeamAccessManagement/dist/index.js:25
+#: src/illuminate/containers/TeamAccessManagement/index.tsx:24
+msgid "Last Platform Activity"
+msgstr "Last Platform Activity"
+
+#: src/illuminate/containers/AccountDrilldowns/LegalEntities/index.tsx:87
+msgid "Legal Address"
+msgstr "Legal Address"
+
+#: src/illuminate/containers/AccountDrilldowns/LegalEntities/index.tsx:33
+msgid "Legal Entity Info"
+msgstr "Legal Entity Info"
+
+#: src/illuminate/containers/AccountDrilldowns/LegalEntities/index.tsx:26
+#~ msgid "Legal Name"
+#~ msgstr "Legal Name"
+
+#: src/common/containers/Dashboard/dist/index.js:86
+#: src/common/containers/Dashboard/index.tsx:180
+msgid "Logout"
+msgstr "Logout"
+
+#: src/illuminate/containers/AccountDrilldowns/UserManagement/index.tsx:245
+msgid "Management Permissions"
+msgstr "Management Permissions"
+
+#: src/illuminate/containers/DashboardTemplates/templateManager.tsx:140
+msgid "Manager"
+msgstr "Manager"
+
+#: src/illuminate/containers/AccountDrilldowns/UserManagement/index.tsx:73
+msgid "Manager-Email-Address"
+msgstr "Manager-Email-Address"
+
+#: src/illuminate/containers/AccountDrilldowns/AccountDetails/SourceRecords.tsx:51
+#~ msgid "Manual"
+#~ msgstr "Manual"
+
+#: src/illuminate/containers/AccountDrilldowns/AccountDetails/SourceRecords.tsx:50
+#~ msgid "Manual Match"
+#~ msgstr "Manual Match"
+
+#: src/illuminate/containers/AccountDrilldowns/AccountDetails/TabsFolder/SourceRecords.tsx:54
+msgid "Manual Override"
+msgstr "Manual Override"
+
+#: src/illuminate/containers/AccountDrilldowns/AccountData/index.tsx:33
+msgid "March"
+msgstr "March"
+
+#: src/illuminate/containers/AccountDrilldowns/AccountDetails/TabsFolder/nameMatchingDialog.tsx:111
+msgid "Match Selected"
+msgstr "Match Selected"
+
+#: src/illuminate/containers/AccountDrilldowns/AccountDetails/nameMatchingDialog.tsx:139
+#~ msgid "Matches Found"
+#~ msgstr "Matches Found"
+
+#: src/illuminate/containers/AccountDrilldowns/AccountData/index.tsx:35
+msgid "May"
+msgstr "May"
+
+#: src/illuminate/containers/AccountDrilldowns/AccountDetails/TabsFolder/SourceRecords.tsx:18
+#: src/illuminate/containers/AccountDrilldowns/AccountDetails/TabsFolder/nameMatchingDialog.tsx:109
+msgid "Method"
+msgstr "Method"
+
+#: src/illuminate/containers/AccountDrilldowns/AccountData/index.tsx:69
+msgid "Month"
+msgstr "Month"
+
+#: src/illuminate/containers/AccountDrilldowns/AccountTeam/index.tsx:22
+#: src/illuminate/containers/DashboardTemplates/templateManager.tsx:90
+#: src/illuminate/containers/TeamAccessManagement/dist/index.js:22
+#: src/illuminate/containers/TeamAccessManagement/index.tsx:21
+msgid "Name"
+msgstr "Name"
+
+#: src/illuminate/components/AccountFilterBar/SaveFilterDialog/index.tsx:41
+msgid "Name Filter"
+msgstr "Name Filter"
+
+#: src/illuminate/containers/DashboardFilters/listFilters.tsx:110
+msgid "No"
+msgstr "No"
+
+#: src/illuminate/containers/AccountDrilldowns/UserManagement/index.tsx:223
+msgid "No Accounts available"
+msgstr "No Accounts available"
+
+#: src/illuminate/containers/AccountDrilldowns/AccountDetails/EmailDomain.tsx:27
+#~ msgid "No Data Available"
+#~ msgstr "No Data Available"
+
+#: src/containers/Upload/index.tsx:91
+#~ msgid "No file selected"
+#~ msgstr "No file selected"
+
+#: src/illuminate/containers/AccountDrilldowns/AccountData/index.tsx:41
+msgid "November"
+msgstr "November"
+
+#: src/illuminate/containers/DashboardFilters/index.tsx:184
+#: src/illuminate/containers/DashboardTemplates/TemplateColumnsModal/index.tsx:132
+msgid "OK"
+msgstr "OK"
+
+#: src/illuminate/containers/DashboardFilters/filterCriteria.tsx:25
+msgid "OR"
+msgstr "OR"
+
+#: src/illuminate/containers/AccountDrilldowns/AccountData/index.tsx:40
+msgid "October"
+msgstr "October"
+
+#: src/illuminate/containers/DashboardTemplates/TemplateColumnsModal/index.tsx:120
+msgid "Only Polaris IO can modify"
+msgstr "Only Polaris IO can modify"
+
+#: src/illuminate/containers/AccountDrilldowns/AccountDetails/SourceRecords.tsx:53
+#~ msgid "Override"
+#~ msgstr "Override"
+
+#: src/illuminate/containers/AccountDrilldowns/LegalEntities/ownershipHierarchy.tsx:47
+msgid "Ownership Hierarchy"
+msgstr "Ownership Hierarchy"
+
+#: src/illuminate/containers/AccountDrilldowns/VisualizationPanel/BuyingCenterEstimates/index.tsx:18
+#~ msgid "PENETRATION"
+#~ msgstr "PENETRATION"
+
+#: src/illuminate/containers/AccountDrilldowns/VisualizationPanel/BuyingCenterEstimates/index.tsx:18
+#~ msgid "PENETRATION-ANALYSIS"
+#~ msgstr "PENETRATION-ANALYSIS"
+
+#: src/illuminate/containers/AccountDrilldowns/VisualizationPanel/PGIGraph/index.tsx:44
+msgid "PGI"
+msgstr "PGI"
+
+#: src/illuminate/containers/AccountDrilldowns/AccountKPIDetails/PGIPanel/dist/index.js:83
+#: src/illuminate/containers/AccountDrilldowns/AccountKPIDetails/PGIPanel/index.tsx:73
+msgid "PGI Totals"
+msgstr "PGI Totals"
+
+#: src/illuminate/containers/AccountDrilldowns/AccountDetails/TabsFolder/ProfileComponent.tsx:23
+msgid "PIO IDENTIFIER"
+msgstr "PIO IDENTIFIER"
+
+#: src/illuminate/components/Footer/index.tsx:11
+#~ msgid "PRIVACY POLICY"
+#~ msgstr "PRIVACY POLICY"
+
+#: src/illuminate/components/Footer/index.tsx:11
+msgid "PRIVACY STATEMENT"
+msgstr "PRIVACY STATEMENT"
+
+#: src/illuminate/containers/AccountDrilldowns/AccountKPIDetails/BuyCenterPanel/dist/index.js:71
+#: src/illuminate/containers/AccountDrilldowns/AccountKPIDetails/BuyCenterPanel/index.tsx:57
+#: src/illuminate/containers/AccountDrilldowns/AccountKPIDetails/GrowthPanel/dist/index.js:71
+#: src/illuminate/containers/AccountDrilldowns/AccountKPIDetails/GrowthPanel/index.tsx:57
+#: src/illuminate/containers/AccountDrilldowns/AccountKPIDetails/PGIPanel/dist/index.js:71
+#: src/illuminate/containers/AccountDrilldowns/AccountKPIDetails/PGIPanel/index.tsx:57
+#: src/illuminate/containers/AccountDrilldowns/AccountKPIDetails/RevenuePanel/dist/index.js:71
+#: src/illuminate/containers/AccountDrilldowns/AccountKPIDetails/RevenuePanel/index.tsx:57
+#: src/illuminate/containers/AccountDrilldowns/AccountKPIDetails/TotalPlanPanel/dist/index.js:71
+#: src/illuminate/containers/AccountDrilldowns/AccountKPIDetails/TotalPlanPanel/index.tsx:57
+msgid "PRODUCT CATEGORIES"
+msgstr "PRODUCT CATEGORIES"
+
+#: src/illuminate/containers/AccountDrilldowns/VisualizationPanel/BuyingCenterEstimates/index.tsx:18
+#~ msgid "PRODUCTS"
+#~ msgstr "PRODUCTS"
+
+#: src/illuminate/components/NotFound/index.tsx:10
+msgid "Page Not Found"
+msgstr "Page Not Found"
+
+#: src/illuminate/containers/AccountDrilldowns/VisualizationPanel/BuyingCenterEstimates/index.tsx:19
+msgid "Penetration"
+msgstr "Penetration"
+
+#: src/illuminate/containers/AccountDrilldowns/VisualizationPanel/BuyingCenterEstimates/index.tsx:19
+msgid "Penetration Analysis"
+msgstr "Penetration Analysis"
+
+#: src/common/containers/Dashboard/index.tsx:168
+msgid "People Management"
+msgstr "People Management"
+
+#: src/illuminate/containers/AccountDrilldowns/UserManagement/index.tsx:104
+msgid "People Manager"
+msgstr "People Manager"
+
+#: src/illuminate/containers/AccountDrilldowns/AccountData/index.tsx:23
+msgid "Plan"
+msgstr "Plan"
+
+#: src/illuminate/containers/AccountDrilldowns/AccountKPIDetails/TotalPlanPanel/dist/index.js:87
+#: src/illuminate/containers/AccountDrilldowns/AccountKPIDetails/TotalPlanPanel/index.tsx:75
+msgid "Plan Totals"
+msgstr "Plan Totals"
+
+#: src/common/components/PrivacyPolicyModalSignUp/index.tsx:26
+msgid "Polaris I/O User Agreement"
+msgstr "Polaris I/O User Agreement"
+
+#: src/common/components/PrivacyPolicyModalSignUp/index.tsx:26
+#~ msgid "Polaris I/O User Agrement"
+#~ msgstr "Polaris I/O User Agrement"
+
+#: src/common/components/PrivacyPolicyModalUpdate/index.tsx:24
+msgid "Polaris I/O has updated the following document(s). Please read these document(s) as the changes affect your legal rights."
+msgstr "Polaris I/O has updated the following document(s). Please read these document(s) as the changes affect your legal rights."
+
+#: src/illuminate/containers/AccountDrilldowns/AccountDetails/TabsFolder/UsersTable.tsx:18
+msgid "Primary"
+msgstr "Primary"
+
+#: src/illuminate/containers/AccountDrilldowns/AccountData/accountDataTable.tsx:42
+msgid "Product Identifier"
+msgstr "Product Identifier"
+
+#: src/illuminate/containers/AccountDrilldowns/AccountData/accountDataTable.tsx:44
+#: src/illuminate/containers/AccountDrilldowns/VisualizationPanel/BuyingCenterEstimates/index.tsx:19
+msgid "Products"
+msgstr "Products"
+
+#: src/containers/AccountDrilldowns/LegalEntities/index.tsx:32
+#~ msgid "Programmatic Match"
+#~ msgstr "Programmatic Match"
+
+#: src/illuminate/containers/AccountDrilldowns/G2KFinancials/index.tsx:32
+msgid "Quarter"
+msgstr "Quarter"
+
+#: src/illuminate/components/Footer/index.tsx:19
+#~ msgid "REGIONAL POLICY"
+#~ msgstr "REGIONAL POLICY"
+
+#: src/illuminate/containers/AccountDrilldowns/UserManagement/index.tsx:234
+msgid "REMOVE"
+msgstr "REMOVE"
+
+#: src/illuminate/containers/AccountDrilldowns/G2KFinancials/index.tsx:38
+msgid "Report type"
+msgstr "Report type"
+
+#: src/illuminate/containers/AccountDrilldowns/G2KFinancials/index.tsx:48
+msgid "Reporting frequency"
+msgstr "Reporting frequency"
+
+#: src/illuminate/containers/AccountDrilldowns/G2KFinancials/reportingPeriod.tsx:31
+msgid "Reporting period"
+msgstr "Reporting period"
+
+#: src/containers/Upload/index.tsx:91
+#~ msgid "Required"
+#~ msgstr "Required"
+
+#: src/illuminate/containers/AccountDrilldowns/AccountData/index.tsx:22
+msgid "Revenue"
+msgstr "Revenue"
+
+#: src/illuminate/containers/AccountDrilldowns/AccountKPIDetails/RevenuePanel/index.tsx:72
+msgid "Revenue Totals"
+msgstr "Revenue Totals"
+
+#: src/illuminate/containers/AccountDrilldowns/VisualizationPanel/RevenuePlanGraph/index.tsx:43
+msgid "Revenue vs Plan"
+msgstr "Revenue vs Plan"
+
+#: src/illuminate/containers/AccountDrilldowns/VisualizationPanel/ControlPanel/index.tsx:14
+msgid "Rolling 12 months"
+msgstr "Rolling 12 months"
+
+#: src/illuminate/containers/AccountDrilldowns/VisualizationPanel/ControlPanel/index.tsx:15
+msgid "Rolling 24 months"
+msgstr "Rolling 24 months"
+
+#: src/illuminate/containers/AccountDrilldowns/VisualizationPanel/ControlPanel/index.tsx:16
+msgid "Rolling 36 months"
+msgstr "Rolling 36 months"
+
+#: src/illuminate/components/Footer/index.tsx:19
+msgid "SECURITY STATEMENT"
+msgstr "SECURITY STATEMENT"
+
+#: src/illuminate/components/AccountFilterBar/SaveFilterDialog/index.tsx:62
+#: src/illuminate/components/AccountFilterBar/index.tsx:123
+#: src/illuminate/containers/DashboardTemplates/DuplicateTemplateModal/index.tsx:85
+msgid "Save"
+msgstr "Save"
+
+#: src/illuminate/components/AccountFilterBar/index.tsx:120
+msgid "Save As..."
+msgstr "Save As..."
+
+#: src/illuminate/components/AccountFilterBar/index.tsx:19
+#~ msgid "Save Filter"
+#~ msgstr "Save Filter"
+
+#: src/illuminate/containers/DashboardFilters/listFilters.tsx:68
+msgid "Saved Filters"
+msgstr "Saved Filters"
+
+#: src/common/containers/Dashboard/dist/index.js:56
+#: src/common/containers/Dashboard/index.tsx:97
+msgid "Search"
+msgstr "Search..."
+
+#: src/illuminate/containers/AccountDrilldowns/AccountDetails/nameMatchingDialog.tsx:116
+#~ msgid "Search Using"
+#~ msgstr "Search Using"
+
+#: src/illuminate/containers/AccountDrilldowns/AccountDetails/nameMatchingDialog.tsx:121
+#~ msgid "Search account"
+#~ msgstr "Search account"
+
+#: src/illuminate/containers/AccountDrilldowns/AccountDetails/TabsFolder/nameMatchingDialog.tsx:151
+msgid "Search companies by name"
+msgstr "Search companies by name"
+
+#: src/illuminate/containers/DashboardFilters/filterAttributes.tsx:49
+msgid "Search field"
+msgstr "Search field"
+
+#: src/illuminate/containers/AccountDrilldowns/AccountDetails/nameMatchingDialog.tsx:113
+#~ msgid "Search string"
+#~ msgstr "Search string"
+
+#: src/illuminate/containers/AccountDrilldowns/AccountDetails/TabsFolder/UsersTable.tsx:18
+msgid "Secondary"
+msgstr "Secondary"
+
+#: src/illuminate/containers/DashboardFilters/filterCriteria.tsx:29
+msgid "Select"
+msgstr "Select"
+
+#: src/illuminate/containers/Upload/index.tsx:71
+msgid "Select File"
+msgstr "Select File"
+
+#: src/illuminate/components/AccountFilterBar/index.tsx:117
+msgid "Select Filter..."
+msgstr "Select Filter..."
+
+#: src/illuminate/containers/AccountDrilldowns/AccountDetails/searchList.tsx:29
+#~ msgid "Select Match"
+#~ msgstr "Select Match"
+
+#: src/illuminate/containers/DashboardFilters/filterAttributes.tsx:55
+msgid "Select Operator"
+msgstr "Select Operator"
+
+#: src/common/containers/SiteSelection/index.tsx:50
+msgid "Select Site"
+msgstr "Select Site"
+
+#: src/illuminate/containers/DashboardTemplates/preConfiguredTemplates.tsx:41
+msgid "Select Template"
+msgstr "Select Template"
+
+#: src/illuminate/containers/AccountDrilldowns/AccountData/index.tsx:39
+msgid "September"
+msgstr "September"
+
+#: src/illuminate/containers/AccountDrilldowns/UserManagement/index.tsx:189
+msgid "Show Currency KPIs using MM"
+msgstr "Show Currency KPIs using MM"
+
+#: src/common/containers/Dashboard/index.tsx:171
+msgid "Site Administration"
+msgstr "Site Administration"
+
+#: src/illuminate/containers/AccountDrilldowns/AccountDetails/TabsFolder/SourceRecords.tsx:16
+msgid "Source"
+msgstr "Source"
+
+#: src/illuminate/containers/AccountDrilldowns/AccountDetails/TabsFolder/SourceRecords.tsx:33
+msgid "Source Records"
+msgstr "Source Records"
+
+#: src/illuminate/containers/AccountDrilldowns/AccountTeam/index.tsx:24
+#: src/illuminate/containers/DashboardTemplates/templateManager.tsx:90
+#: src/illuminate/containers/TeamAccessManagement/dist/index.js:24
+#: src/illuminate/containers/TeamAccessManagement/index.tsx:23
+msgid "Status"
+msgstr "Status"
+
+#: src/illuminate/containers/AccountDrilldowns/AccountDetails/TabsFolder/nameMatchingDialog.tsx:169
+#: src/illuminate/containers/AccountDrilldowns/UserManagement/index.tsx:193
+#: src/illuminate/containers/DashboardTemplates/templateManager.tsx:210
+msgid "Submit"
+msgstr "Submit"
+
+#: src/illuminate/containers/AccountDrilldowns/UserManagement/index.tsx:105
+msgid "Survey Manager"
+msgstr "Survey Manager"
+
+#: src/illuminate/containers/AccountDrilldowns/AccountTeam/index.tsx:32
+#: src/illuminate/containers/TeamAccessManagement/dist/index.js:28
+#: src/illuminate/containers/TeamAccessManagement/dist/index.js:35
+#: src/illuminate/containers/TeamAccessManagement/index.tsx:27
+#: src/illuminate/containers/TeamAccessManagement/index.tsx:34
+msgid "Suspend"
+msgstr "Suspend"
+
+#: src/illuminate/components/Footer/index.tsx:23
+msgid "TERMS OF SERVICE"
+msgstr "TERMS OF SERVICE"
+
+#: src/illuminate/containers/AccountDrilldowns/AccountKPIDetails/RevenuePanel/dist/index.js:82
+msgid "TOTALS"
+msgstr "TOTALS"
+
+#: src/illuminate/containers/TeamAccessManagement/dist/index.js:106
+#: src/illuminate/containers/TeamAccessManagement/index.tsx:107
+msgid "Team Access Management"
+msgstr "Team Access Management"
+
+#: src/common/containers/Dashboard/dist/index.js:84
+#: src/common/containers/Dashboard/index.tsx:177
+msgid "Team Management"
+msgstr "Team Management"
+
+#: src/illuminate/containers/AccountDrilldowns/UserManagement/index.tsx:106
+msgid "Team Member"
+msgstr "Team Member"
+
+#: src/illuminate/containers/AccountDrilldowns/AccountDetails/TabsFolder/ProfileComponent.tsx:66
+msgid "Team members can self-register"
+msgstr "Team members can self-register"
+
+#: src/illuminate/containers/AccountDrilldowns/AccountDetails/TabsFolder/ProfileComponent.tsx:74
+msgid "Team members can self-register with valid customer domain"
+msgstr "Team members can self-register with valid customer domain"
+
+#: src/illuminate/containers/AccountDrilldowns/AccountDetails/TabsFolder/ProfileComponent.tsx:70
+msgid "Team members require approval from self-registration"
+msgstr "Team members require approval from self-registration"
+
+#: src/illuminate/containers/DashboardTemplates/templateManager.tsx:140
+msgid "Template"
+msgstr "Template"
+
+#: src/illuminate/containers/DashboardTemplates/DuplicateTemplateModal/index.tsx:67
+msgid "Template Name:"
+msgstr "Template Name:"
+
+#: src/illuminate/containers/AccountDrilldowns/ClientDetails/index.tsx:100
+msgid "The clients team members are allowed to opt-in to anonymized surveys"
+msgstr "The clients team members are allowed to opt-in to anonymized surveys"
+
+#: src/illuminate/containers/AccountDrilldowns/ClientDetails/index.tsx:92
+msgid "The clients team members can self-subscribe to the platform"
+msgstr "The clients team members can self-subscribe to the platform"
+
+#: src/illuminate/containers/AccountDrilldowns/ClientDetails/index.tsx:96
+msgid "The clients team self-subscribers need approval from admin"
+msgstr "The clients team self-subscribers need approval from admin"
+
+#: src/illuminate/containers/AccountDrilldowns/ClientDetails/index.tsx:81
+msgid "This client is a subsidiary of the parent, so KPIs must roll up"
+msgstr "This client is a subsidiary of the parent, so KPIs must roll up"
+
+#: src/illuminate/containers/DashboardTemplates/TemplateColumnsModal/KPIColumn/index.tsx:77
+msgid "Top Line"
+msgstr "Top Line"
+
+#: src/illuminate/containers/AccountDrilldowns/AccountData/accountDataTable.tsx:46
+#: src/illuminate/containers/DashboardFilters/filterAttributes.tsx:65
+msgid "Value"
+msgstr "Value"
+
+#: src/illuminate/containers/DashboardTemplates/templateManager.tsx:92
+msgid "View"
+msgstr "View"
+
+#: src/illuminate/containers/DashboardTemplates/templateManager.tsx:140
+msgid "Viewer"
+msgstr "Viewer"
+
+#: src/illuminate/components/AccountsView/AccountCard/index.tsx:55
+msgid "Waiting for Approval"
+msgstr "Waiting for Approval"
+
+#: src/illuminate/components/AccountsView/ListView/AccountRowDetails/index.tsx:30
+msgid "Waiting for approval"
+msgstr "Waiting for approval"
+
+#: src/illuminate/components/AccountsView/AccountCard/index.tsx:46
+#~ msgid "Waiting on Approval"
+#~ msgstr "Waiting on Approval"
+
+#: src/illuminate/containers/AccountDrilldowns/AccountData/index.tsx:59
+msgid "Year"
+msgstr "Year"
+
+#: src/illuminate/containers/DashboardFilters/listFilters.tsx:113
+msgid "Yes"
+msgstr "Yes"
+
+#: src/containers/AccountDrilldowns/AccountSummary/index.tsx:47
+#~ msgid "buy center"
+#~ msgstr "buy center"
+
+#: src/illuminate/containers/AccountDrilldowns/AccountSummary/index.tsx:47
+#~ msgid "buying centers"
+#~ msgstr "buying centers"
+
+#: src/components/ContentWrapper/index.tsx:15
+#~ msgid "dashboard.Welcome"
+#~ msgstr "Welcome to Dashboard"
+
+#: src/illuminate/containers/AccountDrilldowns/AccountSummary/index.tsx:45
+#~ msgid "growth"
+#~ msgstr "growth"
+
+#: src/illuminate/containers/AccountDrilldowns/AccountSummary/index.tsx:46
+#~ msgid "plan"
+#~ msgstr "plan"
+
+#: src/illuminate/containers/AccountDrilldowns/AccountSummary/index.tsx:44
+#~ msgid "revenue"
+#~ msgstr "revenue"
+
+#: src/containers/AccountDrilldowns/AccountSummary/index.tsx:53
+#~ msgid "total plan"
+#~ msgstr "total plan"

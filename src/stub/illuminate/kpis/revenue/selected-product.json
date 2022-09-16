@@ -1,0 +1,118 @@
+{
+	"data": {
+		"unit": null,
+		"summary": [],
+		"items": [
+			{
+				"product": "Daily Magazines",
+				"product_id": 435078,
+				"sub_category": true,
+				"kpi": [
+					{
+						"fin_data_type": "revenue",
+						"drop2": "1 Month",
+						"drop3": "Current Month",
+						"drop4": "Current Year",
+						"variable_type": "financial value",
+						"column": "Dec 2020",
+						"period_label": "Dec 2020",
+						"value": "$ 0"
+					},
+					{
+						"fin_data_type": "revenue",
+						"drop2": "1 Month",
+						"drop3": "Current Month",
+						"drop4": "Previous Year",
+						"variable_type": "financial value",
+						"column": "Dec 2019",
+						"period_label": "Dec 2019",
+						"value": "$ 0"
+					},
+					{
+						"fin_data_type": "revenue",
+						"drop2": "Rolling 12 mo",
+						"drop3": "Current Month",
+						"variable_type": "financial value",
+						"column": "Rolling 12 mo",
+						"period_label": "Jan 2020 - Dec 2020",
+						"value": "$ 0"
+					}
+				]
+			},
+			{
+				"product": "Hispanic Magazines",
+				"product_id": 406476,
+				"sub_category": false,
+				"kpi": [
+					{
+						"fin_data_type": "revenue",
+						"drop2": "1 Month",
+						"drop3": "Current Month",
+						"drop4": "Current Year",
+						"variable_type": "financial value",
+						"column": "Dec 2020",
+						"period_label": "Dec 2020",
+						"value": "$ 0"
+					},
+					{
+						"fin_data_type": "revenue",
+						"drop2": "1 Month",
+						"drop3": "Current Month",
+						"drop4": "Previous Year",
+						"variable_type": "financial value",
+						"column": "Dec 2019",
+						"period_label": "Dec 2019",
+						"value": "$ 0"
+					},
+					{
+						"fin_data_type": "revenue",
+						"drop2": "Rolling 12 mo",
+						"drop3": "Current Month",
+						"variable_type": "financial value",
+						"column": "Rolling 12 mo",
+						"period_label": "Jan 2020 - Dec 2020",
+						"value": "$ 0"
+					}
+				]
+			},
+			{
+				"product": "B-to-B Magazines",
+				"product_id": 457677,
+				"sub_category": false,
+				"kpi": [
+					{
+						"fin_data_type": "revenue",
+						"drop2": "1 Month",
+						"drop3": "Current Month",
+						"drop4": "Current Year",
+						"variable_type": "financial value",
+						"column": "Dec 2020",
+						"period_label": "Dec 2020",
+						"value": "$ 0"
+					},
+					{
+						"fin_data_type": "revenue",
+						"drop2": "1 Month",
+						"drop3": "Current Month",
+						"drop4": "Previous Year",
+						"variable_type": "financial value",
+						"column": "Dec 2019",
+						"period_label": "Dec 2019",
+						"value": "$ 0"
+					},
+					{
+						"fin_data_type": "revenue",
+						"drop2": "Rolling 12 mo",
+						"drop3": "Current Month",
+						"variable_type": "financial value",
+						"column": "Rolling 12 mo",
+						"period_label": "Jan 2020 - Dec 2020",
+						"value": "$ 0"
+					}
+				]
+			}
+		],
+		"product_id": 658424,
+		"next": null
+	}
+}

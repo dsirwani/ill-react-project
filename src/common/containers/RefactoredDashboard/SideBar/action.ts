@@ -1,0 +1,3 @@
+export enum SIDEBAR_ACTIONS {
+  SET_SIDEBAR_MENU = 'SET_SIDEBAR_MENU',
+};

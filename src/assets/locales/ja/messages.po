@@ -1,0 +1,1036 @@
+msgid ""
+msgstr ""
+"POT-Creation-Date: 2020-05-29 21:49+0530\n"
+"Mime-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: @lingui/cli\n"
+"Language: ja\n"
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Plural-Forms: \n"
+
+#: src/illuminate/containers/AccountDrilldowns/LegalEntities/index.tsx:150
+msgid "\tCompany Headquarters"
+msgstr ""
+
+#: src/illuminate/components/AccountFilterBar/index.tsx:104
+msgid "  ADD FILTER"
+msgstr ""
+
+#: src/illuminate/containers/AccountDrilldowns/AccountDetails/TabsFolder/nameMatchingDialog.tsx:117
+msgid " Manual Matching"
+msgstr "手動マッチング"
+
+#: src/illuminate/containers/AccountDrilldowns/UserManagement/index.tsx:237
+msgid "ADD"
+msgstr "追加"
+
+#: src/common/containers/RefactoredDashboard/SideBar/Footer.tsx:14
+#: src/illuminate/components/Footer/index.tsx:28
+msgid "ALL RIGHTS RESERVED"
+msgstr "全著作権所有"
+
+#: src/illuminate/containers/DashboardFilters/filterCriteria.tsx:24
+msgid "AND"
+msgstr "そして"
+
+#: src/containers/Upload/index.tsx:107
+#~ msgid "API error"
+#~ msgstr "APIエラー"
+
+#: src/common/components/PrivacyPolicyModalUpdate/index.tsx:50
+msgid "Accept"
+msgstr "受け入れる"
+
+#: src/common/containers/Dashboard/index.tsx:165
+msgid "Account Management"
+msgstr "アカウント管理"
+
+#: src/illuminate/containers/AccountDrilldowns/UserManagement/index.tsx:100
+msgid "Account Manager"
+msgstr "アカウントマネージャー"
+
+#: src/illuminate/containers/AccountDrilldowns/UserManagement/index.tsx:200
+msgid "Account Membership"
+msgstr "アカウント会員"
+
+#: src/illuminate/containers/AccountDrilldowns/AccountDetails/TabsFolder/ProfileComponent.tsx:55
+msgid "Account Name"
+msgstr "アカウント名"
+
+#: src/containers/Upload/index.tsx:75
+#~ msgid "Account Revenue"
+#~ msgstr "アカウント収益"
+
+#: src/illuminate/containers/AccountDrilldowns/AccountDetails/TabsFolder/UsersTable.tsx:59
+msgid "Add People"
+msgstr "人を追加"
+
+#: src/illuminate/containers/AccountDrilldowns/AccountDetails/TabsFolder/EmailDomain.tsx:35
+#: src/illuminate/containers/AccountDrilldowns/ClientDetails/EmailDomain.tsx:10
+msgid "Add email domain"
+msgstr "メールドメインを追加"
+
+#: src/illuminate/containers/DashboardFilters/index.tsx:168
+msgid "Add filter criteria"
+msgstr "フィルタ基準を追加する"
+
+#: src/illuminate/containers/AccountDrilldowns/UserManagement/index.tsx:101
+msgid "Administrator"
+msgstr "管理者"
+
+#: src/illuminate/containers/AccountDrilldowns/LegalEntities/index.tsx:71
+msgid "Alias"
+msgstr "エイリアス"
+
+#: src/illuminate/containers/AccountDrilldowns/UserManagement/index.tsx:218
+msgid "All Accounts"
+msgstr "すべてのアカウント"
+
+#: src/illuminate/containers/AccountDrilldowns/UserManagement/index.tsx:210
+msgid "All accounts"
+msgstr "すべてのアカウント"
+
+#: src/illuminate/containers/AccountDrilldowns/AccountDetails/TabsFolder/EmailDomain.tsx:16
+#: src/illuminate/containers/AccountDrilldowns/ClientDetails/EmailDomain.tsx:14
+msgid "Allow customers with these email domains to subscribe to this account"
+msgstr "これらのメールドメインを持つ顧客がこのアカウントにサブスクライブできるようにします"
+
+#: src/illuminate/containers/AccountDrilldowns/G2KFinancials/index.tsx:31
+msgid "Annual"
+msgstr "年次"
+
+#: src/illuminate/components/AccountsView/AccountCard/index.tsx:62
+#: src/illuminate/components/AccountsView/ListView/AccountRowDetails/index.tsx:36
+msgid "Application Denied"
+msgstr "アプリケーションが拒否されました"
+
+#: src/illuminate/components/AccountsView/AccountCard/index.tsx:54
+#: src/illuminate/components/AccountsView/ListView/AccountRowDetails/index.tsx:28
+msgid "Application Pending"
+msgstr "申請保留中"
+
+#: src/illuminate/containers/DashboardFilters/listFilters.tsx:99
+msgid "Apply Filter"
+msgstr "フィルタを適用する"
+
+#: src/illuminate/components/AccountsView/AccountCard/index.tsx:69
+#: src/illuminate/components/AccountsView/ListView/AccountRowDetails/index.tsx:44
+msgid "Apply for Membership"
+msgstr "メンバーシップを申請する"
+
+#: src/illuminate/containers/AccountDrilldowns/AccountTeam/index.tsx:30
+#: src/illuminate/containers/TeamAccessManagement/dist/index.js:29
+#: src/illuminate/containers/TeamAccessManagement/dist/index.js:30
+#: src/illuminate/containers/TeamAccessManagement/dist/index.js:33
+#: src/illuminate/containers/TeamAccessManagement/index.tsx:28
+#: src/illuminate/containers/TeamAccessManagement/index.tsx:29
+#: src/illuminate/containers/TeamAccessManagement/index.tsx:32
+msgid "Approve"
+msgstr "承認する"
+
+#: src/illuminate/containers/AccountDrilldowns/AccountData/index.tsx:34
+msgid "April"
+msgstr "4月"
+
+#: src/illuminate/containers/AccountDrilldowns/AccountData/index.tsx:38
+msgid "August"
+msgstr "八月"
+
+#: src/illuminate/containers/AccountDrilldowns/AccountKPIDetails/BuyCenterPanel/dist/index.js:73
+#: src/illuminate/containers/AccountDrilldowns/AccountKPIDetails/BuyCenterPanel/index.tsx:57
+#: src/illuminate/containers/AccountDrilldowns/AccountKPIDetails/GrowthPanel/dist/index.js:73
+#: src/illuminate/containers/AccountDrilldowns/AccountKPIDetails/GrowthPanel/index.tsx:57
+#: src/illuminate/containers/AccountDrilldowns/AccountKPIDetails/PGIPanel/dist/index.js:73
+#: src/illuminate/containers/AccountDrilldowns/AccountKPIDetails/PGIPanel/index.tsx:57
+#: src/illuminate/containers/AccountDrilldowns/AccountKPIDetails/RevenuePanel/dist/index.js:73
+#: src/illuminate/containers/AccountDrilldowns/AccountKPIDetails/RevenuePanel/index.tsx:57
+#: src/illuminate/containers/AccountDrilldowns/AccountKPIDetails/TotalPlanPanel/dist/index.js:73
+#: src/illuminate/containers/AccountDrilldowns/AccountKPIDetails/TotalPlanPanel/index.tsx:57
+msgid "BUYING CENTERS"
+msgstr "購入センター"
+
+#: src/illuminate/containers/AccountDrilldowns/G2KFinancials/index.tsx:25
+msgid "Balance Sheet"
+msgstr "バランスシート"
+
+#: src/common/containers/Dashboard/dist/index.js:60
+#: src/common/containers/Dashboard/index.tsx:103
+msgid "Btn.Go"
+msgstr "行く"
+
+#: src/common/containers/Dashboard/dist/index.js:62
+#: src/common/containers/Dashboard/index.tsx:112
+#: src/illuminate/containers/AccountDrilldowns/UserManagement/uploadProfilePicture.tsx:63
+#: src/illuminate/containers/Upload/index.tsx:99
+msgid "Btn.Upload"
+msgstr "アップロードする"
+
+#: src/illuminate/containers/AccountDrilldowns/AccountKPIDetails/BuyCenterPanel/dist/index.js:83
+#: src/illuminate/containers/AccountDrilldowns/AccountKPIDetails/BuyCenterPanel/index.tsx:73
+msgid "Buy Center"
+msgstr "購入センター"
+
+#: src/illuminate/containers/AccountDrilldowns/VisualizationPanel/BuyingCenterEstimates/index.tsx:30
+#: src/illuminate/containers/AccountDrilldowns/VisualizationPanel/BuyingCenterEstimates/index.tsx:38
+msgid "Buying Center Estimates"
+msgstr "購入センターの見積もり"
+
+#: src/common/components/PrivacyPolicyModalUpdate/index.tsx:45
+msgid "By accepting these documents, you agree to these updates."
+msgstr "これらのドキュメントを受け入れることにより、これらの更新に同意したことになります。"
+
+#: src/illuminate/components/Footer/index.tsx:15
+#~ msgid "COOKIE POLICY"
+#~ msgstr "クッキーポリシー"
+
+#: src/illuminate/components/Footer/index.tsx:15
+msgid "COOKIE PREFERENCE"
+msgstr "クッキーの好み"
+
+#: src/illuminate/containers/AccountDrilldowns/AccountData/accountDataTable.tsx:43
+msgid "CSV Product Identifier"
+msgstr "CSV製品ID"
+
+#: src/illuminate/containers/AccountDrilldowns/VisualizationPanel/ControlPanel/index.tsx:12
+msgid "Calendar"
+msgstr "カレンダー"
+
+#: src/containers/AccountDrilldowns/VisualizationPanel/ControlPanel/index.tsx:22
+#~ msgid "Calendar Year"
+#~ msgstr "暦年"
+
+#: src/illuminate/components/AccountFilterBar/SaveFilterDialog/index.tsx:57
+#: src/illuminate/containers/AccountDrilldowns/AccountDetails/TabsFolder/nameMatchingDialog.tsx:165
+#: src/illuminate/containers/AccountDrilldowns/UserManagement/uploadProfilePicture.tsx:66
+#: src/illuminate/containers/DashboardFilters/index.tsx:181
+#: src/illuminate/containers/DashboardFilters/listFilters.tsx:96
+#: src/illuminate/containers/DashboardTemplates/DuplicateTemplateModal/index.tsx:80
+#: src/illuminate/containers/DashboardTemplates/TemplateColumnsModal/index.tsx:129
+#: src/illuminate/containers/DashboardTemplates/templateManager.tsx:187
+#: src/illuminate/containers/DashboardTemplates/templateManager.tsx:207
+msgid "Cancel"
+msgstr "キャンセル"
+
+#: src/illuminate/containers/AccountDrilldowns/G2KFinancials/index.tsx:26
+msgid "Cash Flows"
+msgstr "キャッシュフロー"
+
+#: src/illuminate/containers/AccountDrilldowns/ClientDetails/index.tsx:74
+msgid "Child of"
+msgstr "の子"
+
+#: src/containers/Upload/index.tsx:87
+#~ msgid "Choose File"
+#~ msgstr "ファイルを選ぶ"
+
+#: src/illuminate/containers/AccountDrilldowns/AccountDetails/SourceRecords.tsx:53
+#~ msgid "Clear"
+#~ msgstr "晴れ"
+
+#: src/illuminate/containers/AccountDrilldowns/AccountDetails/TabsFolder/nameMatchingDialog.tsx:146
+msgid "Clear Match"
+msgstr "クリアマッチ"
+
+#: src/illuminate/containers/AccountDrilldowns/ClientDetails/index.tsx:88
+msgid "Client Access"
+msgstr "クライアントアクセス"
+
+#: src/illuminate/containers/AccountDrilldowns/ClientDetails/index.tsx:71
+msgid "Client ID"
+msgstr "クライアントID"
+
+#: src/common/containers/Dashboard/index.tsx:107
+msgid "Client Management"
+msgstr "クライアント管理"
+
+#: src/illuminate/containers/AccountDrilldowns/ClientDetails/index.tsx:61
+msgid "Client Name"
+msgstr "クライアント名"
+
+#: src/illuminate/containers/Upload/index.tsx:74
+msgid "Client Workbook"
+msgstr "クライアントワークブック"
+
+#: src/illuminate/containers/DashboardTemplates/TemplateColumnsModal/index.tsx:129
+msgid "Close"
+msgstr "閉じる"
+
+#: src/illuminate/containers/AccountDrilldowns/AccountDetails/TabsFolder/SourceRecords.tsx:17
+#: src/illuminate/containers/AccountDrilldowns/AccountDetails/TabsFolder/nameMatchingDialog.tsx:108
+msgid "Company Name"
+msgstr "会社名"
+
+#: src/illuminate/containers/AccountDrilldowns/AccountDetails/TabsFolder/SourceRecords.tsx:19
+#: src/illuminate/containers/AccountDrilldowns/AccountDetails/TabsFolder/nameMatchingDialog.tsx:110
+msgid "Confidence"
+msgstr "信頼"
+
+#: src/illuminate/containers/AccountDrilldowns/AccountData/accountDataTable.tsx:45
+msgid "Contained In"
+msgstr "に含まれます"
+
+#: src/illuminate/containers/AccountDrilldowns/UserManagement/index.tsx:102
+msgid "Content Manager"
+msgstr "コンテンツマネージャ"
+
+#: src/common/components/PrivacyPolicyModalSignUp/index.tsx:40
+msgid "Continue"
+msgstr "継続する"
+
+#: src/containers/AccountDrilldowns/VisualizationPanel/ControlPanel/index.tsx:19
+#~ msgid "Controls"
+#~ msgstr "コントロール"
+
+#: src/illuminate/containers/DashboardTemplates/templateManager.tsx:194
+msgid "Create new template"
+msgstr "新しいテンプレートを作成する"
+
+#: src/illuminate/containers/DashboardTemplates/TemplateColumnsModal/KPIColumn/index.tsx:55
+msgid "Custom Header"
+msgstr "カスタムヘッダー"
+
+#: src/illuminate/containers/AccountDrilldowns/UserManagement/index.tsx:103
+msgid "Customer"
+msgstr "お客様"
+
+#: src/illuminate/containers/AccountDrilldowns/AccountDetails/TabsFolder/EmailDomain.tsx:11
+msgid "Customer Access"
+msgstr "顧客アクセス"
+
+#: src/illuminate/containers/AccountDrilldowns/AccountDetails/index.tsx:98
+#~ msgid "Customers can subscribe to this account"
+#~ msgstr "顧客はこのアカウントを購読できます"
+
+#: src/illuminate/containers/AccountDrilldowns/AccountDetails/TabsFolder/ProfileComponent.tsx:78
+msgid "Customers require approval from self-registration"
+msgstr "お客様は自己登録の承認が必要です"
+
+#: src/illuminate/containers/AccountDrilldowns/AccountDetails/index.tsx:103
+#~ msgid "Customers subscribers need approval"
+#~ msgstr "顧客はこのアカウントを購読できます"
+
+#: src/illuminate/containers/AccountDrilldowns/AccountData/index.tsx:48
+msgid "Data type"
+msgstr "データ・タイプ"
+
+#: src/illuminate/containers/AccountDrilldowns/AccountData/accountDataTable.tsx:41
+msgid "Date"
+msgstr "日付"
+
+#: src/illuminate/containers/AccountDrilldowns/AccountData/index.tsx:42
+msgid "December"
+msgstr "12月"
+
+#: src/common/components/PrivacyPolicyModalSignUp/index.tsx:43
+#: src/common/components/PrivacyPolicyModalUpdate/index.tsx:53
+msgid "Decline"
+msgstr "低下"
+
+#: src/illuminate/containers/DashboardTemplates/templateManager.tsx:91
+msgid "Default"
+msgstr "デフォルト"
+
+#: src/illuminate/containers/DashboardTemplates/templateManager.tsx:91
+msgid "Delete"
+msgstr "削除"
+
+#: src/illuminate/containers/AccountDrilldowns/AccountTeam/index.tsx:31
+#: src/illuminate/containers/TeamAccessManagement/dist/index.js:28
+#: src/illuminate/containers/TeamAccessManagement/dist/index.js:29
+#: src/illuminate/containers/TeamAccessManagement/dist/index.js:34
+#: src/illuminate/containers/TeamAccessManagement/index.tsx:27
+#: src/illuminate/containers/TeamAccessManagement/index.tsx:28
+#: src/illuminate/containers/TeamAccessManagement/index.tsx:33
+msgid "Deny"
+msgstr "拒否する"
+
+#: src/common/components/PrivacyPolicyModalUpdate/index.tsx:29
+msgid "Document"
+msgstr "資料"
+
+#: src/illuminate/containers/DashboardTemplates/templateManager.tsx:91
+msgid "Duplicate"
+msgstr "複製"
+
+#: src/illuminate/containers/DashboardTemplates/DuplicateTemplateModal/index.tsx:64
+msgid "Duplicate Template"
+msgstr "テンプレートが重複しています"
+
+#: src/illuminate/containers/DashboardTemplates/templateManager.tsx:91
+msgid "Edit"
+msgstr "複製"
+
+#: src/common/components/PrivacyPolicyModalUpdate/index.tsx:30
+msgid "Effective as of"
+msgstr "有効"
+
+#: src/illuminate/containers/AccountDrilldowns/AccountTeam/index.tsx:23
+#: src/illuminate/containers/TeamAccessManagement/dist/index.js:23
+#: src/illuminate/containers/TeamAccessManagement/index.tsx:22
+msgid "Email"
+msgstr "Eメール"
+
+#: src/illuminate/containers/AccountDrilldowns/UserManagement/index.tsx:63
+msgid "Email Address"
+msgstr "電子メールアドレス"
+
+#: src/illuminate/containers/AccountDrilldowns/AccountDetails/nameMatchingDialog.tsx:148
+#~ msgid "Exit"
+#~ msgstr "出口"
+
+#: src/illuminate/containers/AccountDrilldowns/AccountData/index.tsx:32
+msgid "February"
+msgstr "2月"
+
+#: src/containers/Upload/index.tsx:91
+#~ msgid "File size should be more than 5KB"
+#~ msgstr "ファイルサイズは5KB以上にしてください"
+
+#: src/containers/Upload/index.tsx:104
+#~ msgid "File uploaded successfully."
+#~ msgstr "ファイルが正常にアップロードされました"
+
+#: src/containers/Upload/index.tsx:91
+#~ msgid "Files of type xlsx and xls are allowed"
+#~ msgstr "タイプxlsxおよびxlsのファイルが許可されます"
+
+#: src/illuminate/components/AccountFilterBar/SaveFilterDialog/index.tsx:44
+msgid "Filter Name:"
+msgstr "フィルタ名"
+
+#: src/illuminate/containers/Upload/index.tsx:75
+msgid "Financial"
+msgstr "財政的"
+
+#: src/illuminate/containers/AccountDrilldowns/G2KFinancials/financialDetails.tsx:33
+msgid "Financial Details"
+msgstr "財務詳細"
+
+#: src/illuminate/containers/AccountDrilldowns/UserManagement/index.tsx:229
+msgid "Find an account"
+msgstr "アカウントを探す"
+
+#: src/illuminate/containers/AccountDrilldowns/UserManagement/index.tsx:52
+msgid "First Name"
+msgstr "ファーストネーム"
+
+#: src/illuminate/containers/AccountDrilldowns/VisualizationPanel/ControlPanel/index.tsx:13
+msgid "Fiscal"
+msgstr "会計"
+
+#: src/illuminate/components/AccountFilterBar/index.tsx:19
+#~ msgid "Get Filter"
+#~ msgstr "フィルタを取得"
+
+#: src/illuminate/containers/Upload/index.tsx:76
+msgid "Global 2000"
+msgstr "グローバル2000"
+
+#: src/illuminate/containers/AccountDrilldowns/VisualizationPanel/ControlPanel/index.tsx:36
+#~ msgid "Graph Control"
+#~ msgstr "グラフ制御"
+
+#: src/illuminate/containers/AccountDrilldowns/VisualizationPanel/ControlPanel/index.tsx:35
+msgid "Graph Controls"
+msgstr ""
+
+#: src/illuminate/containers/AccountDrilldowns/AccountKPIDetails/GrowthPanel/dist/index.js:83
+#: src/illuminate/containers/AccountDrilldowns/AccountKPIDetails/GrowthPanel/index.tsx:73
+msgid "Growth Totals"
+msgstr "成長合計"
+
+#: src/illuminate/containers/AccountDrilldowns/LegalEntities/index.tsx:40
+#~ msgid "Headquarters Address"
+#~ msgstr "本社住所"
+
+#: src/common/components/MessageBar/dist/index.js:17
+#: src/common/components/MessageBar/index.tsx:15
+msgid "Hello"
+msgstr "こんにちは"
+
+#: src/common/components/PrivacyPolicyModalSignUp/index.tsx:29
+msgid "I will agree to the Polaris I/O"
+msgstr "Polaris I / Oに同意します"
+
+#: src/common/components/MessageBar/dist/index.js:22
+#: src/common/components/MessageBar/index.tsx:19
+#: src/common/components/PrivacyPolicyModalUpdate/index.tsx:22
+msgid "Important Updates"
+msgstr "重要な更新"
+
+#: src/illuminate/containers/AccountDrilldowns/G2KFinancials/index.tsx:28
+msgid "Income Statements"
+msgstr "損益計算書"
+
+#: src/illuminate/containers/AccountDrilldowns/AccountTeam/index.tsx:29
+#: src/illuminate/containers/TeamAccessManagement/dist/index.js:30
+#: src/illuminate/containers/TeamAccessManagement/dist/index.js:32
+#: src/illuminate/containers/TeamAccessManagement/index.tsx:29
+#: src/illuminate/containers/TeamAccessManagement/index.tsx:31
+msgid "Invite"
+msgstr "招待する"
+
+#: src/illuminate/containers/AccountDrilldowns/AccountData/index.tsx:31
+msgid "January"
+msgstr "1月"
+
+#: src/illuminate/containers/AccountDrilldowns/UserManagement/index.tsx:68
+msgid "Job Title"
+msgstr "職名"
+
+#: src/common/containers/Dashboard/index.tsx:174
+msgid "Join an Account Team"
+msgstr "アカウントチームに参加する"
+
+#: src/illuminate/containers/AccountDrilldowns/AccountData/index.tsx:37
+msgid "July"
+msgstr "七月"
+
+#: src/illuminate/containers/AccountDrilldowns/AccountData/index.tsx:36
+msgid "June"
+msgstr "六月"
+
+#: src/illuminate/containers/AccountDrilldowns/G2KFinancials/index.tsx:27
+msgid "Key Metrics"
+msgstr "主要な指標"
+
+#: src/illuminate/components/Loader/dist/index.js:12
+#: src/illuminate/components/Loader/index.tsx:10
+msgid "LOADING..."
+msgstr "ロード中..."
+
+#: src/illuminate/containers/AccountDrilldowns/ClientDetails/index.tsx:70
+msgid "Landing URL"
+msgstr "ランディングURL"
+
+#: src/illuminate/containers/AccountDrilldowns/UserManagement/index.tsx:58
+msgid "Last Name"
+msgstr "苗字"
+
+#: src/illuminate/containers/AccountDrilldowns/AccountTeam/index.tsx:25
+#: src/illuminate/containers/TeamAccessManagement/dist/index.js:25
+#: src/illuminate/containers/TeamAccessManagement/index.tsx:24
+msgid "Last Platform Activity"
+msgstr "最後のプラットフォームアクティビティ"
+
+#: src/illuminate/containers/AccountDrilldowns/LegalEntities/index.tsx:87
+msgid "Legal Address"
+msgstr "法的住所"
+
+#: src/illuminate/containers/AccountDrilldowns/LegalEntities/index.tsx:33
+msgid "Legal Entity Info"
+msgstr ""
+
+#: src/illuminate/containers/AccountDrilldowns/LegalEntities/index.tsx:26
+#~ msgid "Legal Name"
+#~ msgstr "正式名称"
+
+#: src/common/containers/Dashboard/dist/index.js:86
+#: src/common/containers/Dashboard/index.tsx:180
+msgid "Logout"
+msgstr "ログアウト"
+
+#: src/illuminate/containers/AccountDrilldowns/UserManagement/index.tsx:245
+msgid "Management Permissions"
+msgstr "管理権限"
+
+#: src/illuminate/containers/DashboardTemplates/templateManager.tsx:140
+msgid "Manager"
+msgstr ""
+
+#: src/illuminate/containers/AccountDrilldowns/UserManagement/index.tsx:73
+msgid "Manager-Email-Address"
+msgstr "マネージャー、メールアドレス"
+
+#: src/illuminate/containers/AccountDrilldowns/AccountDetails/SourceRecords.tsx:51
+#~ msgid "Manual"
+#~ msgstr "マニュアル"
+
+#: src/illuminate/containers/AccountDrilldowns/AccountDetails/SourceRecords.tsx:50
+#~ msgid "Manual Match"
+#~ msgstr "手動一致"
+
+#: src/illuminate/containers/AccountDrilldowns/AccountDetails/TabsFolder/SourceRecords.tsx:54
+msgid "Manual Override"
+msgstr ""
+
+#: src/illuminate/containers/AccountDrilldowns/AccountData/index.tsx:33
+msgid "March"
+msgstr "行進"
+
+#: src/illuminate/containers/AccountDrilldowns/AccountDetails/TabsFolder/nameMatchingDialog.tsx:111
+msgid "Match Selected"
+msgstr "選択した一致"
+
+#: src/illuminate/containers/AccountDrilldowns/AccountDetails/nameMatchingDialog.tsx:139
+#~ msgid "Matches Found"
+#~ msgstr "一致が見つかりました"
+
+#: src/illuminate/containers/AccountDrilldowns/AccountData/index.tsx:35
+msgid "May"
+msgstr "五月"
+
+#: src/illuminate/containers/AccountDrilldowns/AccountDetails/TabsFolder/SourceRecords.tsx:18
+#: src/illuminate/containers/AccountDrilldowns/AccountDetails/TabsFolder/nameMatchingDialog.tsx:109
+msgid "Method"
+msgstr "方法"
+
+#: src/illuminate/containers/AccountDrilldowns/AccountData/index.tsx:69
+msgid "Month"
+msgstr "月"
+
+#: src/illuminate/containers/AccountDrilldowns/AccountTeam/index.tsx:22
+#: src/illuminate/containers/DashboardTemplates/templateManager.tsx:90
+#: src/illuminate/containers/TeamAccessManagement/dist/index.js:22
+#: src/illuminate/containers/TeamAccessManagement/index.tsx:21
+msgid "Name"
+msgstr "名前"
+
+#: src/illuminate/components/AccountFilterBar/SaveFilterDialog/index.tsx:41
+msgid "Name Filter"
+msgstr "名前フィルター"
+
+#: src/illuminate/containers/DashboardFilters/listFilters.tsx:110
+msgid "No"
+msgstr "番号"
+
+#: src/illuminate/containers/AccountDrilldowns/UserManagement/index.tsx:223
+msgid "No Accounts available"
+msgstr "利用可能なアカウントはありません"
+
+#: src/illuminate/containers/AccountDrilldowns/AccountDetails/EmailDomain.tsx:27
+#~ msgid "No Data Available"
+#~ msgstr "データなし"
+
+#: src/containers/Upload/index.tsx:91
+#~ msgid "No file selected"
+#~ msgstr "ファイルが選択されていません"
+
+#: src/illuminate/containers/AccountDrilldowns/AccountData/index.tsx:41
+msgid "November"
+msgstr "11月"
+
+#: src/illuminate/containers/DashboardFilters/index.tsx:184
+#: src/illuminate/containers/DashboardTemplates/TemplateColumnsModal/index.tsx:132
+msgid "OK"
+msgstr "OK"
+
+#: src/illuminate/containers/DashboardFilters/filterCriteria.tsx:25
+msgid "OR"
+msgstr "または"
+
+#: src/illuminate/containers/AccountDrilldowns/AccountData/index.tsx:40
+msgid "October"
+msgstr "10月"
+
+#: src/illuminate/containers/DashboardTemplates/TemplateColumnsModal/index.tsx:120
+msgid "Only Polaris IO can modify"
+msgstr "PolarisIOのみが変更できます"
+
+#: src/illuminate/containers/AccountDrilldowns/AccountDetails/SourceRecords.tsx:53
+#~ msgid "Override"
+#~ msgstr "オーバーライド"
+
+#: src/illuminate/containers/AccountDrilldowns/LegalEntities/ownershipHierarchy.tsx:47
+msgid "Ownership Hierarchy"
+msgstr "所有権の階層"
+
+#: src/illuminate/containers/AccountDrilldowns/VisualizationPanel/BuyingCenterEstimates/index.tsx:18
+#~ msgid "PENETRATION"
+#~ msgstr "浸透"
+
+#: src/illuminate/containers/AccountDrilldowns/VisualizationPanel/BuyingCenterEstimates/index.tsx:18
+#~ msgid "PENETRATION-ANALYSIS"
+#~ msgstr "浸透分析"
+
+#: src/illuminate/containers/AccountDrilldowns/VisualizationPanel/PGIGraph/index.tsx:44
+msgid "PGI"
+msgstr ""
+
+#: src/illuminate/containers/AccountDrilldowns/AccountKPIDetails/PGIPanel/dist/index.js:83
+#: src/illuminate/containers/AccountDrilldowns/AccountKPIDetails/PGIPanel/index.tsx:73
+msgid "PGI Totals"
+msgstr "PGI合計"
+
+#: src/illuminate/containers/AccountDrilldowns/AccountDetails/TabsFolder/ProfileComponent.tsx:23
+msgid "PIO IDENTIFIER"
+msgstr "PIO識別"
+
+#: src/illuminate/components/Footer/index.tsx:11
+#~ msgid "PRIVACY POLICY"
+#~ msgstr "個人情報保護方針"
+
+#: src/illuminate/components/Footer/index.tsx:11
+msgid "PRIVACY STATEMENT"
+msgstr "プライバシーに関する声明"
+
+#: src/illuminate/containers/AccountDrilldowns/AccountKPIDetails/BuyCenterPanel/dist/index.js:71
+#: src/illuminate/containers/AccountDrilldowns/AccountKPIDetails/BuyCenterPanel/index.tsx:57
+#: src/illuminate/containers/AccountDrilldowns/AccountKPIDetails/GrowthPanel/dist/index.js:71
+#: src/illuminate/containers/AccountDrilldowns/AccountKPIDetails/GrowthPanel/index.tsx:57
+#: src/illuminate/containers/AccountDrilldowns/AccountKPIDetails/PGIPanel/dist/index.js:71
+#: src/illuminate/containers/AccountDrilldowns/AccountKPIDetails/PGIPanel/index.tsx:57
+#: src/illuminate/containers/AccountDrilldowns/AccountKPIDetails/RevenuePanel/dist/index.js:71
+#: src/illuminate/containers/AccountDrilldowns/AccountKPIDetails/RevenuePanel/index.tsx:57
+#: src/illuminate/containers/AccountDrilldowns/AccountKPIDetails/TotalPlanPanel/dist/index.js:71
+#: src/illuminate/containers/AccountDrilldowns/AccountKPIDetails/TotalPlanPanel/index.tsx:57
+msgid "PRODUCT CATEGORIES"
+msgstr "製品カテゴリ"
+
+#: src/illuminate/containers/AccountDrilldowns/VisualizationPanel/BuyingCenterEstimates/index.tsx:18
+#~ msgid "PRODUCTS"
+#~ msgstr "製品"
+
+#: src/illuminate/components/NotFound/index.tsx:10
+msgid "Page Not Found"
+msgstr "ページが見つかりません"
+
+#: src/illuminate/containers/AccountDrilldowns/VisualizationPanel/BuyingCenterEstimates/index.tsx:19
+msgid "Penetration"
+msgstr ""
+
+#: src/illuminate/containers/AccountDrilldowns/VisualizationPanel/BuyingCenterEstimates/index.tsx:19
+msgid "Penetration Analysis"
+msgstr ""
+
+#: src/common/containers/Dashboard/index.tsx:168
+msgid "People Management"
+msgstr "人材管理"
+
+#: src/illuminate/containers/AccountDrilldowns/UserManagement/index.tsx:104
+msgid "People Manager"
+msgstr "ピープルマネージャー"
+
+#: src/illuminate/containers/AccountDrilldowns/AccountData/index.tsx:23
+msgid "Plan"
+msgstr "予定"
+
+#: src/illuminate/containers/AccountDrilldowns/AccountKPIDetails/TotalPlanPanel/dist/index.js:87
+#: src/illuminate/containers/AccountDrilldowns/AccountKPIDetails/TotalPlanPanel/index.tsx:75
+msgid "Plan Totals"
+msgstr "計画合計"
+
+#: src/common/components/PrivacyPolicyModalSignUp/index.tsx:26
+msgid "Polaris I/O User Agreement"
+msgstr "Polaris I / Oユーザー契約"
+
+#: src/common/components/PrivacyPolicyModalUpdate/index.tsx:24
+msgid "Polaris I/O has updated the following document(s). Please read these document(s) as the changes affect your legal rights."
+msgstr "Polaris I / Oは、次のドキュメントを更新しました。変更はあなたの法的権利に影響を与えるので、これらの文書を読んでください。"
+
+#: src/illuminate/containers/AccountDrilldowns/AccountDetails/TabsFolder/UsersTable.tsx:18
+msgid "Primary"
+msgstr "プライマリー"
+
+#: src/illuminate/containers/AccountDrilldowns/AccountData/accountDataTable.tsx:42
+msgid "Product Identifier"
+msgstr "製品識別子"
+
+#: src/illuminate/containers/AccountDrilldowns/AccountData/accountDataTable.tsx:44
+#: src/illuminate/containers/AccountDrilldowns/VisualizationPanel/BuyingCenterEstimates/index.tsx:19
+msgid "Products"
+msgstr "製品"
+
+#: src/containers/AccountDrilldowns/LegalEntities/index.tsx:32
+#~ msgid "Programmatic Match"
+#~ msgstr "プログラマティックマッチ"
+
+#: src/illuminate/containers/AccountDrilldowns/G2KFinancials/index.tsx:32
+msgid "Quarter"
+msgstr "四半期"
+
+#: src/illuminate/components/Footer/index.tsx:19
+#~ msgid "REGIONAL POLICY"
+#~ msgstr "地域政策"
+
+#: src/illuminate/containers/AccountDrilldowns/UserManagement/index.tsx:234
+msgid "REMOVE"
+msgstr "削除する"
+
+#: src/illuminate/containers/AccountDrilldowns/G2KFinancials/index.tsx:38
+msgid "Report type"
+msgstr "レポートの種類"
+
+#: src/illuminate/containers/AccountDrilldowns/G2KFinancials/index.tsx:48
+msgid "Reporting frequency"
+msgstr "報告頻度"
+
+#: src/illuminate/containers/AccountDrilldowns/G2KFinancials/reportingPeriod.tsx:31
+msgid "Reporting period"
+msgstr "報告期間"
+
+#: src/containers/Upload/index.tsx:91
+#~ msgid "Required"
+#~ msgstr "必須"
+
+#: src/illuminate/containers/AccountDrilldowns/AccountData/index.tsx:22
+msgid "Revenue"
+msgstr "収益"
+
+#: src/illuminate/containers/AccountDrilldowns/AccountKPIDetails/RevenuePanel/index.tsx:72
+msgid "Revenue Totals"
+msgstr "収益ツール"
+
+#: src/illuminate/containers/AccountDrilldowns/VisualizationPanel/RevenuePlanGraph/index.tsx:43
+msgid "Revenue vs Plan"
+msgstr "収益と計画"
+
+#: src/illuminate/containers/AccountDrilldowns/VisualizationPanel/ControlPanel/index.tsx:14
+msgid "Rolling 12 months"
+msgstr "12か月ローリング"
+
+#: src/illuminate/containers/AccountDrilldowns/VisualizationPanel/ControlPanel/index.tsx:15
+msgid "Rolling 24 months"
+msgstr "24か月ローリング"
+
+#: src/illuminate/containers/AccountDrilldowns/VisualizationPanel/ControlPanel/index.tsx:16
+msgid "Rolling 36 months"
+msgstr "36か月ローリング"
+
+#: src/illuminate/components/Footer/index.tsx:19
+msgid "SECURITY STATEMENT"
+msgstr "セキュリティステートメント"
+
+#: src/illuminate/components/AccountFilterBar/SaveFilterDialog/index.tsx:62
+#: src/illuminate/components/AccountFilterBar/index.tsx:123
+#: src/illuminate/containers/DashboardTemplates/DuplicateTemplateModal/index.tsx:85
+msgid "Save"
+msgstr "セーブ"
+
+#: src/illuminate/components/AccountFilterBar/index.tsx:120
+msgid "Save As..."
+msgstr "名前を付けて保存..."
+
+#: src/illuminate/components/AccountFilterBar/index.tsx:19
+#~ msgid "Save Filter"
+#~ msgstr "フィルタを保存"
+
+#: src/illuminate/containers/DashboardFilters/listFilters.tsx:68
+msgid "Saved Filters"
+msgstr "保存されたフィルター"
+
+#: src/common/containers/Dashboard/dist/index.js:56
+#: src/common/containers/Dashboard/index.tsx:97
+msgid "Search"
+msgstr "探す..."
+
+#: src/illuminate/containers/AccountDrilldowns/AccountDetails/nameMatchingDialog.tsx:116
+#~ msgid "Search Using"
+#~ msgstr "を使用して検索"
+
+#: src/illuminate/containers/AccountDrilldowns/AccountDetails/nameMatchingDialog.tsx:121
+#~ msgid "Search account"
+#~ msgstr "アカウントを検索"
+
+#: src/illuminate/containers/AccountDrilldowns/AccountDetails/TabsFolder/nameMatchingDialog.tsx:151
+msgid "Search companies by name"
+msgstr ""
+
+#: src/illuminate/containers/DashboardFilters/filterAttributes.tsx:49
+msgid "Search field"
+msgstr "検索フィールド"
+
+#: src/illuminate/containers/AccountDrilldowns/AccountDetails/nameMatchingDialog.tsx:113
+#~ msgid "Search string"
+#~ msgstr "検索文字列"
+
+#: src/illuminate/containers/AccountDrilldowns/AccountDetails/TabsFolder/UsersTable.tsx:18
+msgid "Secondary"
+msgstr "二次"
+
+#: src/illuminate/containers/DashboardFilters/filterCriteria.tsx:29
+msgid "Select"
+msgstr "選択する"
+
+#: src/illuminate/containers/Upload/index.tsx:71
+msgid "Select File"
+msgstr "ファイルを選択"
+
+#: src/illuminate/components/AccountFilterBar/index.tsx:117
+msgid "Select Filter..."
+msgstr "フィルタを選択..."
+
+#: src/illuminate/containers/AccountDrilldowns/AccountDetails/searchList.tsx:29
+#~ msgid "Select Match"
+#~ msgstr "一致を選択"
+
+#: src/illuminate/containers/DashboardFilters/filterAttributes.tsx:55
+msgid "Select Operator"
+msgstr "演算子を選択"
+
+#: src/common/containers/SiteSelection/index.tsx:50
+msgid "Select Site"
+msgstr "サイトを選択"
+
+#: src/illuminate/containers/DashboardTemplates/preConfiguredTemplates.tsx:41
+msgid "Select Template"
+msgstr ""
+
+#: src/illuminate/containers/AccountDrilldowns/AccountData/index.tsx:39
+msgid "September"
+msgstr "九月"
+
+#: src/illuminate/containers/AccountDrilldowns/UserManagement/index.tsx:189
+msgid "Show Currency KPIs using MM"
+msgstr "MMを使用して通貨KPIを表示する"
+
+#: src/common/containers/Dashboard/index.tsx:171
+msgid "Site Administration"
+msgstr "サイト管理"
+
+#: src/illuminate/containers/AccountDrilldowns/AccountDetails/TabsFolder/SourceRecords.tsx:16
+msgid "Source"
+msgstr "ソース"
+
+#: src/illuminate/containers/AccountDrilldowns/AccountDetails/TabsFolder/SourceRecords.tsx:33
+msgid "Source Records"
+msgstr "ソースレコード"
+
+#: src/illuminate/containers/AccountDrilldowns/AccountTeam/index.tsx:24
+#: src/illuminate/containers/DashboardTemplates/templateManager.tsx:90
+#: src/illuminate/containers/TeamAccessManagement/dist/index.js:24
+#: src/illuminate/containers/TeamAccessManagement/index.tsx:23
+msgid "Status"
+msgstr "状態"
+
+#: src/illuminate/containers/AccountDrilldowns/AccountDetails/TabsFolder/nameMatchingDialog.tsx:169
+#: src/illuminate/containers/AccountDrilldowns/UserManagement/index.tsx:193
+#: src/illuminate/containers/DashboardTemplates/templateManager.tsx:210
+msgid "Submit"
+msgstr "参加する"
+
+#: src/illuminate/containers/AccountDrilldowns/UserManagement/index.tsx:105
+msgid "Survey Manager"
+msgstr "調査マネージャー"
+
+#: src/illuminate/containers/AccountDrilldowns/AccountTeam/index.tsx:32
+#: src/illuminate/containers/TeamAccessManagement/dist/index.js:28
+#: src/illuminate/containers/TeamAccessManagement/dist/index.js:35
+#: src/illuminate/containers/TeamAccessManagement/index.tsx:27
+#: src/illuminate/containers/TeamAccessManagement/index.tsx:34
+msgid "Suspend"
+msgstr "サスペンド"
+
+#: src/illuminate/components/Footer/index.tsx:23
+msgid "TERMS OF SERVICE"
+msgstr "利用規約"
+
+#: src/illuminate/containers/AccountDrilldowns/AccountKPIDetails/RevenuePanel/dist/index.js:82
+msgid "TOTALS"
+msgstr "合計"
+
+#: src/illuminate/containers/TeamAccessManagement/dist/index.js:106
+#: src/illuminate/containers/TeamAccessManagement/index.tsx:107
+msgid "Team Access Management"
+msgstr "チームアクセス管理"
+
+#: src/common/containers/Dashboard/dist/index.js:84
+#: src/common/containers/Dashboard/index.tsx:177
+msgid "Team Management"
+msgstr "チーム管理"
+
+#: src/illuminate/containers/AccountDrilldowns/UserManagement/index.tsx:106
+msgid "Team Member"
+msgstr "チームメンバー"
+
+#: src/illuminate/containers/AccountDrilldowns/AccountDetails/TabsFolder/ProfileComponent.tsx:66
+msgid "Team members can self-register"
+msgstr "チームメンバーは自己登録できます"
+
+#: src/illuminate/containers/AccountDrilldowns/AccountDetails/TabsFolder/ProfileComponent.tsx:74
+msgid "Team members can self-register with valid customer domain"
+msgstr "チームメンバーは、有効な顧客ドメインに自己登録できます"
+
+#: src/illuminate/containers/AccountDrilldowns/AccountDetails/TabsFolder/ProfileComponent.tsx:70
+msgid "Team members require approval from self-registration"
+msgstr "チームメンバーは自己登録の承認が必要です"
+
+#: src/illuminate/containers/DashboardTemplates/templateManager.tsx:140
+msgid "Template"
+msgstr "テンプレート"
+
+#: src/illuminate/containers/DashboardTemplates/DuplicateTemplateModal/index.tsx:67
+msgid "Template Name:"
+msgstr "テンプレート名："
+
+#: src/illuminate/containers/AccountDrilldowns/ClientDetails/index.tsx:100
+msgid "The clients team members are allowed to opt-in to anonymized surveys"
+msgstr "クライアントのチームメンバーは匿名のアンケートにオプトインすることができます"
+
+#: src/illuminate/containers/AccountDrilldowns/ClientDetails/index.tsx:92
+msgid "The clients team members can self-subscribe to the platform"
+msgstr "クライアントチームのメンバーは、プラットフォームにセルフサブスクライブできます"
+
+#: src/illuminate/containers/AccountDrilldowns/ClientDetails/index.tsx:96
+msgid "The clients team self-subscribers need approval from admin"
+msgstr "クライアントチームのセルフサブスクライバーには管理者の承認が必要です"
+
+#: src/illuminate/containers/AccountDrilldowns/ClientDetails/index.tsx:81
+msgid "This client is a subsidiary of the parent, so KPIs must roll up"
+msgstr "このクライアントは親の子会社であるため、KPIをロールアップする必要があります"
+
+#: src/illuminate/containers/DashboardTemplates/TemplateColumnsModal/KPIColumn/index.tsx:77
+msgid "Top Line"
+msgstr "トップライン"
+
+#: src/illuminate/containers/AccountDrilldowns/AccountData/accountDataTable.tsx:46
+#: src/illuminate/containers/DashboardFilters/filterAttributes.tsx:65
+msgid "Value"
+msgstr "値"
+
+#: src/illuminate/containers/DashboardTemplates/templateManager.tsx:92
+msgid "View"
+msgstr "見る"
+
+#: src/illuminate/containers/DashboardTemplates/templateManager.tsx:140
+msgid "Viewer"
+msgstr ""
+
+#: src/illuminate/components/AccountsView/AccountCard/index.tsx:55
+msgid "Waiting for Approval"
+msgstr "承認待ち"
+
+#: src/illuminate/components/AccountsView/ListView/AccountRowDetails/index.tsx:30
+msgid "Waiting for approval"
+msgstr "承認待ち"
+
+#: src/illuminate/containers/AccountDrilldowns/AccountData/index.tsx:59
+msgid "Year"
+msgstr "年"
+
+#: src/illuminate/containers/DashboardFilters/listFilters.tsx:113
+msgid "Yes"
+msgstr "はい"
+
+#: src/containers/AccountDrilldowns/AccountSummary/index.tsx:47
+#~ msgid "buy center"
+#~ msgstr "バイセンター"
+
+#: src/illuminate/containers/AccountDrilldowns/AccountSummary/index.tsx:47
+#~ msgid "buying centers"
+#~ msgstr "購買センター"
+
+#: src/components/ContentWrapper/index.tsx:15
+#~ msgid "dashboard.Welcome"
+#~ msgstr "ダッシュボードへようこそ"
+
+#: src/illuminate/containers/AccountDrilldowns/AccountSummary/index.tsx:45
+#~ msgid "growth"
+#~ msgstr "成長"
+
+#: src/illuminate/containers/AccountDrilldowns/AccountSummary/index.tsx:46
+#~ msgid "plan"
+#~ msgstr "予定"
+
+#: src/illuminate/containers/AccountDrilldowns/AccountSummary/index.tsx:44
+#~ msgid "revenue"
+#~ msgstr "収益"
+
+#: src/containers/AccountDrilldowns/AccountSummary/index.tsx:53
+#~ msgid "total plan"
+#~ msgstr "トータルプラン"

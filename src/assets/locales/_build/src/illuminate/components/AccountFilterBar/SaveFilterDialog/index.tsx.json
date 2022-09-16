@@ -1,0 +1,34 @@
+{
+  "Name Filter": {
+    "origin": [
+      [
+        "src/illuminate/components/AccountFilterBar/SaveFilterDialog/index.tsx",
+        41
+      ]
+    ]
+  },
+  "Filter Name:": {
+    "origin": [
+      [
+        "src/illuminate/components/AccountFilterBar/SaveFilterDialog/index.tsx",
+        44
+      ]
+    ]
+  },
+  "Cancel": {
+    "origin": [
+      [
+        "src/illuminate/components/AccountFilterBar/SaveFilterDialog/index.tsx",
+        57
+      ]
+    ]
+  },
+  "Save": {
+    "origin": [
+      [
+        "src/illuminate/components/AccountFilterBar/SaveFilterDialog/index.tsx",
+        62
+      ]
+    ]
+  }
+}

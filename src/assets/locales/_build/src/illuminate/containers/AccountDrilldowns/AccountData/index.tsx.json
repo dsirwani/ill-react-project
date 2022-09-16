@@ -1,0 +1,138 @@
+{
+  "Revenue": {
+    "origin": [
+      [
+        "src/illuminate/containers/AccountDrilldowns/AccountData/index.tsx",
+        22
+      ]
+    ]
+  },
+  "Plan": {
+    "origin": [
+      [
+        "src/illuminate/containers/AccountDrilldowns/AccountData/index.tsx",
+        23
+      ]
+    ]
+  },
+  "January": {
+    "origin": [
+      [
+        "src/illuminate/containers/AccountDrilldowns/AccountData/index.tsx",
+        31
+      ]
+    ]
+  },
+  "February": {
+    "origin": [
+      [
+        "src/illuminate/containers/AccountDrilldowns/AccountData/index.tsx",
+        32
+      ]
+    ]
+  },
+  "March": {
+    "origin": [
+      [
+        "src/illuminate/containers/AccountDrilldowns/AccountData/index.tsx",
+        33
+      ]
+    ]
+  },
+  "April": {
+    "origin": [
+      [
+        "src/illuminate/containers/AccountDrilldowns/AccountData/index.tsx",
+        34
+      ]
+    ]
+  },
+  "May": {
+    "origin": [
+      [
+        "src/illuminate/containers/AccountDrilldowns/AccountData/index.tsx",
+        35
+      ]
+    ]
+  },
+  "June": {
+    "origin": [
+      [
+        "src/illuminate/containers/AccountDrilldowns/AccountData/index.tsx",
+        36
+      ]
+    ]
+  },
+  "July": {
+    "origin": [
+      [
+        "src/illuminate/containers/AccountDrilldowns/AccountData/index.tsx",
+        37
+      ]
+    ]
+  },
+  "August": {
+    "origin": [
+      [
+        "src/illuminate/containers/AccountDrilldowns/AccountData/index.tsx",
+        38
+      ]
+    ]
+  },
+  "September": {
+    "origin": [
+      [
+        "src/illuminate/containers/AccountDrilldowns/AccountData/index.tsx",
+        39
+      ]
+    ]
+  },
+  "October": {
+    "origin": [
+      [
+        "src/illuminate/containers/AccountDrilldowns/AccountData/index.tsx",
+        40
+      ]
+    ]
+  },
+  "November": {
+    "origin": [
+      [
+        "src/illuminate/containers/AccountDrilldowns/AccountData/index.tsx",
+        41
+      ]
+    ]
+  },
+  "December": {
+    "origin": [
+      [
+        "src/illuminate/containers/AccountDrilldowns/AccountData/index.tsx",
+        42
+      ]
+    ]
+  },
+  "Data type": {
+    "origin": [
+      [
+        "src/illuminate/containers/AccountDrilldowns/AccountData/index.tsx",
+        48
+      ]
+    ]
+  },
+  "Year": {
+    "origin": [
+      [
+        "src/illuminate/containers/AccountDrilldowns/AccountData/index.tsx",
+        59
+      ]
+    ]
+  },
+  "Month": {
+    "origin": [
+      [
+        "src/illuminate/containers/AccountDrilldowns/AccountData/index.tsx",
+        69
+      ]
+    ]
+  }
+}
